@@ -1,0 +1,5315 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Fairy Maid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW02 Kedama",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW03 Wheel Ghost",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW04 Mountain Sarugami",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Monkey",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW05 Tupai",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW06 Netherworld Phantoms",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW07 Moon Rabbit Corps",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Rabbit Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/6.png"
+			}
+		},
+		{
+			"name": "CW08 Futakuchi-onna",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Horror",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW09 Dream Seal",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW10 Charming Siege from All Sides",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW11 Tide-Flowing Jewel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/10.png"
+			}
+		},
+		{
+			"name": "CU01 Rainfall Fairy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/11.png"
+			}
+		},
+		{
+			"name": "CU02 Stray Vulgar Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/12.png"
+			}
+		},
+		{
+			"name": "CU03 Karasu-Tengu",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Citizen",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/13.png"
+			}
+		},
+		{
+			"name": "CU04 Book-Reading Youkai",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/14.png"
+			}
+		},
+		{
+			"name": "CU05 Hell Raven",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/15.png"
+			}
+		},
+		{
+			"name": "CU06 Goliath Doll",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Artifact Creature — Toy",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU07 Dream Fracture",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/17.png"
+			}
+		},
+		{
+			"name": "UU08 Avert Incident",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU11 Magician's Grimoire",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Book",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/19.png"
+			}
+		},
+		{
+			"name": "CU10 Spin the Cephalic Plate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU15 Psychokinesis App",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/21.png"
+			}
+		},
+		{
+			"name": "CU09 Lingering Cold",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU13 Seed of Unknown Form",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU14 Brain Fingerprint",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU12 Eagle Shooting",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/25.png"
+			}
+		},
+		{
+			"name": "CB01 Fairy of Old Hell",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/26.png"
+			}
+		},
+		{
+			"name": "CB02 Bakebake",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/27.png"
+			}
+		},
+		{
+			"name": "CB03 Mouryo",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/28.png"
+			}
+		},
+		{
+			"name": "CB04 Zenki and Goki",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Minion",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/29.png"
+			}
+		},
+		{
+			"name": "CB06 Kiketsu Family Underling",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Otter Spirit",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/30.png"
+			}
+		},
+		{
+			"name": "CB05 Mishaguji",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Snake Spirit",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/31.png"
+			}
+		},
+		{
+			"name": "CB07 Umatsuki",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horse Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/32.png"
+			}
+		},
+		{
+			"name": "UB14 Unexplained Fever",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB09 Into Delirium",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB10 Corpse Shopping District",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB08 Curse of Human Imagination",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB12 Return to Action",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/37.png"
+			}
+		},
+		{
+			"name": "CB14 Vanquish the Weak",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/38.png"
+			}
+		},
+		{
+			"name": "CB13 Pluck Pigeon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/39.png"
+			}
+		},
+		{
+			"name": "CB15 Lunatic Torch Relay",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/40.png"
+			}
+		},
+		{
+			"name": "CR01 Sunflower Fairy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/41.png"
+			}
+		},
+		{
+			"name": "CR02 Little Devil",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Devil",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/42.png"
+			}
+		},
+		{
+			"name": "CR03 Chief Fairy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/43.png"
+			}
+		},
+		{
+			"name": "CR05 Boisterous Oni",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ogre",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/44.png"
+			}
+		},
+		{
+			"name": "CR04 Seto Taishou",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/45.png"
+			}
+		},
+		{
+			"name": "CR07 Raijuu",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/46.png"
+			}
+		},
+		{
+			"name": "CR09 Soaring Idaten",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/47.png"
+			}
+		},
+		{
+			"name": "UR14 Gagouji's Cyclone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/48.png"
+			}
+		},
+		{
+			"name": "UR15 Tsukumogami Parade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/49.png"
+			}
+		},
+		{
+			"name": "CR10 Artful Sacrifice",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/50.png"
+			}
+		},
+		{
+			"name": "CR16 Honest Man's Death",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/51.png"
+			}
+		},
+		{
+			"name": "UR07 Stardust Reverie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/52.png"
+			}
+		},
+		{
+			"name": "CR13 Blazing Dragon Veins",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/53.png"
+			}
+		},
+		{
+			"name": "CR14 Mine Blast",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/54.png"
+			}
+		},
+		{
+			"name": "CR15 Song of the Night Sparrow",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/55.png"
+			}
+		},
+		{
+			"name": "CG01 Makai Fairy",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/56.png"
+			}
+		},
+		{
+			"name": "CG02 Unfrozen Frog",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Frog",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/57.png"
+			}
+		},
+		{
+			"name": "CG03 Wonder Stone",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/58.png"
+			}
+		},
+		{
+			"name": "CG05 Lesser Tanuki",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/59.png"
+			}
+		},
+		{
+			"name": "CG04 Great Fairy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/60.png"
+			}
+		},
+		{
+			"name": "CG06 Gouyoku Alliance Scout",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bird Spirit Scout",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/61.png"
+			}
+		},
+		{
+			"name": "CG07 Giant Toad",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Frog",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/62.png"
+			}
+		},
+		{
+			"name": "CG12 Confront the Unknown",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/63.png"
+			}
+		},
+		{
+			"name": "CG09 Knockout in Three Steps",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/64.png"
+			}
+		},
+		{
+			"name": "CG10 Blossoming of Gensokyo",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/65.png"
+			}
+		},
+		{
+			"name": "CG11 Sighing Osakabe Mask",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/66.png"
+			}
+		},
+		{
+			"name": "CG14 September Full Moon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/67.png"
+			}
+		},
+		{
+			"name": "CG13 Return to Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/68.png"
+			}
+		},
+		{
+			"name": "CG08 Oni Bender",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/69.png"
+			}
+		},
+		{
+			"name": "UG12 Twin Typhoons",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/70.png"
+			}
+		},
+		{
+			"name": "UW01 Nazrin",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}",
+			"type": "Creature — Mouse Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/71.png"
+			}
+		},
+		{
+			"name": "UW02 Eika Ebisu",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/72.png"
+			}
+		},
+		{
+			"name": "UW03 Kutaka Niwatari",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Spirit Advisor",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/73.png"
+			}
+		},
+		{
+			"name": "UW04 Hong Meiling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Monk",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/74.png"
+			}
+		},
+		{
+			"name": "UW06 Aunn Komano",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Dog Gargoyle",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/75.png"
+			}
+		},
+		{
+			"name": "UW07 Hina Kagiyama",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/76.png"
+			}
+		},
+		{
+			"name": "UW08 Keine Kamishirasawa",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Beast Advisor",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/77.png"
+			}
+		},
+		{
+			"name": "UW05 Rei'sen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/78.png"
+			}
+		},
+		{
+			"name": "UW10 Veils Like Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/79.png"
+			}
+		},
+		{
+			"name": "UW11 Roukanken and Hakurouken",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/80.png"
+			}
+		},
+		{
+			"name": "UW09 Haniwa Cavalry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/81.png"
+			}
+		},
+		{
+			"name": "UU02 Seiran",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Rabbit Scout",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/82.png"
+			}
+		},
+		{
+			"name": "UU04 Renko Usami and Merry Hearn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/83.png"
+			}
+		},
+		{
+			"name": "UU03 Akyuu Hieda",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/84.png"
+			}
+		},
+		{
+			"name": "UU06 Lyrica Prismriver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit Bard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/85.png"
+			}
+		},
+		{
+			"name": "UU05 Rinnosuke Morichika",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Artificer Advisor",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/86.png"
+			}
+		},
+		{
+			"name": "UU01 Hisoutensoku",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact — Vehicle Illusion",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/87.png"
+			}
+		},
+		{
+			"name": "UU07 Fact or Fiction",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/88.png"
+			}
+		},
+		{
+			"name": "CU08 Logical Wall",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/89.png"
+			}
+		},
+		{
+			"name": "UU09 Divining Crop",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/90.png"
+			}
+		},
+		{
+			"name": "UU10 Perfect Freeze",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/91.png"
+			}
+		},
+		{
+			"name": "UU11 Kogasa Tatara",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Equipment Spirit",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/92.png"
+			}
+		},
+		{
+			"name": "UB02 Star Sapphire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/93.png"
+			}
+		},
+		{
+			"name": "UB01 Rumia",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Imp",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/94.png"
+			}
+		},
+		{
+			"name": "UB07 Shion Yorigami",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/95.png"
+			}
+		},
+		{
+			"name": "UB05 Medicine Melancholy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Toy Spirit",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/96.png"
+			}
+		},
+		{
+			"name": "UB03 Yoshika Miyako",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/97.png"
+			}
+		},
+		{
+			"name": "UB06 Lunasa Prismriver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit Bard",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/98.png"
+			}
+		},
+		{
+			"name": "UB04 Nareko Michigami",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/99.png"
+			}
+		},
+		{
+			"name": "UB08 Evil Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/100.png"
+			}
+		},
+		{
+			"name": "UB09 Fox Winder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/101.png"
+			}
+		},
+		{
+			"name": "UB10 Path to Yomotsu-Hirasaka",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/102.png"
+			}
+		},
+		{
+			"name": "UB11 Nimble Fabric",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/103.png"
+			}
+		},
+		{
+			"name": "UR03 Parsee Mizuhashi",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Troll",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/104.png"
+			}
+		},
+		{
+			"name": "UR02 Sunny Milk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/105.png"
+			}
+		},
+		{
+			"name": "UR01 Mike Goutokuji",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/106.png"
+			}
+		},
+		{
+			"name": "UR04 Tojiko Soga",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Mystic",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/107.png"
+			}
+		},
+		{
+			"name": "UR05 Momiji Inubashiri",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Wolf Soldier",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/108.png"
+			}
+		},
+		{
+			"name": "UR06 Merlin Prismriver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spirit Bard",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/109.png"
+			}
+		},
+		{
+			"name": "CR12 Lunatic Impact",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/110.png"
+			}
+		},
+		{
+			"name": "UR08 Event Horizon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/111.png"
+			}
+		},
+		{
+			"name": "UR09 Hungry Demon Siege",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/112.png"
+			}
+		},
+		{
+			"name": "UR10 Subterranean Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/113.png"
+			}
+		},
+		{
+			"name": "UR11 Sword of Hisou",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/114.png"
+			}
+		},
+		{
+			"name": "UG01 Shizuha Aki",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/115.png"
+			}
+		},
+		{
+			"name": "UG04 Chen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat Minion",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/116.png"
+			}
+		},
+		{
+			"name": "UG03 Lily White",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Faerie",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/117.png"
+			}
+		},
+		{
+			"name": "UG02 Luna Child",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/118.png"
+			}
+		},
+		{
+			"name": "UG06 Ringo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Rabbit Scout",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/119.png"
+			}
+		},
+		{
+			"name": "UG05 Kyouko Kasodani",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/120.png"
+			}
+		},
+		{
+			"name": "UG08 Missing Power",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/121.png"
+			}
+		},
+		{
+			"name": "UG07 Ubame Chirizuka",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Hag Noble",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/122.png"
+			}
+		},
+		{
+			"name": "UG09 Parade of One Hundred Demons",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/123.png"
+			}
+		},
+		{
+			"name": "UG10 Three Strikes at Midnight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/124.png"
+			}
+		},
+		{
+			"name": "UG11 Illusionary Reliquiae",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/125.png"
+			}
+		},
+		{
+			"name": "RW01 Mayumi Joutouguu",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/126.png"
+			}
+		},
+		{
+			"name": "RW02 Komachi Onozuka",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Pilot",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/127.png"
+			}
+		},
+		{
+			"name": "RW03 Toyohime Watatsuki",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Moonfolk Noble",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/128.png"
+			}
+		},
+		{
+			"name": "RW04 Guse Flash",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/129.png"
+			}
+		},
+		{
+			"name": "RW05 Song of Falling Stars",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/130.png"
+			}
+		},
+		{
+			"name": "RW06 Lilies of Murderous Intent",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/131.png"
+			}
+		},
+		{
+			"name": "RW07 Algorithmic Phantom",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/132.png"
+			}
+		},
+		{
+			"name": "RU01 Satori Komeiji",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Eye Yeti Detective",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/133.png"
+			}
+		},
+		{
+			"name": "RU02 Alice Margatroid",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Creature — Wizard Artificer",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/134.png"
+			}
+		},
+		{
+			"name": "RU03 Patchouli Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/135.png"
+			}
+		},
+		{
+			"name": "RU04 Artificial Disaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/136.png"
+			}
+		},
+		{
+			"name": "RU05 Prism Concerto",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/137.png"
+			}
+		},
+		{
+			"name": "RU06 Time Stop",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/138.png"
+			}
+		},
+		{
+			"name": "RU07 Symposium of Post-Mysticism",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/139.png"
+			}
+		},
+		{
+			"name": "RB01 Joon Yorigami",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/140.png"
+			}
+		},
+		{
+			"name": "RB02 Yuyuko Saigyouji",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit Noble",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/141.png"
+			}
+		},
+		{
+			"name": "RB03 Remilia Scarlet",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/142.png"
+			}
+		},
+		{
+			"name": "RB04 Journey to the Abandoned Station",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/143.png"
+			}
+		},
+		{
+			"name": "RB07 Yomotsu-Shikome's Grasp",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/144.png"
+			}
+		},
+		{
+			"name": "RB06 Spirit Medium's Melancholy",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/145.png"
+			}
+		},
+		{
+			"name": "RB05 Comets on Earth",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/146.png"
+			}
+		},
+		{
+			"name": "RR02 Tenshi Hinanawi",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Angel Rogue",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/147.png"
+			}
+		},
+		{
+			"name": "RR03 Utsuho Reiuji",
+			"rarity": "rare",
+			"mana_cost": "{8}{R}{R}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/148.png"
+			}
+		},
+		{
+			"name": "RR04 Danmaku Business Boom",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/149.png"
+			}
+		},
+		{
+			"name": "RR05 Showstopping Surprise",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/150.png"
+			}
+		},
+		{
+			"name": "RR06 An Offering to the Ownerless",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/151.png"
+			}
+		},
+		{
+			"name": "RR07 Deeds of Devilish Beasts",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/152.png"
+			}
+		},
+		{
+			"name": "RG01 Koishi Komeiji",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Eye Yeti",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/153.png"
+			}
+		},
+		{
+			"name": "RG02 Raiko Horikawa",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Spirit Bard",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/154.png"
+			}
+		},
+		{
+			"name": "RG03 Yuuka Kazami",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Horror Shaman",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/155.png"
+			}
+		},
+		{
+			"name": "RG04 Seasons Past",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/156.png"
+			}
+		},
+		{
+			"name": "RG05 Gluttony of the Deepest Depths",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/157.png"
+			}
+		},
+		{
+			"name": "RG06 Dream Express",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/158.png"
+			}
+		},
+		{
+			"name": "RG07 Green Spiral",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/159.png"
+			}
+		},
+		{
+			"name": "MW01 Eiki Shiki, Yamaxandu",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Archon",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/160.png"
+			}
+		},
+		{
+			"name": "MW02 Great Hakurei Barrier",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/161.png"
+			}
+		},
+		{
+			"name": "MU01 Eirin Yagokoro",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elder Moonfolk",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/162.png"
+			}
+		},
+		{
+			"name": "MU02 Futatsuiwa Clan's Curse",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/163.png"
+			}
+		},
+		{
+			"name": "MB01 Yachie Kicchou",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Turtle Dragon Praetor",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/164.png"
+			}
+		},
+		{
+			"name": "MB02 Perfect Possession",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/165.png"
+			}
+		},
+		{
+			"name": "MR01 Saki Kurokoma",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Pegasus Praetor",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/166.png"
+			}
+		},
+		{
+			"name": "MR02 Evil Spirit's Augury",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/167.png"
+			}
+		},
+		{
+			"name": "MG01 Yuuma Toutetsu",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Sheep Praetor",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/168.png"
+			}
+		},
+		{
+			"name": "MG02 Ariya Iwanaga",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/169.png"
+			}
+		},
+		{
+			"name": "CA03 Tatterkite",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/170.png"
+			}
+		},
+		{
+			"name": "CA02 Basic Shikigami",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Minion Clue",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/171.png"
+			}
+		},
+		{
+			"name": "CA04 Lively Bullet Golem",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Elemental Golem",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/172.png"
+			}
+		},
+		{
+			"name": "CA05 Oboroguruma",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/173.png"
+			}
+		},
+		{
+			"name": "CA06 Heavenly Keystone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/174.png"
+			}
+		},
+		{
+			"name": "UA07 Lunar Udonge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/175.png"
+			}
+		},
+		{
+			"name": "UA03 Shinigami's Boat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/176.png"
+			}
+		},
+		{
+			"name": "UA05 Yamanba's Cleaver",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/177.png"
+			}
+		},
+		{
+			"name": "UA06 Substitute Jizo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/178.png"
+			}
+		},
+		{
+			"name": "UA04 Palanquin Ship",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/179.png"
+			}
+		},
+		{
+			"name": "CL01 Garden of the Sun",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/180.png"
+			}
+		},
+		{
+			"name": "UL01 Summit of the World",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/181.png"
+			}
+		},
+		{
+			"name": "UL02 Through the Back Door",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/182.png"
+			}
+		},
+		{
+			"name": "UL03 Sea of Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/183.png"
+			}
+		},
+		{
+			"name": "UL04 Streets of Old Hell",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/184.png"
+			}
+		},
+		{
+			"name": "UL05 Downtown Beast Realm",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/185.png"
+			}
+		},
+		{
+			"name": "RZ01 Youmu Konpaku",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Spirit Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/186.png"
+			}
+		},
+		{
+			"name": "RZ05 Reisen Udongein Inaba",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Rabbit Deserter",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/187.png"
+			}
+		},
+		{
+			"name": "RZ09 Aya Shameimaru",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Bird Rogue",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/188.png"
+			}
+		},
+		{
+			"name": "RZ13 Seija Kijin",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Gremlin Advisor",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/189.png"
+			}
+		},
+		{
+			"name": "RZ17 Cirno",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Elemental Faerie",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/190.png"
+			}
+		},
+		{
+			"name": "RZ25 Sanae Kochiya",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Human Spirit Cleric",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/191.png"
+			}
+		},
+		{
+			"name": "RZ33 Marisa Kirisame",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/192.png"
+			}
+		},
+		{
+			"name": "RZ21 Reimu Hakurei",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/193.png"
+			}
+		},
+		{
+			"name": "MZ06 Kasen Ibaraki",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Elder Ogre Mystic",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/194.png"
+			}
+		},
+		{
+			"name": "MZ07 Okina Matara",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Creature — Elder Spirit",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/195.png"
+			}
+		},
+		{
+			"name": "MZ08 Yukari Yakumo",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Elder Warlock",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/196.png"
+			}
+		},
+		{
+			"name": "MZ09 Mima",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/197.png"
+			}
+		},
+		{
+			"name": "MZ10 Hecatia Lapislazuli",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Creature — Demon",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/198.png"
+			}
+		},
+		{
+			"name": "CA07 Genuine Magatama",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/199.png"
+			}
+		},
+		{
+			"name": "CA08 Lunar Treasure",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/200.png"
+			}
+		},
+		{
+			"name": "CA09 Stone Cherry",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/201.png"
+			}
+		},
+		{
+			"name": "CA10 Dragon Gem",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/202.png"
+			}
+		},
+		{
+			"name": "CL02 Canal of Willows",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/203.png"
+			}
+		},
+		{
+			"name": "CL03 Sanzu Riverbank",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/204.png"
+			}
+		},
+		{
+			"name": "CL04 Rainbow Dragon Cave",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/205.png"
+			}
+		},
+		{
+			"name": "CL05 False Heaven Shelf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/206.png"
+			}
+		},
+		{
+			"name": "CL06 Bamboo Forest of the Lost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/207.png"
+			}
+		},
+		{
+			"name": "CL07 Genbu Ravine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/208.png"
+			}
+		},
+		{
+			"name": "CL08 Hakurei Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/209.png"
+			}
+		},
+		{
+			"name": "CL09 Road of Reconsideration",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/210.png"
+			}
+		},
+		{
+			"name": "CL10 Netherworld Orchard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/211.png"
+			}
+		},
+		{
+			"name": "CA11 Devil's Library",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land — Clue",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/212.png"
+			}
+		},
+		{
+			"name": "MZ05 Five Impossible Requests",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/213.png"
+			}
+		},
+		{
+			"name": "MZ02 Zanmu Nippaku",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Human Ogre Noble",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/214.png"
+			}
+		},
+		{
+			"name": "MZ04 Momoyo Himemushi",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Insect Noble",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/215.png"
+			}
+		},
+		{
+			"name": "MZ01 Divine Invocation",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/216.png"
+			}
+		},
+		{
+			"name": "MZ14 Junko",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Creature",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/217.png"
+			}
+		},
+		{
+			"name": "MZ15 Suika Ibuki",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Ogre",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/218.png"
+			}
+		},
+		{
+			"name": "MZ11 Suwako Moriya",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/219.png"
+			}
+		},
+		{
+			"name": "MZ12 Keiki Haniyasushin",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Creature — Spirit Artificer",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/220.png"
+			}
+		},
+		{
+			"name": "MZ13 Kanako Yasaka",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Spirit Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/221.png"
+			}
+		},
+		{
+			"name": "RZ29 Sakuya Izayoi",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/222.png"
+			}
+		},
+		{
+			"name": "RZ37 Mamizou Futatsuiwa",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Dog Rogue",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/223.png"
+			}
+		},
+		{
+			"name": "RZ14 Shinmyoumaru Sukuna",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Gnome Noble",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/224.png"
+			}
+		},
+		{
+			"name": "RZ15 Clownpiece",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Faerie Nymph",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/225.png"
+			}
+		},
+		{
+			"name": "RZ02 Byakuren Hijiri",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Wizard Monk",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/226.png"
+			}
+		},
+		{
+			"name": "RZ19 Kokoro Hata",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Artifact Creature — Spirit Performer",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/227.png"
+			}
+		},
+		{
+			"name": "RZ18 Yuugi Hoshiguma",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Ogre",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/228.png"
+			}
+		},
+		{
+			"name": "RZ03 Satono Nishida and Mai Teireida",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/229.png"
+			}
+		},
+		{
+			"name": "RZ22 Yorihime Watatsuki",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Moonfolk Noble Cleric",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/230.png"
+			}
+		},
+		{
+			"name": "RZ23 Jeweled Pagoda",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/231.png"
+			}
+		},
+		{
+			"name": "RZ10 Tsukasa Kudamaki",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Fox Advisor",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/232.png"
+			}
+		},
+		{
+			"name": "RZ26 Misumaru Tamatsukuri",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Spirit Artificer",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/233.png"
+			}
+		},
+		{
+			"name": "RZ27 Yuiman Asama",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Spirit",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/234.png"
+			}
+		},
+		{
+			"name": "RZ11 Mizuchi Miyadeguchi",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/235.png"
+			}
+		},
+		{
+			"name": "RZ30 Hisami Yomotsu",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Hag Horror",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/236.png"
+			}
+		},
+		{
+			"name": "RZ31 Miko Toyosatomimi",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Mystic Noble",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/237.png"
+			}
+		},
+		{
+			"name": "RZ34 Nitori Kawashiro",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Turtle Artificer",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/238.png"
+			}
+		},
+		{
+			"name": "RZ35 Sumireko Usami",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/239.png"
+			}
+		},
+		{
+			"name": "RZ38 Chiyari Tenkajin",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/240.png"
+			}
+		},
+		{
+			"name": "RZ39 Kaguya Houraisan",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Moonfolk Noble",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/241.png"
+			}
+		},
+		{
+			"name": "RZ41 Chimata Tenkyuu",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/242.png"
+			}
+		},
+		{
+			"name": "RZ42 Ultramarine Orb Elixir",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/243.png"
+			}
+		},
+		{
+			"name": "UA02 Oni-Shaped Sculpting Art",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Ogre Construct",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/244.png"
+			}
+		},
+		{
+			"name": "UB12 Corpse Tongji",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/245.png"
+			}
+		},
+		{
+			"name": "UB13 Embryo's Dream",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/246.png"
+			}
+		},
+		{
+			"name": "CB11 Mishaguji's Scourge",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/247.png"
+			}
+		},
+		{
+			"name": "UB15 Higan Retour",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/248.png"
+			}
+		},
+		{
+			"name": "CG16 Glimpse of Paradise",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/249.png"
+			}
+		},
+		{
+			"name": "UG13 Miracle Fruit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/250.png"
+			}
+		},
+		{
+			"name": "UG14 Occult Ball",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact — Clue",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/251.png"
+			}
+		},
+		{
+			"name": "UG15 Necronomicon Kanji Edition",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Book",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/252.png"
+			}
+		},
+		{
+			"name": "UR12 Radiant Treasure Gun",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/253.png"
+			}
+		},
+		{
+			"name": "UR13 Hakurei Yin Yang Orbs",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/254.png"
+			}
+		},
+		{
+			"name": "CR11 Melancholic Ogress Mask",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/255.png"
+			}
+		},
+		{
+			"name": "CR08 Phantom Dinning",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/256.png"
+			}
+		},
+		{
+			"name": "UU12 Astronomical Cover-Up",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/257.png"
+			}
+		},
+		{
+			"name": "UU13 Ensoul Artifact",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/258.png"
+			}
+		},
+		{
+			"name": "UU14 Elemental Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/259.png"
+			}
+		},
+		{
+			"name": "UU15 Dragon God Statue",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/260.png"
+			}
+		},
+		{
+			"name": "UW12 Vivid Color Downpour",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/261.png"
+			}
+		},
+		{
+			"name": "UW13 Share a Drink",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/262.png"
+			}
+		},
+		{
+			"name": "CW16 Soul Torch",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Clue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/263.png"
+			}
+		},
+		{
+			"name": "UW15 Miracle Mallet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/264.png"
+			}
+		},
+		{
+			"name": "UZ01 Minoriko Aki",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/265.png"
+			}
+		},
+		{
+			"name": "UZ03 Kagerou Imaizumi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Werewolf Citizen",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/266.png"
+			}
+		},
+		{
+			"name": "UZ05 Wakasagihime",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Merfolk Citizen",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/267.png"
+			}
+		},
+		{
+			"name": "UZ25 Enoko Mitsugashira",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elder Dog",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/268.png"
+			}
+		},
+		{
+			"name": "UZ07 Ichirin Kumoi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Monk",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/269.png"
+			}
+		},
+		{
+			"name": "UZ09 Kisume",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Ouphe",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/270.png"
+			}
+		},
+		{
+			"name": "UZ10 Seiga Kaku",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/271.png"
+			}
+		},
+		{
+			"name": "UZ11 Letty Whiterock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Snow Creature — Spirit",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/272.png"
+			}
+		},
+		{
+			"name": "UZ13 Rin Kaenbyou",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Cat Horror",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/273.png"
+			}
+		},
+		{
+			"name": "UZ23 Benben Tsukumo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Spirit Bard",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/274.png"
+			}
+		},
+		{
+			"name": "UZ14 Mystia Lorelei",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Bird Bard",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/275.png"
+			}
+		},
+		{
+			"name": "UZ17 Urumi Ushizaki",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Ox Ogre",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/276.png"
+			}
+		},
+		{
+			"name": "UZ18 Yatsuhashi Tsukumo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Artifact Creature — Spirit Bard",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/277.png"
+			}
+		},
+		{
+			"name": "UZ19 Nemuno Sakata",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Hag",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/278.png"
+			}
+		},
+		{
+			"name": "UZ21 Futo Mononobe",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Wizard Mystic",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/279.png"
+			}
+		},
+		{
+			"name": "UZ22 Iku Nagae",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Fish Advisor",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/280.png"
+			}
+		},
+		{
+			"name": "UZ15 Evil in the Mirror",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/281.png"
+			}
+		},
+		{
+			"name": "UZ06 Tewi Inaba",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Rabbit Rogue",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/282.png"
+			}
+		},
+		{
+			"name": "UZ24 Sekibanki",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Horror Citizen",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/283.png"
+			}
+		},
+		{
+			"name": "UZ26 Beyond the Rainbow Door",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/284.png"
+			}
+		},
+		{
+			"name": "UZ27 Takane Yamashiro",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Monkey Advisor",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/285.png"
+			}
+		},
+		{
+			"name": "UZ28 Miyoi Okunoda",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/286.png"
+			}
+		},
+		{
+			"name": "UZ29 Guilty or Not Guilty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/287.png"
+			}
+		},
+		{
+			"name": "UZ31 Narumi Yatadera",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Wizard",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/288.png"
+			}
+		},
+		{
+			"name": "UZ30 Kosuzu Motoori",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/289.png"
+			}
+		},
+		{
+			"name": "UZ32 Mini-Hakkero",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/290.png"
+			}
+		},
+		{
+			"name": "UZ33 Wriggle Nightbug",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/291.png"
+			}
+		},
+		{
+			"name": "UZ34 Yamame Kurodani",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/292.png"
+			}
+		},
+		{
+			"name": "UZ35 Pain Flow",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/293.png"
+			}
+		},
+		{
+			"name": "UZ37 Shou Toramaru",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Cat Avatar",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/294.png"
+			}
+		},
+		{
+			"name": "UZ36 Mayohiga",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/295.png"
+			}
+		},
+		{
+			"name": "UZ38 Hakurei Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Instant",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/296.png"
+			}
+		},
+		{
+			"name": "UZ39 Eternity Larva",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Insect Faerie",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/297.png"
+			}
+		},
+		{
+			"name": "UZ40 Star of Ingenious Brilliance",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/298.png"
+			}
+		},
+		{
+			"name": "UZ41 Moriya Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/299.png"
+			}
+		},
+		{
+			"name": "UZ42 Minamitsu Murasa",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Spirit Pilot",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/300.png"
+			}
+		},
+		{
+			"name": "UZ43 Saigyou Ayakashi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/301.png"
+			}
+		},
+		{
+			"name": "UZ44 Sagacious Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/302.png"
+			}
+		},
+		{
+			"name": "UZ45 Sannyo Komakusa",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Hag Rogue",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/303.png"
+			}
+		},
+		{
+			"name": "UZ46 Komakusa of Massacre",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/304.png"
+			}
+		},
+		{
+			"name": "UZ47 Underworld Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/305.png"
+			}
+		},
+		{
+			"name": "UZ48 Moon Invasion Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Creature — Faerie Army",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/306.png"
+			}
+		},
+		{
+			"name": "UZ49 Chimi Houjuu",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/307.png"
+			}
+		},
+		{
+			"name": "CZ01 High-Speed Granny",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Enchantment Creature — Human Illusion",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/308.png"
+			}
+		},
+		{
+			"name": "CZ02 Lake-Dwelling Monster",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Enchantment Creature — Beast Illusion",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/309.png"
+			}
+		},
+		{
+			"name": "CZ03 Watcher in the Gap",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Enchantment Creature — Horror Illusion",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/310.png"
+			}
+		},
+		{
+			"name": "CZ04 Train Bisection",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Enchantment Creature — Zombie Illusion",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/311.png"
+			}
+		},
+		{
+			"name": "CZ05 Ominous Caller",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Enchantment Creature — Toy Illusion",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/312.png"
+			}
+		},
+		{
+			"name": "RA01 Unidentified Flying Object",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment Vehicle",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/313.png"
+			}
+		},
+		{
+			"name": "RL01 Old Hell of Blazing Fires",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/314.png"
+			}
+		},
+		{
+			"name": "RL02 New Hell of Deep Shadows",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/315.png"
+			}
+		},
+		{
+			"name": "CB16 Youma Book",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Book",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/316.png"
+			}
+		},
+		{
+			"name": "CG15 Old History of an Untrodden Land",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/317.png"
+			}
+		},
+		{
+			"name": "CR06 Keiga Family Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wolf Spirit Soldier",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/318.png"
+			}
+		},
+		{
+			"name": "CU16 Tome Familiar",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Book Minion",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/319.png"
+			}
+		},
+		{
+			"name": "UW14 Eight-Shaku Occult Pillar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/320.png"
+			}
+		},
+		{
+			"name": "UZ50 Wild Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/321.png"
+			}
+		},
+		{
+			"name": "UZ02 Son Biten",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Monkey Druid",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/322.png"
+			}
+		},
+		{
+			"name": "MZ16 Gensokyo Chronicle",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Artifact — Book",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/323.png"
+			}
+		},
+		{
+			"name": "RZ04 Devil's Recitation",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/324.png"
+			}
+		},
+		{
+			"name": "RZ08 Mind Starmine",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/325.png"
+			}
+		},
+		{
+			"name": "RZ12 Nina Watari",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Oyster Dragon",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/326.png"
+			}
+		},
+		{
+			"name": "RZ20 Box of a Hundred Medicines",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/327.png"
+			}
+		},
+		{
+			"name": "RZ16 Starbow Break",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/328.png"
+			}
+		},
+		{
+			"name": "RZ06 Hatate Himekaidou",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird Shaman",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/329.png"
+			}
+		},
+		{
+			"name": "RZ07 Ran Yakumo",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Fox Minion",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/330.png"
+			}
+		},
+		{
+			"name": "RZ44 Megumu Iizunamaru",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Creature — Bird Noble",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/331.png"
+			}
+		},
+		{
+			"name": "RZ47 Sagume Kishin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Moonfolk Advisor",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/332.png"
+			}
+		},
+		{
+			"name": "RZ50 Nue Houjuu",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Shapeshifter Horror",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/333.png"
+			}
+		},
+		{
+			"name": "RZ53 Flandre Scarlet",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Creature — Vampire",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/334.png"
+			}
+		},
+		{
+			"name": "RZ45 Butterfly Dream",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/335.png"
+			}
+		},
+		{
+			"name": "RZ48 Vengeful Spirit Mass",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/336.png"
+			}
+		},
+		{
+			"name": "RZ52 Palace of the Earth Spirits",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/337.png"
+			}
+		},
+		{
+			"name": "RZ55 Sea of the Blood Pools",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/338.png"
+			}
+		},
+		{
+			"name": "RR01 Mokou Fujiwara",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Wizard Ranger",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/339.png"
+			}
+		},
+		{
+			"name": "UA01 Streaming Doll",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Toy",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/340.png"
+			}
+		},
+		{
+			"name": "RZ43 Primate Spirit Garden",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/341.png"
+			}
+		},
+		{
+			"name": "RZ46 Narrow Confines of Avici",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/342.png"
+			}
+		},
+		{
+			"name": "RZ49 Ministry of Right and Wrong",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/343.png"
+			}
+		},
+		{
+			"name": "RZ51 Nefarious Wealth",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/344.png"
+			}
+		},
+		{
+			"name": "RZ54 O-Namazu",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Creature — Nightmare Fish",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/345.png"
+			}
+		},
+		{
+			"name": "RA02 Scroll of Fate",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/346.png"
+			}
+		},
+		{
+			"name": "CA01 Owotoshi Harvester",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Spirit",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/347.png"
+			}
+		},
+		{
+			"name": "LL01 Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/348.png"
+			}
+		},
+		{
+			"name": "LL05 Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/349.png"
+			}
+		},
+		{
+			"name": "LL09 Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/350.png"
+			}
+		},
+		{
+			"name": "LL13 Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/351.png"
+			}
+		},
+		{
+			"name": "LL17 Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/352.png"
+			}
+		},
+		{
+			"name": "LL02 Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/353.png"
+			}
+		},
+		{
+			"name": "LL03 Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/354.png"
+			}
+		},
+		{
+			"name": "LL04 Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/355.png"
+			}
+		},
+		{
+			"name": "LL06 Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/356.png"
+			}
+		},
+		{
+			"name": "LL07 Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/357.png"
+			}
+		},
+		{
+			"name": "LL08 Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/358.png"
+			}
+		},
+		{
+			"name": "LL10 Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/359.png"
+			}
+		},
+		{
+			"name": "LL11 Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/360.png"
+			}
+		},
+		{
+			"name": "LL12 Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/361.png"
+			}
+		},
+		{
+			"name": "LL14 Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/362.png"
+			}
+		},
+		{
+			"name": "LL16 Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/363.png"
+			}
+		},
+		{
+			"name": "LL15 Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/364.png"
+			}
+		},
+		{
+			"name": "LL19 Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/365.png"
+			}
+		},
+		{
+			"name": "LL18 Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/366.png"
+			}
+		},
+		{
+			"name": "LL20 Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/367.png"
+			}
+		},
+		{
+			"name": "A0 Gensokyo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/368.png"
+			}
+		},
+		{
+			"name": "CW14 Reverse Invoker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/369.png"
+			}
+		},
+		{
+			"name": "CW12 Power Resonance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/370.png"
+			}
+		},
+		{
+			"name": "CW13 Settle Beyond Reality",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/371.png"
+			}
+		},
+		{
+			"name": "CW15 Evil-Sealing Circle",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/372.png"
+			}
+		},
+		{
+			"name": "UL06 Barrier Fault",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/373.png"
+			}
+		},
+		{
+			"name": "CU17 Lunar Siege",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/374.png"
+			}
+		},
+		{
+			"name": "CB17 Spread of Scarlet Mist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/375.png"
+			}
+		},
+		{
+			"name": "CR17 Beast Yakuza's Con",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/376.png"
+			}
+		},
+		{
+			"name": "CG17 New Rivals on the Mountain",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/377.png"
+			}
+		},
+		{
+			"name": "MZ03 Doremy Sweet",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Doremy",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/378.png"
+			}
+		},
+		{
+			"name": "RZ32 End of the Sixty Year Cycle",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/379.png"
+			}
+		},
+		{
+			"name": "RZ36 Card Market Bubble",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/380.png"
+			}
+		},
+		{
+			"name": "RZ40 Days Go On, Unchanging",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/381.png"
+			}
+		},
+		{
+			"name": "UZ04 Four Seasons at Once",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/382.png"
+			}
+		},
+		{
+			"name": "UZ08 Gathering of Divine Spirits",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/383.png"
+			}
+		},
+		{
+			"name": "UZ12 Unending Winter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/384.png"
+			}
+		},
+		{
+			"name": "UZ16 Spirit Geyser Eruption",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/385.png"
+			}
+		},
+		{
+			"name": "UZ20 Invasion from Beast Realm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/386.png"
+			}
+		},
+		{
+			"name": "RZ24 Revolution of the Weak",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/387.png"
+			}
+		},
+		{
+			"name": "RZ28 False Moon in the Sky",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Artifact Enchantment — Saga",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/388.png"
+			}
+		},
+		{
+			"name": "TZ01 Unzan",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental Monk",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/389.png"
+			}
+		},
+		{
+			"name": "TZ05 Book",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Book Minion",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/390.png"
+			}
+		},
+		{
+			"name": "TZ04 Ogre",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ogre",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/391.png"
+			}
+		},
+		{
+			"name": "TZ03 Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/392.png"
+			}
+		},
+		{
+			"name": "TZ02 Backup Dancer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Minion Performer",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/393.png"
+			}
+		},
+		{
+			"name": "TW01 Minion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Minion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/394.png"
+			}
+		},
+		{
+			"name": "TW02 Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/395.png"
+			}
+		},
+		{
+			"name": "TB01 Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/396.png"
+			}
+		},
+		{
+			"name": "TB02 Bat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bat",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/397.png"
+			}
+		},
+		{
+			"name": "TG01 Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Faerie",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/398.png"
+			}
+		},
+		{
+			"name": "TG02 Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/399.png"
+			}
+		},
+		{
+			"name": "TA01 Toy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Toy",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/400.png"
+			}
+		},
+		{
+			"name": "TA02 Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/401.png"
+			}
+		},
+		{
+			"name": "TA03 Drone Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Drone Clue",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/402.png"
+			}
+		},
+		{
+			"name": "TA04 Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/403.png"
+			}
+		},
+		{
+			"name": "CW17 Mysteries in the Sky",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/404.png"
+			}
+		},
+		{
+			"name": "TA05 Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/405.png"
+			}
+		},
+		{
+			"name": "TC01 Manifest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/406.png"
+			}
+		},
+		{
+			"name": "MA01 Sumiyoshi Sanjin Rocket",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/407.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RW01 Mayumi Joutouguu
+	2 RW02 Komachi Onozuka
+	2 RW03 Toyohime Watatsuki
+	2 RW04 Guse Flash
+	2 RW05 Song of Falling Stars
+	2 RW06 Lilies of Murderous Intent
+	2 RW07 Algorithmic Phantom
+	2 RU01 Satori Komeiji
+	2 RU02 Alice Margatroid
+	2 RU03 Patchouli Knowledge
+	2 RU04 Artificial Disaster
+	2 RU05 Prism Concerto
+	2 RU06 Time Stop
+	2 RU07 Symposium of Post-Mysticism
+	2 RB01 Joon Yorigami
+	2 RB02 Yuyuko Saigyouji
+	2 RB03 Remilia Scarlet
+	2 RB04 Journey to the Abandoned Station
+	2 RB07 Yomotsu-Shikome's Grasp
+	2 RB06 Spirit Medium's Melancholy
+	2 RB05 Comets on Earth
+	2 RR02 Tenshi Hinanawi
+	2 RR03 Utsuho Reiuji
+	2 RR04 Danmaku Business Boom
+	2 RR05 Showstopping Surprise
+	2 RR06 An Offering to the Ownerless
+	2 RR07 Deeds of Devilish Beasts
+	2 RG01 Koishi Komeiji
+	2 RG02 Raiko Horikawa
+	2 RG03 Yuuka Kazami
+	2 RG04 Seasons Past
+	2 RG05 Gluttony of the Deepest Depths
+	2 RG06 Dream Express
+	2 RG07 Green Spiral
+	1 MW01 Eiki Shiki, Yamaxandu
+	1 MW02 Great Hakurei Barrier
+	1 MU01 Eirin Yagokoro
+	1 MU02 Futatsuiwa Clan's Curse
+	1 MB01 Yachie Kicchou
+	1 MB02 Perfect Possession
+	1 MR01 Saki Kurokoma
+	1 MR02 Evil Spirit's Augury
+	1 MG01 Yuuma Toutetsu
+	1 MG02 Ariya Iwanaga
+	2 RZ01 Youmu Konpaku
+	2 RZ05 Reisen Udongein Inaba
+	2 RZ09 Aya Shameimaru
+	2 RZ13 Seija Kijin
+	2 RZ17 Cirno
+	2 RZ25 Sanae Kochiya
+	2 RZ33 Marisa Kirisame
+	2 RZ21 Reimu Hakurei
+	1 MZ06 Kasen Ibaraki
+	1 MZ07 Okina Matara
+	1 MZ08 Yukari Yakumo
+	1 MZ09 Mima
+	1 MZ10 Hecatia Lapislazuli
+	1 MZ05 Five Impossible Requests
+	1 MZ02 Zanmu Nippaku
+	1 MZ04 Momoyo Himemushi
+	1 MZ01 Divine Invocation
+	1 MZ14 Junko
+	1 MZ15 Suika Ibuki
+	1 MZ11 Suwako Moriya
+	1 MZ12 Keiki Haniyasushin
+	1 MZ13 Kanako Yasaka
+	2 RZ29 Sakuya Izayoi
+	2 RZ37 Mamizou Futatsuiwa
+	2 RZ14 Shinmyoumaru Sukuna
+	2 RZ15 Clownpiece
+	2 RZ02 Byakuren Hijiri
+	2 RZ19 Kokoro Hata
+	2 RZ18 Yuugi Hoshiguma
+	2 RZ03 Satono Nishida and Mai Teireida
+	2 RZ22 Yorihime Watatsuki
+	2 RZ23 Jeweled Pagoda
+	2 RZ10 Tsukasa Kudamaki
+	2 RZ26 Misumaru Tamatsukuri
+	2 RZ27 Yuiman Asama
+	2 RZ11 Mizuchi Miyadeguchi
+	2 RZ30 Hisami Yomotsu
+	2 RZ31 Miko Toyosatomimi
+	2 RZ34 Nitori Kawashiro
+	2 RZ35 Sumireko Usami
+	2 RZ38 Chiyari Tenkajin
+	2 RZ39 Kaguya Houraisan
+	2 RZ41 Chimata Tenkyuu
+	2 RZ42 Ultramarine Orb Elixir
+	2 RA01 Unidentified Flying Object
+	2 RL01 Old Hell of Blazing Fires
+	2 RL02 New Hell of Deep Shadows
+	1 MZ16 Gensokyo Chronicle
+	2 RZ04 Devil's Recitation
+	2 RZ08 Mind Starmine
+	2 RZ12 Nina Watari
+	2 RZ20 Box of a Hundred Medicines
+	2 RZ16 Starbow Break
+	2 RZ06 Hatate Himekaidou
+	2 RZ07 Ran Yakumo
+	2 RZ44 Megumu Iizunamaru
+	2 RZ47 Sagume Kishin
+	2 RZ50 Nue Houjuu
+	2 RZ53 Flandre Scarlet
+	2 RZ45 Butterfly Dream
+	2 RZ48 Vengeful Spirit Mass
+	2 RZ52 Palace of the Earth Spirits
+	2 RZ55 Sea of the Blood Pools
+	2 RR01 Mokou Fujiwara
+	2 RZ43 Primate Spirit Garden
+	2 RZ46 Narrow Confines of Avici
+	2 RZ49 Ministry of Right and Wrong
+	2 RZ51 Nefarious Wealth
+	2 RZ54 O-Namazu
+	2 RA02 Scroll of Fate
+	1 MZ03 Doremy Sweet
+	2 RZ32 End of the Sixty Year Cycle
+	2 RZ36 Card Market Bubble
+	2 RZ40 Days Go On, Unchanging
+	2 RZ24 Revolution of the Weak
+	2 RZ28 False Moon in the Sky
+	1 MA01 Sumiyoshi Sanjin Rocket
+[uncommon(3)]
+	4 UU08 Avert Incident
+	4 UB14 Unexplained Fever
+	4 UR14 Gagouji's Cyclone
+	4 UR15 Tsukumogami Parade
+	4 UR07 Stardust Reverie
+	4 UG12 Twin Typhoons
+	4 UW01 Nazrin
+	4 UW02 Eika Ebisu
+	4 UW03 Kutaka Niwatari
+	4 UW04 Hong Meiling
+	4 UW06 Aunn Komano
+	4 UW07 Hina Kagiyama
+	4 UW08 Keine Kamishirasawa
+	4 UW05 Rei'sen
+	4 UW10 Veils Like Sky
+	4 UW11 Roukanken and Hakurouken
+	4 UW09 Haniwa Cavalry
+	4 UU02 Seiran
+	4 UU04 Renko Usami and Merry Hearn
+	4 UU03 Akyuu Hieda
+	4 UU06 Lyrica Prismriver
+	4 UU05 Rinnosuke Morichika
+	4 UU01 Hisoutensoku
+	4 UU07 Fact or Fiction
+	4 UU09 Divining Crop
+	4 UU10 Perfect Freeze
+	4 UU11 Kogasa Tatara
+	4 UB02 Star Sapphire
+	4 UB01 Rumia
+	4 UB07 Shion Yorigami
+	4 UB05 Medicine Melancholy
+	4 UB03 Yoshika Miyako
+	4 UB06 Lunasa Prismriver
+	4 UB04 Nareko Michigami
+	4 UB08 Evil Dragon
+	4 UB09 Fox Winder
+	4 UB10 Path to Yomotsu-Hirasaka
+	4 UB11 Nimble Fabric
+	4 UR03 Parsee Mizuhashi
+	4 UR02 Sunny Milk
+	4 UR01 Mike Goutokuji
+	4 UR04 Tojiko Soga
+	4 UR05 Momiji Inubashiri
+	4 UR06 Merlin Prismriver
+	4 UR08 Event Horizon
+	4 UR09 Hungry Demon Siege
+	4 UR10 Subterranean Sun
+	4 UR11 Sword of Hisou
+	4 UG01 Shizuha Aki
+	4 UG04 Chen
+	4 UG03 Lily White
+	4 UG02 Luna Child
+	4 UG06 Ringo
+	4 UG05 Kyouko Kasodani
+	4 UG08 Missing Power
+	4 UG07 Ubame Chirizuka
+	4 UG09 Parade of One Hundred Demons
+	4 UG10 Three Strikes at Midnight
+	4 UG11 Illusionary Reliquiae
+	4 UA07 Lunar Udonge
+	4 UA03 Shinigami's Boat
+	4 UA05 Yamanba's Cleaver
+	4 UA06 Substitute Jizo
+	4 UA04 Palanquin Ship
+	4 UL01 Summit of the World
+	4 UL02 Through the Back Door
+	4 UL03 Sea of Tranquility
+	4 UL04 Streets of Old Hell
+	4 UL05 Downtown Beast Realm
+	4 UA02 Oni-Shaped Sculpting Art
+	4 UB12 Corpse Tongji
+	4 UB13 Embryo's Dream
+	4 UB15 Higan Retour
+	4 UG13 Miracle Fruit
+	4 UG14 Occult Ball
+	4 UG15 Necronomicon Kanji Edition
+	4 UR12 Radiant Treasure Gun
+	4 UR13 Hakurei Yin Yang Orbs
+	4 UU12 Astronomical Cover-Up
+	4 UU13 Ensoul Artifact
+	4 UU14 Elemental Harvester
+	4 UU15 Dragon God Statue
+	4 UW12 Vivid Color Downpour
+	4 UW13 Share a Drink
+	4 UW15 Miracle Mallet
+	4 UZ01 Minoriko Aki
+	4 UZ03 Kagerou Imaizumi
+	4 UZ05 Wakasagihime
+	4 UZ25 Enoko Mitsugashira
+	4 UZ07 Ichirin Kumoi
+	4 UZ09 Kisume
+	4 UZ10 Seiga Kaku
+	4 UZ11 Letty Whiterock
+	4 UZ13 Rin Kaenbyou
+	4 UZ23 Benben Tsukumo
+	4 UZ14 Mystia Lorelei
+	4 UZ17 Urumi Ushizaki
+	4 UZ18 Yatsuhashi Tsukumo
+	4 UZ19 Nemuno Sakata
+	4 UZ21 Futo Mononobe
+	4 UZ22 Iku Nagae
+	4 UZ15 Evil in the Mirror
+	4 UZ06 Tewi Inaba
+	4 UZ24 Sekibanki
+	4 UZ26 Beyond the Rainbow Door
+	4 UZ27 Takane Yamashiro
+	4 UZ28 Miyoi Okunoda
+	4 UZ29 Guilty or Not Guilty
+	4 UZ31 Narumi Yatadera
+	4 UZ30 Kosuzu Motoori
+	4 UZ32 Mini-Hakkero
+	4 UZ33 Wriggle Nightbug
+	4 UZ34 Yamame Kurodani
+	4 UZ35 Pain Flow
+	4 UZ37 Shou Toramaru
+	4 UZ36 Mayohiga
+	4 UZ38 Hakurei Charm
+	4 UZ39 Eternity Larva
+	4 UZ40 Star of Ingenious Brilliance
+	4 UZ41 Moriya Charm
+	4 UZ42 Minamitsu Murasa
+	4 UZ43 Saigyou Ayakashi
+	4 UZ44 Sagacious Charm
+	4 UZ45 Sannyo Komakusa
+	4 UZ46 Komakusa of Massacre
+	4 UZ47 Underworld Charm
+	4 UZ48 Moon Invasion Force
+	4 UZ49 Chimi Houjuu
+	4 UW14 Eight-Shaku Occult Pillar
+	4 UZ50 Wild Charm
+	4 UZ02 Son Biten
+	4 UA01 Streaming Doll
+	4 UL06 Barrier Fault
+	4 UZ04 Four Seasons at Once
+	4 UZ08 Gathering of Divine Spirits
+	4 UZ12 Unending Winter
+	4 UZ16 Spirit Geyser Eruption
+	4 UZ20 Invasion from Beast Realm
+[common(6)]
+	8 CW01 Fairy Maid
+	8 CW02 Kedama
+	8 CW03 Wheel Ghost
+	8 CW04 Mountain Sarugami
+	8 CW05 Tupai
+	8 CW06 Netherworld Phantoms
+	8 CW07 Moon Rabbit Corps
+	8 CW08 Futakuchi-onna
+	8 CW09 Dream Seal
+	8 CW10 Charming Siege from All Sides
+	8 CW11 Tide-Flowing Jewel
+	8 CU01 Rainfall Fairy
+	8 CU02 Stray Vulgar Spirit
+	8 CU03 Karasu-Tengu
+	8 CU04 Book-Reading Youkai
+	8 CU05 Hell Raven
+	8 CU06 Goliath Doll
+	8 CU07 Dream Fracture
+	8 CU11 Magician's Grimoire
+	8 CU10 Spin the Cephalic Plate
+	8 CU15 Psychokinesis App
+	8 CU09 Lingering Cold
+	8 CU13 Seed of Unknown Form
+	8 CU14 Brain Fingerprint
+	8 CU12 Eagle Shooting
+	8 CB01 Fairy of Old Hell
+	8 CB02 Bakebake
+	8 CB03 Mouryo
+	8 CB04 Zenki and Goki
+	8 CB06 Kiketsu Family Underling
+	8 CB05 Mishaguji
+	8 CB07 Umatsuki
+	8 CB09 Into Delirium
+	8 CB10 Corpse Shopping District
+	8 CB08 Curse of Human Imagination
+	8 CB12 Return to Action
+	8 CB14 Vanquish the Weak
+	8 CB13 Pluck Pigeon
+	8 CB15 Lunatic Torch Relay
+	8 CR01 Sunflower Fairy
+	8 CR02 Little Devil
+	8 CR03 Chief Fairy
+	8 CR05 Boisterous Oni
+	8 CR04 Seto Taishou
+	8 CR07 Raijuu
+	8 CR09 Soaring Idaten
+	8 CR10 Artful Sacrifice
+	8 CR16 Honest Man's Death
+	8 CR13 Blazing Dragon Veins
+	8 CR14 Mine Blast
+	8 CR15 Song of the Night Sparrow
+	8 CG01 Makai Fairy
+	8 CG02 Unfrozen Frog
+	8 CG03 Wonder Stone
+	8 CG05 Lesser Tanuki
+	8 CG04 Great Fairy
+	8 CG06 Gouyoku Alliance Scout
+	8 CG07 Giant Toad
+	8 CG12 Confront the Unknown
+	8 CG09 Knockout in Three Steps
+	8 CG10 Blossoming of Gensokyo
+	8 CG11 Sighing Osakabe Mask
+	8 CG14 September Full Moon
+	8 CG13 Return to Nature
+	8 CG08 Oni Bender
+	8 CU08 Logical Wall
+	8 CR12 Lunatic Impact
+	8 CA03 Tatterkite
+	8 CA02 Basic Shikigami
+	8 CA04 Lively Bullet Golem
+	8 CA05 Oboroguruma
+	8 CA06 Heavenly Keystone
+	8 CL01 Garden of the Sun
+	8 CA07 Genuine Magatama
+	8 CA08 Lunar Treasure
+	8 CA09 Stone Cherry
+	8 CA10 Dragon Gem
+	8 CL02 Canal of Willows
+	8 CL03 Sanzu Riverbank
+	8 CL04 Rainbow Dragon Cave
+	8 CL05 False Heaven Shelf
+	8 CL06 Bamboo Forest of the Lost
+	8 CL07 Genbu Ravine
+	8 CL08 Hakurei Shrine
+	8 CL09 Road of Reconsideration
+	8 CL10 Netherworld Orchard
+	8 CA11 Devil's Library
+	8 CB11 Mishaguji's Scourge
+	8 CG16 Glimpse of Paradise
+	8 CR11 Melancholic Ogress Mask
+	8 CR08 Phantom Dinning
+	8 CW16 Soul Torch
+	8 CZ01 High-Speed Granny
+	8 CZ02 Lake-Dwelling Monster
+	8 CZ03 Watcher in the Gap
+	8 CZ04 Train Bisection
+	8 CZ05 Ominous Caller
+	8 CB16 Youma Book
+	8 CG15 Old History of an Untrodden Land
+	8 CR06 Keiga Family Enforcer
+	8 CU16 Tome Familiar
+	8 CA01 Owotoshi Harvester
+	8 A0 Gensokyo
+	8 CW14 Reverse Invoker
+	8 CW12 Power Resonance
+	8 CW13 Settle Beyond Reality
+	8 CW15 Evil-Sealing Circle
+	8 CU17 Lunar Siege
+	8 CB17 Spread of Scarlet Mist
+	8 CR17 Beast Yakuza's Con
+	8 CG17 New Rivals on the Mountain
+	8 CW17 Mysteries in the Sky
+[common | masterpiece(1)]
+	8 CW01 Fairy Maid
+	8 CW02 Kedama
+	8 CW03 Wheel Ghost
+	8 CW04 Mountain Sarugami
+	8 CW05 Tupai
+	8 CW06 Netherworld Phantoms
+	8 CW07 Moon Rabbit Corps
+	8 CW08 Futakuchi-onna
+	8 CW09 Dream Seal
+	8 CW10 Charming Siege from All Sides
+	8 CW11 Tide-Flowing Jewel
+	8 CU01 Rainfall Fairy
+	8 CU02 Stray Vulgar Spirit
+	8 CU03 Karasu-Tengu
+	8 CU04 Book-Reading Youkai
+	8 CU05 Hell Raven
+	8 CU06 Goliath Doll
+	8 CU07 Dream Fracture
+	8 CU11 Magician's Grimoire
+	8 CU10 Spin the Cephalic Plate
+	8 CU15 Psychokinesis App
+	8 CU09 Lingering Cold
+	8 CU13 Seed of Unknown Form
+	8 CU14 Brain Fingerprint
+	8 CU12 Eagle Shooting
+	8 CB01 Fairy of Old Hell
+	8 CB02 Bakebake
+	8 CB03 Mouryo
+	8 CB04 Zenki and Goki
+	8 CB06 Kiketsu Family Underling
+	8 CB05 Mishaguji
+	8 CB07 Umatsuki
+	8 CB09 Into Delirium
+	8 CB10 Corpse Shopping District
+	8 CB08 Curse of Human Imagination
+	8 CB12 Return to Action
+	8 CB14 Vanquish the Weak
+	8 CB13 Pluck Pigeon
+	8 CB15 Lunatic Torch Relay
+	8 CR01 Sunflower Fairy
+	8 CR02 Little Devil
+	8 CR03 Chief Fairy
+	8 CR05 Boisterous Oni
+	8 CR04 Seto Taishou
+	8 CR07 Raijuu
+	8 CR09 Soaring Idaten
+	8 CR10 Artful Sacrifice
+	8 CR16 Honest Man's Death
+	8 CR13 Blazing Dragon Veins
+	8 CR14 Mine Blast
+	8 CR15 Song of the Night Sparrow
+	8 CG01 Makai Fairy
+	8 CG02 Unfrozen Frog
+	8 CG03 Wonder Stone
+	8 CG05 Lesser Tanuki
+	8 CG04 Great Fairy
+	8 CG06 Gouyoku Alliance Scout
+	8 CG07 Giant Toad
+	8 CG12 Confront the Unknown
+	8 CG09 Knockout in Three Steps
+	8 CG10 Blossoming of Gensokyo
+	8 CG11 Sighing Osakabe Mask
+	8 CG14 September Full Moon
+	8 CG13 Return to Nature
+	8 CG08 Oni Bender
+	8 CU08 Logical Wall
+	8 CR12 Lunatic Impact
+	8 CA03 Tatterkite
+	8 CA02 Basic Shikigami
+	8 CA04 Lively Bullet Golem
+	8 CA05 Oboroguruma
+	8 CA06 Heavenly Keystone
+	8 CL01 Garden of the Sun
+	8 CA07 Genuine Magatama
+	8 CA08 Lunar Treasure
+	8 CA09 Stone Cherry
+	8 CA10 Dragon Gem
+	8 CL02 Canal of Willows
+	8 CL03 Sanzu Riverbank
+	8 CL04 Rainbow Dragon Cave
+	8 CL05 False Heaven Shelf
+	8 CL06 Bamboo Forest of the Lost
+	8 CL07 Genbu Ravine
+	8 CL08 Hakurei Shrine
+	8 CL09 Road of Reconsideration
+	8 CL10 Netherworld Orchard
+	8 CA11 Devil's Library
+	8 CB11 Mishaguji's Scourge
+	8 CG16 Glimpse of Paradise
+	8 CR11 Melancholic Ogress Mask
+	8 CR08 Phantom Dinning
+	8 CW16 Soul Torch
+	8 CZ01 High-Speed Granny
+	8 CZ02 Lake-Dwelling Monster
+	8 CZ03 Watcher in the Gap
+	8 CZ04 Train Bisection
+	8 CZ05 Ominous Caller
+	8 CB16 Youma Book
+	8 CG15 Old History of an Untrodden Land
+	8 CR06 Keiga Family Enforcer
+	8 CU16 Tome Familiar
+	8 CA01 Owotoshi Harvester
+	8 A0 Gensokyo
+	8 CW14 Reverse Invoker
+	8 CW12 Power Resonance
+	8 CW13 Settle Beyond Reality
+	8 CW15 Evil-Sealing Circle
+	8 CU17 Lunar Siege
+	8 CB17 Spread of Scarlet Mist
+	8 CR17 Beast Yakuza's Con
+	8 CG17 New Rivals on the Mountain
+	8 CW17 Mysteries in the Sky
+[foil(1)]
+	12 CW01 Fairy Maid
+	12 CW02 Kedama
+	12 CW03 Wheel Ghost
+	12 CW04 Mountain Sarugami
+	12 CW05 Tupai
+	12 CW06 Netherworld Phantoms
+	12 CW07 Moon Rabbit Corps
+	12 CW08 Futakuchi-onna
+	12 CW09 Dream Seal
+	12 CW10 Charming Siege from All Sides
+	12 CW11 Tide-Flowing Jewel
+	12 CU01 Rainfall Fairy
+	12 CU02 Stray Vulgar Spirit
+	12 CU03 Karasu-Tengu
+	12 CU04 Book-Reading Youkai
+	12 CU05 Hell Raven
+	12 CU06 Goliath Doll
+	12 CU07 Dream Fracture
+	6 UU08 Avert Incident
+	12 CU11 Magician's Grimoire
+	12 CU10 Spin the Cephalic Plate
+	12 CU15 Psychokinesis App
+	12 CU09 Lingering Cold
+	12 CU13 Seed of Unknown Form
+	12 CU14 Brain Fingerprint
+	12 CU12 Eagle Shooting
+	12 CB01 Fairy of Old Hell
+	12 CB02 Bakebake
+	12 CB03 Mouryo
+	12 CB04 Zenki and Goki
+	12 CB06 Kiketsu Family Underling
+	12 CB05 Mishaguji
+	12 CB07 Umatsuki
+	6 UB14 Unexplained Fever
+	12 CB09 Into Delirium
+	12 CB10 Corpse Shopping District
+	12 CB08 Curse of Human Imagination
+	12 CB12 Return to Action
+	12 CB14 Vanquish the Weak
+	12 CB13 Pluck Pigeon
+	12 CB15 Lunatic Torch Relay
+	12 CR01 Sunflower Fairy
+	12 CR02 Little Devil
+	12 CR03 Chief Fairy
+	12 CR05 Boisterous Oni
+	12 CR04 Seto Taishou
+	12 CR07 Raijuu
+	12 CR09 Soaring Idaten
+	6 UR14 Gagouji's Cyclone
+	6 UR15 Tsukumogami Parade
+	12 CR10 Artful Sacrifice
+	12 CR16 Honest Man's Death
+	6 UR07 Stardust Reverie
+	12 CR13 Blazing Dragon Veins
+	12 CR14 Mine Blast
+	12 CR15 Song of the Night Sparrow
+	12 CG01 Makai Fairy
+	12 CG02 Unfrozen Frog
+	12 CG03 Wonder Stone
+	12 CG05 Lesser Tanuki
+	12 CG04 Great Fairy
+	12 CG06 Gouyoku Alliance Scout
+	12 CG07 Giant Toad
+	12 CG12 Confront the Unknown
+	12 CG09 Knockout in Three Steps
+	12 CG10 Blossoming of Gensokyo
+	12 CG11 Sighing Osakabe Mask
+	12 CG14 September Full Moon
+	12 CG13 Return to Nature
+	12 CG08 Oni Bender
+	6 UG12 Twin Typhoons
+	6 UW01 Nazrin
+	6 UW02 Eika Ebisu
+	6 UW03 Kutaka Niwatari
+	6 UW04 Hong Meiling
+	6 UW06 Aunn Komano
+	6 UW07 Hina Kagiyama
+	6 UW08 Keine Kamishirasawa
+	6 UW05 Rei'sen
+	6 UW10 Veils Like Sky
+	6 UW11 Roukanken and Hakurouken
+	6 UW09 Haniwa Cavalry
+	6 UU02 Seiran
+	6 UU04 Renko Usami and Merry Hearn
+	6 UU03 Akyuu Hieda
+	6 UU06 Lyrica Prismriver
+	6 UU05 Rinnosuke Morichika
+	6 UU01 Hisoutensoku
+	6 UU07 Fact or Fiction
+	12 CU08 Logical Wall
+	6 UU09 Divining Crop
+	6 UU10 Perfect Freeze
+	6 UU11 Kogasa Tatara
+	6 UB02 Star Sapphire
+	6 UB01 Rumia
+	6 UB07 Shion Yorigami
+	6 UB05 Medicine Melancholy
+	6 UB03 Yoshika Miyako
+	6 UB06 Lunasa Prismriver
+	6 UB04 Nareko Michigami
+	6 UB08 Evil Dragon
+	6 UB09 Fox Winder
+	6 UB10 Path to Yomotsu-Hirasaka
+	6 UB11 Nimble Fabric
+	6 UR03 Parsee Mizuhashi
+	6 UR02 Sunny Milk
+	6 UR01 Mike Goutokuji
+	6 UR04 Tojiko Soga
+	6 UR05 Momiji Inubashiri
+	6 UR06 Merlin Prismriver
+	12 CR12 Lunatic Impact
+	6 UR08 Event Horizon
+	6 UR09 Hungry Demon Siege
+	6 UR10 Subterranean Sun
+	6 UR11 Sword of Hisou
+	6 UG01 Shizuha Aki
+	6 UG04 Chen
+	6 UG03 Lily White
+	6 UG02 Luna Child
+	6 UG06 Ringo
+	6 UG05 Kyouko Kasodani
+	6 UG08 Missing Power
+	6 UG07 Ubame Chirizuka
+	6 UG09 Parade of One Hundred Demons
+	6 UG10 Three Strikes at Midnight
+	6 UG11 Illusionary Reliquiae
+	2 RW01 Mayumi Joutouguu
+	2 RW02 Komachi Onozuka
+	2 RW03 Toyohime Watatsuki
+	2 RW04 Guse Flash
+	2 RW05 Song of Falling Stars
+	2 RW06 Lilies of Murderous Intent
+	2 RW07 Algorithmic Phantom
+	2 RU01 Satori Komeiji
+	2 RU02 Alice Margatroid
+	2 RU03 Patchouli Knowledge
+	2 RU04 Artificial Disaster
+	2 RU05 Prism Concerto
+	2 RU06 Time Stop
+	2 RU07 Symposium of Post-Mysticism
+	2 RB01 Joon Yorigami
+	2 RB02 Yuyuko Saigyouji
+	2 RB03 Remilia Scarlet
+	2 RB04 Journey to the Abandoned Station
+	2 RB07 Yomotsu-Shikome's Grasp
+	2 RB06 Spirit Medium's Melancholy
+	2 RB05 Comets on Earth
+	2 RR02 Tenshi Hinanawi
+	2 RR03 Utsuho Reiuji
+	2 RR04 Danmaku Business Boom
+	2 RR05 Showstopping Surprise
+	2 RR06 An Offering to the Ownerless
+	2 RR07 Deeds of Devilish Beasts
+	2 RG01 Koishi Komeiji
+	2 RG02 Raiko Horikawa
+	2 RG03 Yuuka Kazami
+	2 RG04 Seasons Past
+	2 RG05 Gluttony of the Deepest Depths
+	2 RG06 Dream Express
+	2 RG07 Green Spiral
+	1 MW01 Eiki Shiki, Yamaxandu
+	1 MW02 Great Hakurei Barrier
+	1 MU01 Eirin Yagokoro
+	1 MU02 Futatsuiwa Clan's Curse
+	1 MB01 Yachie Kicchou
+	1 MB02 Perfect Possession
+	1 MR01 Saki Kurokoma
+	1 MR02 Evil Spirit's Augury
+	1 MG01 Yuuma Toutetsu
+	1 MG02 Ariya Iwanaga
+	12 CA03 Tatterkite
+	12 CA02 Basic Shikigami
+	12 CA04 Lively Bullet Golem
+	12 CA05 Oboroguruma
+	12 CA06 Heavenly Keystone
+	6 UA07 Lunar Udonge
+	6 UA03 Shinigami's Boat
+	6 UA05 Yamanba's Cleaver
+	6 UA06 Substitute Jizo
+	6 UA04 Palanquin Ship
+	12 CL01 Garden of the Sun
+	6 UL01 Summit of the World
+	6 UL02 Through the Back Door
+	6 UL03 Sea of Tranquility
+	6 UL04 Streets of Old Hell
+	6 UL05 Downtown Beast Realm
+	2 RZ01 Youmu Konpaku
+	2 RZ05 Reisen Udongein Inaba
+	2 RZ09 Aya Shameimaru
+	2 RZ13 Seija Kijin
+	2 RZ17 Cirno
+	2 RZ25 Sanae Kochiya
+	2 RZ33 Marisa Kirisame
+	2 RZ21 Reimu Hakurei
+	1 MZ06 Kasen Ibaraki
+	1 MZ07 Okina Matara
+	1 MZ08 Yukari Yakumo
+	1 MZ09 Mima
+	1 MZ10 Hecatia Lapislazuli
+	12 CA07 Genuine Magatama
+	12 CA08 Lunar Treasure
+	12 CA09 Stone Cherry
+	12 CA10 Dragon Gem
+	12 CL02 Canal of Willows
+	12 CL03 Sanzu Riverbank
+	12 CL04 Rainbow Dragon Cave
+	12 CL05 False Heaven Shelf
+	12 CL06 Bamboo Forest of the Lost
+	12 CL07 Genbu Ravine
+	12 CL08 Hakurei Shrine
+	12 CL09 Road of Reconsideration
+	12 CL10 Netherworld Orchard
+	12 CA11 Devil's Library
+	1 MZ05 Five Impossible Requests
+	1 MZ02 Zanmu Nippaku
+	1 MZ04 Momoyo Himemushi
+	1 MZ01 Divine Invocation
+	1 MZ14 Junko
+	1 MZ15 Suika Ibuki
+	1 MZ11 Suwako Moriya
+	1 MZ12 Keiki Haniyasushin
+	1 MZ13 Kanako Yasaka
+	2 RZ29 Sakuya Izayoi
+	2 RZ37 Mamizou Futatsuiwa
+	2 RZ14 Shinmyoumaru Sukuna
+	2 RZ15 Clownpiece
+	2 RZ02 Byakuren Hijiri
+	2 RZ19 Kokoro Hata
+	2 RZ18 Yuugi Hoshiguma
+	2 RZ03 Satono Nishida and Mai Teireida
+	2 RZ22 Yorihime Watatsuki
+	2 RZ23 Jeweled Pagoda
+	2 RZ10 Tsukasa Kudamaki
+	2 RZ26 Misumaru Tamatsukuri
+	2 RZ27 Yuiman Asama
+	2 RZ11 Mizuchi Miyadeguchi
+	2 RZ30 Hisami Yomotsu
+	2 RZ31 Miko Toyosatomimi
+	2 RZ34 Nitori Kawashiro
+	2 RZ35 Sumireko Usami
+	2 RZ38 Chiyari Tenkajin
+	2 RZ39 Kaguya Houraisan
+	2 RZ41 Chimata Tenkyuu
+	2 RZ42 Ultramarine Orb Elixir
+	6 UA02 Oni-Shaped Sculpting Art
+	6 UB12 Corpse Tongji
+	6 UB13 Embryo's Dream
+	12 CB11 Mishaguji's Scourge
+	6 UB15 Higan Retour
+	12 CG16 Glimpse of Paradise
+	6 UG13 Miracle Fruit
+	6 UG14 Occult Ball
+	6 UG15 Necronomicon Kanji Edition
+	6 UR12 Radiant Treasure Gun
+	6 UR13 Hakurei Yin Yang Orbs
+	12 CR11 Melancholic Ogress Mask
+	12 CR08 Phantom Dinning
+	6 UU12 Astronomical Cover-Up
+	6 UU13 Ensoul Artifact
+	6 UU14 Elemental Harvester
+	6 UU15 Dragon God Statue
+	6 UW12 Vivid Color Downpour
+	6 UW13 Share a Drink
+	12 CW16 Soul Torch
+	6 UW15 Miracle Mallet
+	6 UZ01 Minoriko Aki
+	6 UZ03 Kagerou Imaizumi
+	6 UZ05 Wakasagihime
+	6 UZ25 Enoko Mitsugashira
+	6 UZ07 Ichirin Kumoi
+	6 UZ09 Kisume
+	6 UZ10 Seiga Kaku
+	6 UZ11 Letty Whiterock
+	6 UZ13 Rin Kaenbyou
+	6 UZ23 Benben Tsukumo
+	6 UZ14 Mystia Lorelei
+	6 UZ17 Urumi Ushizaki
+	6 UZ18 Yatsuhashi Tsukumo
+	6 UZ19 Nemuno Sakata
+	6 UZ21 Futo Mononobe
+	6 UZ22 Iku Nagae
+	6 UZ15 Evil in the Mirror
+	6 UZ06 Tewi Inaba
+	6 UZ24 Sekibanki
+	6 UZ26 Beyond the Rainbow Door
+	6 UZ27 Takane Yamashiro
+	6 UZ28 Miyoi Okunoda
+	6 UZ29 Guilty or Not Guilty
+	6 UZ31 Narumi Yatadera
+	6 UZ30 Kosuzu Motoori
+	6 UZ32 Mini-Hakkero
+	6 UZ33 Wriggle Nightbug
+	6 UZ34 Yamame Kurodani
+	6 UZ35 Pain Flow
+	6 UZ37 Shou Toramaru
+	6 UZ36 Mayohiga
+	6 UZ38 Hakurei Charm
+	6 UZ39 Eternity Larva
+	6 UZ40 Star of Ingenious Brilliance
+	6 UZ41 Moriya Charm
+	6 UZ42 Minamitsu Murasa
+	6 UZ43 Saigyou Ayakashi
+	6 UZ44 Sagacious Charm
+	6 UZ45 Sannyo Komakusa
+	6 UZ46 Komakusa of Massacre
+	6 UZ47 Underworld Charm
+	6 UZ48 Moon Invasion Force
+	6 UZ49 Chimi Houjuu
+	12 CZ01 High-Speed Granny
+	12 CZ02 Lake-Dwelling Monster
+	12 CZ03 Watcher in the Gap
+	12 CZ04 Train Bisection
+	12 CZ05 Ominous Caller
+	2 RA01 Unidentified Flying Object
+	2 RL01 Old Hell of Blazing Fires
+	2 RL02 New Hell of Deep Shadows
+	12 CB16 Youma Book
+	12 CG15 Old History of an Untrodden Land
+	12 CR06 Keiga Family Enforcer
+	12 CU16 Tome Familiar
+	6 UW14 Eight-Shaku Occult Pillar
+	6 UZ50 Wild Charm
+	6 UZ02 Son Biten
+	1 MZ16 Gensokyo Chronicle
+	2 RZ04 Devil's Recitation
+	2 RZ08 Mind Starmine
+	2 RZ12 Nina Watari
+	2 RZ20 Box of a Hundred Medicines
+	2 RZ16 Starbow Break
+	2 RZ06 Hatate Himekaidou
+	2 RZ07 Ran Yakumo
+	2 RZ44 Megumu Iizunamaru
+	2 RZ47 Sagume Kishin
+	2 RZ50 Nue Houjuu
+	2 RZ53 Flandre Scarlet
+	2 RZ45 Butterfly Dream
+	2 RZ48 Vengeful Spirit Mass
+	2 RZ52 Palace of the Earth Spirits
+	2 RZ55 Sea of the Blood Pools
+	2 RR01 Mokou Fujiwara
+	6 UA01 Streaming Doll
+	2 RZ43 Primate Spirit Garden
+	2 RZ46 Narrow Confines of Avici
+	2 RZ49 Ministry of Right and Wrong
+	2 RZ51 Nefarious Wealth
+	2 RZ54 O-Namazu
+	2 RA02 Scroll of Fate
+	12 CA01 Owotoshi Harvester
+	12 A0 Gensokyo
+	12 CW14 Reverse Invoker
+	12 CW12 Power Resonance
+	12 CW13 Settle Beyond Reality
+	12 CW15 Evil-Sealing Circle
+	6 UL06 Barrier Fault
+	12 CU17 Lunar Siege
+	12 CB17 Spread of Scarlet Mist
+	12 CR17 Beast Yakuza's Con
+	12 CG17 New Rivals on the Mountain
+	1 MZ03 Doremy Sweet
+	2 RZ32 End of the Sixty Year Cycle
+	2 RZ36 Card Market Bubble
+	2 RZ40 Days Go On, Unchanging
+	6 UZ04 Four Seasons at Once
+	6 UZ08 Gathering of Divine Spirits
+	6 UZ12 Unending Winter
+	6 UZ16 Spirit Geyser Eruption
+	6 UZ20 Invasion from Beast Realm
+	2 RZ24 Revolution of the Weak
+	2 RZ28 False Moon in the Sky
+	12 CW17 Mysteries in the Sky
+	1 MA01 Sumiyoshi Sanjin Rocket
+[wildcard(1)]
+	6 CW01 Fairy Maid
+	6 CW02 Kedama
+	6 CW03 Wheel Ghost
+	6 CW04 Mountain Sarugami
+	6 CW05 Tupai
+	6 CW06 Netherworld Phantoms
+	6 CW07 Moon Rabbit Corps
+	6 CW08 Futakuchi-onna
+	6 CW09 Dream Seal
+	6 CW10 Charming Siege from All Sides
+	6 CW11 Tide-Flowing Jewel
+	6 CU01 Rainfall Fairy
+	6 CU02 Stray Vulgar Spirit
+	6 CU03 Karasu-Tengu
+	6 CU04 Book-Reading Youkai
+	6 CU05 Hell Raven
+	6 CU06 Goliath Doll
+	6 CU07 Dream Fracture
+	15 UU08 Avert Incident
+	6 CU11 Magician's Grimoire
+	6 CU10 Spin the Cephalic Plate
+	6 CU15 Psychokinesis App
+	6 CU09 Lingering Cold
+	6 CU13 Seed of Unknown Form
+	6 CU14 Brain Fingerprint
+	6 CU12 Eagle Shooting
+	6 CB01 Fairy of Old Hell
+	6 CB02 Bakebake
+	6 CB03 Mouryo
+	6 CB04 Zenki and Goki
+	6 CB06 Kiketsu Family Underling
+	6 CB05 Mishaguji
+	6 CB07 Umatsuki
+	15 UB14 Unexplained Fever
+	6 CB09 Into Delirium
+	6 CB10 Corpse Shopping District
+	6 CB08 Curse of Human Imagination
+	6 CB12 Return to Action
+	6 CB14 Vanquish the Weak
+	6 CB13 Pluck Pigeon
+	6 CB15 Lunatic Torch Relay
+	6 CR01 Sunflower Fairy
+	6 CR02 Little Devil
+	6 CR03 Chief Fairy
+	6 CR05 Boisterous Oni
+	6 CR04 Seto Taishou
+	6 CR07 Raijuu
+	6 CR09 Soaring Idaten
+	15 UR14 Gagouji's Cyclone
+	15 UR15 Tsukumogami Parade
+	6 CR10 Artful Sacrifice
+	6 CR16 Honest Man's Death
+	15 UR07 Stardust Reverie
+	6 CR13 Blazing Dragon Veins
+	6 CR14 Mine Blast
+	6 CR15 Song of the Night Sparrow
+	6 CG01 Makai Fairy
+	6 CG02 Unfrozen Frog
+	6 CG03 Wonder Stone
+	6 CG05 Lesser Tanuki
+	6 CG04 Great Fairy
+	6 CG06 Gouyoku Alliance Scout
+	6 CG07 Giant Toad
+	6 CG12 Confront the Unknown
+	6 CG09 Knockout in Three Steps
+	6 CG10 Blossoming of Gensokyo
+	6 CG11 Sighing Osakabe Mask
+	6 CG14 September Full Moon
+	6 CG13 Return to Nature
+	6 CG08 Oni Bender
+	15 UG12 Twin Typhoons
+	15 UW01 Nazrin
+	15 UW02 Eika Ebisu
+	15 UW03 Kutaka Niwatari
+	15 UW04 Hong Meiling
+	15 UW06 Aunn Komano
+	15 UW07 Hina Kagiyama
+	15 UW08 Keine Kamishirasawa
+	15 UW05 Rei'sen
+	15 UW10 Veils Like Sky
+	15 UW11 Roukanken and Hakurouken
+	15 UW09 Haniwa Cavalry
+	15 UU02 Seiran
+	15 UU04 Renko Usami and Merry Hearn
+	15 UU03 Akyuu Hieda
+	15 UU06 Lyrica Prismriver
+	15 UU05 Rinnosuke Morichika
+	15 UU01 Hisoutensoku
+	15 UU07 Fact or Fiction
+	6 CU08 Logical Wall
+	15 UU09 Divining Crop
+	15 UU10 Perfect Freeze
+	15 UU11 Kogasa Tatara
+	15 UB02 Star Sapphire
+	15 UB01 Rumia
+	15 UB07 Shion Yorigami
+	15 UB05 Medicine Melancholy
+	15 UB03 Yoshika Miyako
+	15 UB06 Lunasa Prismriver
+	15 UB04 Nareko Michigami
+	15 UB08 Evil Dragon
+	15 UB09 Fox Winder
+	15 UB10 Path to Yomotsu-Hirasaka
+	15 UB11 Nimble Fabric
+	15 UR03 Parsee Mizuhashi
+	15 UR02 Sunny Milk
+	15 UR01 Mike Goutokuji
+	15 UR04 Tojiko Soga
+	15 UR05 Momiji Inubashiri
+	15 UR06 Merlin Prismriver
+	6 CR12 Lunatic Impact
+	15 UR08 Event Horizon
+	15 UR09 Hungry Demon Siege
+	15 UR10 Subterranean Sun
+	15 UR11 Sword of Hisou
+	15 UG01 Shizuha Aki
+	15 UG04 Chen
+	15 UG03 Lily White
+	15 UG02 Luna Child
+	15 UG06 Ringo
+	15 UG05 Kyouko Kasodani
+	15 UG08 Missing Power
+	15 UG07 Ubame Chirizuka
+	15 UG09 Parade of One Hundred Demons
+	15 UG10 Three Strikes at Midnight
+	15 UG11 Illusionary Reliquiae
+	7 RW01 Mayumi Joutouguu
+	7 RW02 Komachi Onozuka
+	7 RW03 Toyohime Watatsuki
+	7 RW04 Guse Flash
+	7 RW05 Song of Falling Stars
+	7 RW06 Lilies of Murderous Intent
+	7 RW07 Algorithmic Phantom
+	7 RU01 Satori Komeiji
+	7 RU02 Alice Margatroid
+	7 RU03 Patchouli Knowledge
+	7 RU04 Artificial Disaster
+	7 RU05 Prism Concerto
+	7 RU06 Time Stop
+	7 RU07 Symposium of Post-Mysticism
+	7 RB01 Joon Yorigami
+	7 RB02 Yuyuko Saigyouji
+	7 RB03 Remilia Scarlet
+	7 RB04 Journey to the Abandoned Station
+	7 RB07 Yomotsu-Shikome's Grasp
+	7 RB06 Spirit Medium's Melancholy
+	7 RB05 Comets on Earth
+	7 RR02 Tenshi Hinanawi
+	7 RR03 Utsuho Reiuji
+	7 RR04 Danmaku Business Boom
+	7 RR05 Showstopping Surprise
+	7 RR06 An Offering to the Ownerless
+	7 RR07 Deeds of Devilish Beasts
+	7 RG01 Koishi Komeiji
+	7 RG02 Raiko Horikawa
+	7 RG03 Yuuka Kazami
+	7 RG04 Seasons Past
+	7 RG05 Gluttony of the Deepest Depths
+	7 RG06 Dream Express
+	7 RG07 Green Spiral
+	4 MW01 Eiki Shiki, Yamaxandu
+	4 MW02 Great Hakurei Barrier
+	4 MU01 Eirin Yagokoro
+	4 MU02 Futatsuiwa Clan's Curse
+	4 MB01 Yachie Kicchou
+	4 MB02 Perfect Possession
+	4 MR01 Saki Kurokoma
+	4 MR02 Evil Spirit's Augury
+	4 MG01 Yuuma Toutetsu
+	4 MG02 Ariya Iwanaga
+	6 CA03 Tatterkite
+	6 CA02 Basic Shikigami
+	6 CA04 Lively Bullet Golem
+	6 CA05 Oboroguruma
+	6 CA06 Heavenly Keystone
+	15 UA07 Lunar Udonge
+	15 UA03 Shinigami's Boat
+	15 UA05 Yamanba's Cleaver
+	15 UA06 Substitute Jizo
+	15 UA04 Palanquin Ship
+	6 CL01 Garden of the Sun
+	15 UL01 Summit of the World
+	15 UL02 Through the Back Door
+	15 UL03 Sea of Tranquility
+	15 UL04 Streets of Old Hell
+	15 UL05 Downtown Beast Realm
+	7 RZ01 Youmu Konpaku
+	7 RZ05 Reisen Udongein Inaba
+	7 RZ09 Aya Shameimaru
+	7 RZ13 Seija Kijin
+	7 RZ17 Cirno
+	7 RZ25 Sanae Kochiya
+	7 RZ33 Marisa Kirisame
+	7 RZ21 Reimu Hakurei
+	4 MZ06 Kasen Ibaraki
+	4 MZ07 Okina Matara
+	4 MZ08 Yukari Yakumo
+	4 MZ09 Mima
+	4 MZ10 Hecatia Lapislazuli
+	6 CA07 Genuine Magatama
+	6 CA08 Lunar Treasure
+	6 CA09 Stone Cherry
+	6 CA10 Dragon Gem
+	6 CL02 Canal of Willows
+	6 CL03 Sanzu Riverbank
+	6 CL04 Rainbow Dragon Cave
+	6 CL05 False Heaven Shelf
+	6 CL06 Bamboo Forest of the Lost
+	6 CL07 Genbu Ravine
+	6 CL08 Hakurei Shrine
+	6 CL09 Road of Reconsideration
+	6 CL10 Netherworld Orchard
+	6 CA11 Devil's Library
+	4 MZ05 Five Impossible Requests
+	4 MZ02 Zanmu Nippaku
+	4 MZ04 Momoyo Himemushi
+	4 MZ01 Divine Invocation
+	4 MZ14 Junko
+	4 MZ15 Suika Ibuki
+	4 MZ11 Suwako Moriya
+	4 MZ12 Keiki Haniyasushin
+	4 MZ13 Kanako Yasaka
+	7 RZ29 Sakuya Izayoi
+	7 RZ37 Mamizou Futatsuiwa
+	7 RZ14 Shinmyoumaru Sukuna
+	7 RZ15 Clownpiece
+	7 RZ02 Byakuren Hijiri
+	7 RZ19 Kokoro Hata
+	7 RZ18 Yuugi Hoshiguma
+	7 RZ03 Satono Nishida and Mai Teireida
+	7 RZ22 Yorihime Watatsuki
+	7 RZ23 Jeweled Pagoda
+	7 RZ10 Tsukasa Kudamaki
+	7 RZ26 Misumaru Tamatsukuri
+	7 RZ27 Yuiman Asama
+	7 RZ11 Mizuchi Miyadeguchi
+	7 RZ30 Hisami Yomotsu
+	7 RZ31 Miko Toyosatomimi
+	7 RZ34 Nitori Kawashiro
+	7 RZ35 Sumireko Usami
+	7 RZ38 Chiyari Tenkajin
+	7 RZ39 Kaguya Houraisan
+	7 RZ41 Chimata Tenkyuu
+	7 RZ42 Ultramarine Orb Elixir
+	15 UA02 Oni-Shaped Sculpting Art
+	15 UB12 Corpse Tongji
+	15 UB13 Embryo's Dream
+	6 CB11 Mishaguji's Scourge
+	15 UB15 Higan Retour
+	6 CG16 Glimpse of Paradise
+	15 UG13 Miracle Fruit
+	15 UG14 Occult Ball
+	15 UG15 Necronomicon Kanji Edition
+	15 UR12 Radiant Treasure Gun
+	15 UR13 Hakurei Yin Yang Orbs
+	6 CR11 Melancholic Ogress Mask
+	6 CR08 Phantom Dinning
+	15 UU12 Astronomical Cover-Up
+	15 UU13 Ensoul Artifact
+	15 UU14 Elemental Harvester
+	15 UU15 Dragon God Statue
+	15 UW12 Vivid Color Downpour
+	15 UW13 Share a Drink
+	6 CW16 Soul Torch
+	15 UW15 Miracle Mallet
+	15 UZ01 Minoriko Aki
+	15 UZ03 Kagerou Imaizumi
+	15 UZ05 Wakasagihime
+	15 UZ25 Enoko Mitsugashira
+	15 UZ07 Ichirin Kumoi
+	15 UZ09 Kisume
+	15 UZ10 Seiga Kaku
+	15 UZ11 Letty Whiterock
+	15 UZ13 Rin Kaenbyou
+	15 UZ23 Benben Tsukumo
+	15 UZ14 Mystia Lorelei
+	15 UZ17 Urumi Ushizaki
+	15 UZ18 Yatsuhashi Tsukumo
+	15 UZ19 Nemuno Sakata
+	15 UZ21 Futo Mononobe
+	15 UZ22 Iku Nagae
+	15 UZ15 Evil in the Mirror
+	15 UZ06 Tewi Inaba
+	15 UZ24 Sekibanki
+	15 UZ26 Beyond the Rainbow Door
+	15 UZ27 Takane Yamashiro
+	15 UZ28 Miyoi Okunoda
+	15 UZ29 Guilty or Not Guilty
+	15 UZ31 Narumi Yatadera
+	15 UZ30 Kosuzu Motoori
+	15 UZ32 Mini-Hakkero
+	15 UZ33 Wriggle Nightbug
+	15 UZ34 Yamame Kurodani
+	15 UZ35 Pain Flow
+	15 UZ37 Shou Toramaru
+	15 UZ36 Mayohiga
+	15 UZ38 Hakurei Charm
+	15 UZ39 Eternity Larva
+	15 UZ40 Star of Ingenious Brilliance
+	15 UZ41 Moriya Charm
+	15 UZ42 Minamitsu Murasa
+	15 UZ43 Saigyou Ayakashi
+	15 UZ44 Sagacious Charm
+	15 UZ45 Sannyo Komakusa
+	15 UZ46 Komakusa of Massacre
+	15 UZ47 Underworld Charm
+	15 UZ48 Moon Invasion Force
+	15 UZ49 Chimi Houjuu
+	6 CZ01 High-Speed Granny
+	6 CZ02 Lake-Dwelling Monster
+	6 CZ03 Watcher in the Gap
+	6 CZ04 Train Bisection
+	6 CZ05 Ominous Caller
+	7 RA01 Unidentified Flying Object
+	7 RL01 Old Hell of Blazing Fires
+	7 RL02 New Hell of Deep Shadows
+	6 CB16 Youma Book
+	6 CG15 Old History of an Untrodden Land
+	6 CR06 Keiga Family Enforcer
+	6 CU16 Tome Familiar
+	15 UW14 Eight-Shaku Occult Pillar
+	15 UZ50 Wild Charm
+	15 UZ02 Son Biten
+	4 MZ16 Gensokyo Chronicle
+	7 RZ04 Devil's Recitation
+	7 RZ08 Mind Starmine
+	7 RZ12 Nina Watari
+	7 RZ20 Box of a Hundred Medicines
+	7 RZ16 Starbow Break
+	7 RZ06 Hatate Himekaidou
+	7 RZ07 Ran Yakumo
+	7 RZ44 Megumu Iizunamaru
+	7 RZ47 Sagume Kishin
+	7 RZ50 Nue Houjuu
+	7 RZ53 Flandre Scarlet
+	7 RZ45 Butterfly Dream
+	7 RZ48 Vengeful Spirit Mass
+	7 RZ52 Palace of the Earth Spirits
+	7 RZ55 Sea of the Blood Pools
+	7 RR01 Mokou Fujiwara
+	15 UA01 Streaming Doll
+	7 RZ43 Primate Spirit Garden
+	7 RZ46 Narrow Confines of Avici
+	7 RZ49 Ministry of Right and Wrong
+	7 RZ51 Nefarious Wealth
+	7 RZ54 O-Namazu
+	7 RA02 Scroll of Fate
+	6 CA01 Owotoshi Harvester
+	6 A0 Gensokyo
+	6 CW14 Reverse Invoker
+	6 CW12 Power Resonance
+	6 CW13 Settle Beyond Reality
+	6 CW15 Evil-Sealing Circle
+	15 UL06 Barrier Fault
+	6 CU17 Lunar Siege
+	6 CB17 Spread of Scarlet Mist
+	6 CR17 Beast Yakuza's Con
+	6 CG17 New Rivals on the Mountain
+	4 MZ03 Doremy Sweet
+	7 RZ32 End of the Sixty Year Cycle
+	7 RZ36 Card Market Bubble
+	7 RZ40 Days Go On, Unchanging
+	15 UZ04 Four Seasons at Once
+	15 UZ08 Gathering of Divine Spirits
+	15 UZ12 Unending Winter
+	15 UZ16 Spirit Geyser Eruption
+	15 UZ20 Invasion from Beast Realm
+	7 RZ24 Revolution of the Weak
+	7 RZ28 False Moon in the Sky
+	6 CW17 Mysteries in the Sky
+	4 MA01 Sumiyoshi Sanjin Rocket

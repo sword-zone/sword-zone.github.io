@@ -1,0 +1,3491 @@
+﻿[
+    {
+        "card_name": "MW01 Eiki Shiki, Yamaxandu",
+        "number": 18,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "MU01 Eirin Yagokoro",
+        "number": 59,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "MB01 Yachie Kicchou",
+        "number": 100,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "MR01 Saki Kurokoma",
+        "number": 141,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "MG01 Yuuma Toutetsu",
+        "number": 182,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "MW02 Great Hakurei Barrier",
+        "number": 19,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "MU02 Futatsuiwa Clan's Curse",
+        "number": 60,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "MB02 Perfect Possession",
+        "number": 101,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "MR02 Evil Spirit's Augury",
+        "number": 142,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "MG02 Ariya Iwanaga",
+        "number": 183,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "RW01 Mayumi Joutouguu",
+        "number": 20,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "RU01 Satori Komeiji",
+        "number": 61,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "RB01 Joon Yorigami",
+        "number": 102,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "RR01 Mokou Fujiwara",
+        "number": 143,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "RG01 Koishi Komeiji",
+        "number": 184,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "RW02 Komachi Onozuka",
+        "number": 21,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "RU02 Alice Margatroid",
+        "number": 62,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "RB02 Yuyuko Saigyouji",
+        "number": 103,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "RR02 Tenshi Hinanawi",
+        "number": 144,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "RG02 Raiko Horikawa",
+        "number": 185,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "RW03 Toyohime Watatsuki",
+        "number": 22,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "RU03 Patchouli Knowledge",
+        "number": 63,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "RB03 Remilia Scarlet",
+        "number": 104,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "RR03 Utsuho Reiuji",
+        "number": 145,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "RG03 Yuuka Kazami",
+        "number": 186,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "RW04 Guse Flash",
+        "number": 23,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "RU04 Artificial Disaster",
+        "number": 64,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "RB04 Journey to the Abandoned Station",
+        "number": 105,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "RR04 Danmaku Business Boom",
+        "number": 146,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "RG04 Seasons Past",
+        "number": 187,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "RW05 Song of Falling Stars",
+        "number": 24,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "RU05 Prism Concerto",
+        "number": 65,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "RB05 Comets on Earth",
+        "number": 106,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "RR05 Showstopping Surprise",
+        "number": 147,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "RG05 Gluttony of the Deepest Depths",
+        "number": 188,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "RW06 Lilies of Murderous Intent",
+        "number": 25,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "RU06 Time Stop",
+        "number": 66,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "RB06 Spirit Medium's Melancholy",
+        "number": 107,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "RR06 An Offering to the Ownerless",
+        "number": 148,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "RG06 Dream Express",
+        "number": 189,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "RW07 Algorithmic Phantom",
+        "number": 26,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "RU07 Symposium of Post-Mysticism",
+        "number": 67,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "RB07 Yomotsu-Shikome's Grasp",
+        "number": 108,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "RR07 Deeds of Devilish Beasts",
+        "number": 149,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "RG07 Green Spiral",
+        "number": 190,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "UW01 Nazrin",
+        "number": 27,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "UU01 Hisoutensoku",
+        "number": 68,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "UB01 Rumia",
+        "number": 109,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "UR01 Mike Goutokuji",
+        "number": 150,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "UG01 Shizuha Aki",
+        "number": 191,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "UW02 Eika Ebisu",
+        "number": 28,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "UU02 Seiran",
+        "number": 69,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "UB02 Star Sapphire",
+        "number": 110,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "UR02 Sunny Milk",
+        "number": 151,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "UG02 Luna Child",
+        "number": 192,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "UW03 Kutaka Niwatari",
+        "number": 29,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "UU03 Akyuu Hieda",
+        "number": 70,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "UB03 Yoshika Miyako",
+        "number": 111,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "UR03 Parsee Mizuhashi",
+        "number": 152,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "UG03 Lily White",
+        "number": 193,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "UW04 Hong Meiling",
+        "number": 30,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "UU04 Renko Usami and Merry Hearn",
+        "number": 71,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "UB04 Nareko Michigami",
+        "number": 112,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "UR04 Tojiko Soga",
+        "number": 153,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "UG04 Chen",
+        "number": 194,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "UW05 Rei'sen",
+        "number": 31,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "UU05 Rinnosuke Morichika",
+        "number": 72,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "UB05 Medicine Melancholy",
+        "number": 113,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "UR05 Momiji Inubashiri",
+        "number": 154,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "UG05 Kyouko Kasodani",
+        "number": 195,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "UW06 Aunn Komano",
+        "number": 32,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "UU06 Lyrica Prismriver",
+        "number": 73,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "UB06 Lunasa Prismriver",
+        "number": 114,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "UR06 Merlin Prismriver",
+        "number": 155,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "UG06 Ringo",
+        "number": 196,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "UW07 Hina Kagiyama",
+        "number": 33,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "UU07 Fact or Fiction",
+        "number": 74,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "UB07 Shion Yorigami",
+        "number": 115,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "UR07 Stardust Reverie",
+        "number": 156,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "UG07 Ubame Chirizuka",
+        "number": 197,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "UW08 Keine Kamishirasawa",
+        "number": 34,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "UU08 Avert Incident",
+        "number": 75,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "UB08 Evil Dragon",
+        "number": 116,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "UR08 Event Horizon",
+        "number": 157,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "UG08 Missing Power",
+        "number": 198,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "UW09 Haniwa Cavalry",
+        "number": 35,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "UU09 Divining Crop",
+        "number": 76,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "UB09 Fox Winder",
+        "number": 117,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "UR09 Hungry Demon Siege",
+        "number": 158,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "UG09 Parade of One Hundred Demons",
+        "number": 199,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "UW10 Veils Like Sky",
+        "number": 36,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "UU10 Perfect Freeze",
+        "number": 77,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "UB10 Path to Yomotsu-Hirasaka",
+        "number": 118,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "UR10 Subterranean Sun",
+        "number": 159,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "UG10 Three Strikes at Midnight",
+        "number": 200,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "UW11 Roukanken and Hakurouken",
+        "number": 37,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "UU11 Kogasa Tatara",
+        "number": 78,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "UB11 Nimble Fabric",
+        "number": 119,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "UR11 Sword of Hisou",
+        "number": 160,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "UG11 Illusionary Reliquiae",
+        "number": 201,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "UW12 Vivid Color Downpour",
+        "number": 38,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "UU12 Astronomical Cover-Up",
+        "number": 79,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "UB12 Corpse Tongji",
+        "number": 120,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "UR12 Radiant Treasure Gun",
+        "number": 161,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "UG12 Twin Typhoons",
+        "number": 202,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "UW13 Share a Drink",
+        "number": 39,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "262"
+    },
+    {
+        "card_name": "UU13 Ensoul Artifact",
+        "number": 80,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "UB13 Embryo's Dream",
+        "number": 121,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "UR13 Hakurei Yin Yang Orbs",
+        "number": 162,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "254"
+    },
+    {
+        "card_name": "UG13 Miracle Fruit",
+        "number": 203,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "UW14 Eight-Shaku Occult Pillar",
+        "number": 40,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "UU14 Elemental Harvester",
+        "number": 81,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "259"
+    },
+    {
+        "card_name": "UB14 Unexplained Fever",
+        "number": 122,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "UR14 Gagouji's Cyclone",
+        "number": 163,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "UG14 Occult Ball",
+        "number": 204,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "UW15 Miracle Mallet",
+        "number": 41,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "264"
+    },
+    {
+        "card_name": "UU15 Dragon God Statue",
+        "number": 82,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "UB15 Higan Retour",
+        "number": 123,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "UR15 Tsukumogami Parade",
+        "number": 164,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "UG15 Necronomicon Kanji Edition",
+        "number": 205,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "CW01 Fairy Maid",
+        "number": 1,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "CU01 Rainfall Fairy",
+        "number": 42,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "CB01 Fairy of Old Hell",
+        "number": 83,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "CR01 Sunflower Fairy",
+        "number": 124,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "CG01 Makai Fairy",
+        "number": 165,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "CW02 Kedama",
+        "number": 2,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "CU02 Stray Vulgar Spirit",
+        "number": 43,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "CB02 Bakebake",
+        "number": 84,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "CR02 Little Devil",
+        "number": 125,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "CG02 Unfrozen Frog",
+        "number": 166,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "CW03 Wheel Ghost",
+        "number": 3,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "CU03 Karasu-Tengu",
+        "number": 44,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "CB03 Mouryo",
+        "number": 85,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "CR03 Chief Fairy",
+        "number": 126,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "CG03 Wonder Stone",
+        "number": 167,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "CW04 Mountain Sarugami",
+        "number": 4,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "CU04 Book-Reading Youkai",
+        "number": 45,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "CB04 Zenki and Goki",
+        "number": 86,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "CR04 Seto Taishou",
+        "number": 127,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "CG04 Great Fairy",
+        "number": 168,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "CW05 Tupai",
+        "number": 5,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "CU05 Hell Raven",
+        "number": 46,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "CB05 Mishaguji",
+        "number": 87,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "CR05 Boisterous Oni",
+        "number": 128,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "CG05 Lesser Tanuki",
+        "number": 169,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "CW06 Netherworld Phantoms",
+        "number": 6,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "CU06 Goliath Doll",
+        "number": 47,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "CB06 Kiketsu Family Underling",
+        "number": 88,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "CR06 Keiga Family Enforcer",
+        "number": 129,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "318"
+    },
+    {
+        "card_name": "CG06 Gouyoku Alliance Scout",
+        "number": 170,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "CW07 Moon Rabbit Corps",
+        "number": 7,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "CU07 Dream Fracture",
+        "number": 48,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "CB07 Umatsuki",
+        "number": 89,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "CR07 Raijuu",
+        "number": 130,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "CG07 Giant Toad",
+        "number": 171,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "CW08 Futakuchi-onna",
+        "number": 8,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "CU08 Logical Wall",
+        "number": 49,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "CB08 Curse of Human Imagination",
+        "number": 90,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "CR08 Phantom Dinning",
+        "number": 131,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "CG08 Oni Bender",
+        "number": 172,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "CW09 Dream Seal",
+        "number": 9,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "CU09 Lingering Cold",
+        "number": 50,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "CB09 Into Delirium",
+        "number": 91,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "CR09 Soaring Idaten",
+        "number": 132,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "CG09 Knockout in Three Steps",
+        "number": 173,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "CW10 Charming Siege from All Sides",
+        "number": 10,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "CU10 Spin the Cephalic Plate",
+        "number": 51,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "CB10 Corpse Shopping District",
+        "number": 92,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "CR10 Artful Sacrifice",
+        "number": 133,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "CG10 Blossoming of Gensokyo",
+        "number": 174,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "CW11 Tide-Flowing Jewel",
+        "number": 11,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "CU11 Magician's Grimoire",
+        "number": 52,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "CB11 Mishaguji's Scourge",
+        "number": 93,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "CR11 Melancholic Ogress Mask",
+        "number": 134,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "CG11 Sighing Osakabe Mask",
+        "number": 175,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "CW12 Power Resonance",
+        "number": 12,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "370"
+    },
+    {
+        "card_name": "CU12 Eagle Shooting",
+        "number": 53,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "CB12 Return to Action",
+        "number": 94,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "CR12 Lunatic Impact",
+        "number": 135,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "CG12 Confront the Unknown",
+        "number": 176,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "CW13 Settle Beyond Reality",
+        "number": 13,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "371"
+    },
+    {
+        "card_name": "CU13 Seed of Unknown Form",
+        "number": 54,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "CB13 Pluck Pigeon",
+        "number": 95,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "CR13 Blazing Dragon Veins",
+        "number": 136,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "CG13 Return to Nature",
+        "number": 177,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "CW14 Reverse Invoker",
+        "number": 14,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "369"
+    },
+    {
+        "card_name": "CU14 Brain Fingerprint",
+        "number": 55,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "CB14 Vanquish the Weak",
+        "number": 96,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "CR14 Mine Blast",
+        "number": 137,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "CG14 September Full Moon",
+        "number": 178,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "CW15 Evil-Sealing Circle",
+        "number": 15,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "372"
+    },
+    {
+        "card_name": "CU15 Psychokinesis App",
+        "number": 56,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "CB15 Lunatic Torch Relay",
+        "number": 97,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "CR15 Song of the Night Sparrow",
+        "number": 138,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "CG15 Old History of an Untrodden Land",
+        "number": 179,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "317"
+    },
+    {
+        "card_name": "CW16 Soul Torch",
+        "number": 16,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "263"
+    },
+    {
+        "card_name": "CU16 Tome Familiar",
+        "number": 57,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "319"
+    },
+    {
+        "card_name": "CB16 Youma Book",
+        "number": 98,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "CR16 Honest Man's Death",
+        "number": 139,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "CG16 Glimpse of Paradise",
+        "number": 180,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "CW17 Mysteries in the Sky",
+        "number": 17,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "404"
+    },
+    {
+        "card_name": "CU17 Lunar Siege",
+        "number": 58,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "374"
+    },
+    {
+        "card_name": "CB17 Spread of Scarlet Mist",
+        "number": 99,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "375"
+    },
+    {
+        "card_name": "CR17 Beast Yakuza's Con",
+        "number": 140,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "376"
+    },
+    {
+        "card_name": "CG17 New Rivals on the Mountain",
+        "number": 181,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "377"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "MZ02 Zanmu Nippaku",
+        "number": 212,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "MZ03 Doremy Sweet",
+        "number": 213,
+        "shape": "planeswalker",
+        "set": "GEN",
+        "rotated": false,
+        "position": "378"
+    },
+    {
+        "card_name": "RZ13 Seija Kijin",
+        "number": 239,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "MZ04 Momoyo Himemushi",
+        "number": 214,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "RZ01 Youmu Konpaku",
+        "number": 227,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "RZ05 Reisen Udongein Inaba",
+        "number": 231,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "RZ09 Aya Shameimaru",
+        "number": 235,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "RZ14 Shinmyoumaru Sukuna",
+        "number": 240,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "RZ17 Cirno",
+        "number": 243,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "RZ02 Byakuren Hijiri",
+        "number": 228,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "RZ06 Hatate Himekaidou",
+        "number": 232,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "329"
+    },
+    {
+        "card_name": "RZ10 Tsukasa Kudamaki",
+        "number": 236,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "RZ15 Clownpiece",
+        "number": 241,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "RZ18 Yuugi Hoshiguma",
+        "number": 244,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "RZ03 Satono Nishida and Mai Teireida",
+        "number": 229,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "RZ07 Ran Yakumo",
+        "number": 233,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "330"
+    },
+    {
+        "card_name": "RZ11 Mizuchi Miyadeguchi",
+        "number": 237,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "RZ16 Starbow Break",
+        "number": 242,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "328"
+    },
+    {
+        "card_name": "RZ19 Kokoro Hata",
+        "number": 245,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "RZ04 Devil's Recitation",
+        "number": 230,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "RZ08 Mind Starmine",
+        "number": 234,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "RZ12 Nina Watari",
+        "number": 238,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "UZ13 Rin Kaenbyou",
+        "number": 294,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "273"
+    },
+    {
+        "card_name": "RZ20 Box of a Hundred Medicines",
+        "number": 246,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "327"
+    },
+    {
+        "card_name": "UZ01 Minoriko Aki",
+        "number": 282,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "265"
+    },
+    {
+        "card_name": "UZ05 Wakasagihime",
+        "number": 286,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "UZ09 Kisume",
+        "number": 290,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "UZ14 Mystia Lorelei",
+        "number": 295,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "UZ17 Urumi Ushizaki",
+        "number": 298,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "276"
+    },
+    {
+        "card_name": "UZ02 Son Biten",
+        "number": 283,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "322"
+    },
+    {
+        "card_name": "UZ06 Tewi Inaba",
+        "number": 287,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "UZ10 Seiga Kaku",
+        "number": 291,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "271"
+    },
+    {
+        "card_name": "UZ15 Evil in the Mirror",
+        "number": 296,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "UZ18 Yatsuhashi Tsukumo",
+        "number": 299,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "277"
+    },
+    {
+        "card_name": "UZ03 Kagerou Imaizumi",
+        "number": 284,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "UZ07 Ichirin Kumoi",
+        "number": 288,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "269"
+    },
+    {
+        "card_name": "UZ11 Letty Whiterock",
+        "number": 292,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "UZ16 Spirit Geyser Eruption",
+        "number": 297,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "385"
+    },
+    {
+        "card_name": "UZ19 Nemuno Sakata",
+        "number": 300,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "278"
+    },
+    {
+        "card_name": "UZ04 Four Seasons at Once",
+        "number": 285,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "382"
+    },
+    {
+        "card_name": "UZ08 Gathering of Divine Spirits",
+        "number": 289,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "383"
+    },
+    {
+        "card_name": "UZ12 Unending Winter",
+        "number": 293,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "384"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ20 Invasion from Beast Realm",
+        "number": 301,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "386"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RZ29 Sakuya Izayoi",
+        "number": 255,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "RZ33 Marisa Kirisame",
+        "number": 259,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "MZ05 Five Impossible Requests",
+        "number": 215,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "MZ01 Divine Invocation",
+        "number": 211,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "RZ25 Sanae Kochiya",
+        "number": 251,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "RZ30 Hisami Yomotsu",
+        "number": 256,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "RZ34 Nitori Kawashiro",
+        "number": 260,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "RZ37 Mamizou Futatsuiwa",
+        "number": 263,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "RZ21 Reimu Hakurei",
+        "number": 247,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "RZ26 Misumaru Tamatsukuri",
+        "number": 252,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "RZ31 Miko Toyosatomimi",
+        "number": 257,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "RZ35 Sumireko Usami",
+        "number": 261,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "RZ38 Chiyari Tenkajin",
+        "number": 264,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "RZ22 Yorihime Watatsuki",
+        "number": 248,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "RZ27 Yuiman Asama",
+        "number": 253,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "RZ32 End of the Sixty Year Cycle",
+        "number": 258,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "379"
+    },
+    {
+        "card_name": "RZ36 Card Market Bubble",
+        "number": 262,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "380"
+    },
+    {
+        "card_name": "RZ39 Kaguya Houraisan",
+        "number": 265,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "RZ23 Jeweled Pagoda",
+        "number": 249,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "RZ28 False Moon in the Sky",
+        "number": 254,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "388"
+    },
+    {
+        "card_name": "UZ27 Takane Yamashiro",
+        "number": 308,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "285"
+    },
+    {
+        "card_name": "UZ30 Kosuzu Motoori",
+        "number": 311,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "289"
+    },
+    {
+        "card_name": "RZ40 Days Go On, Unchanging",
+        "number": 266,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "381"
+    },
+    {
+        "card_name": "RZ24 Revolution of the Weak",
+        "number": 250,
+        "shape": "saga",
+        "set": "GEN",
+        "rotated": false,
+        "position": "387"
+    },
+    {
+        "card_name": "UZ24 Sekibanki",
+        "number": 305,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "UZ28 Miyoi Okunoda",
+        "number": 309,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "286"
+    },
+    {
+        "card_name": "UZ31 Narumi Yatadera",
+        "number": 312,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "288"
+    },
+    {
+        "card_name": "UZ33 Wriggle Nightbug",
+        "number": 314,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "291"
+    },
+    {
+        "card_name": "UZ21 Futo Mononobe",
+        "number": 302,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "279"
+    },
+    {
+        "card_name": "UZ25 Enoko Mitsugashira",
+        "number": 306,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "UZ29 Guilty or Not Guilty",
+        "number": 310,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "287"
+    },
+    {
+        "card_name": "UZ32 Mini-Hakkero",
+        "number": 313,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "290"
+    },
+    {
+        "card_name": "UZ34 Yamame Kurodani",
+        "number": 315,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "292"
+    },
+    {
+        "card_name": "UZ22 Iku Nagae",
+        "number": 303,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "280"
+    },
+    {
+        "card_name": "UZ26 Beyond the Rainbow Door",
+        "number": 307,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "284"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ35 Pain Flow",
+        "number": 316,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "293"
+    },
+    {
+        "card_name": "UZ23 Benben Tsukumo",
+        "number": 304,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MZ08 Yukari Yakumo",
+        "number": 218,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "MZ09 Mima",
+        "number": 219,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "MZ10 Hecatia Lapislazuli",
+        "number": 220,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "MZ06 Kasen Ibaraki",
+        "number": 216,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "MZ07 Okina Matara",
+        "number": 217,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "RZ47 Sagume Kishin",
+        "number": 273,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "332"
+    },
+    {
+        "card_name": "RZ50 Nue Houjuu",
+        "number": 276,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "333"
+    },
+    {
+        "card_name": "RZ53 Flandre Scarlet",
+        "number": 279,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "334"
+    },
+    {
+        "card_name": "RZ41 Chimata Tenkyuu",
+        "number": 267,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "RZ44 Megumu Iizunamaru",
+        "number": 270,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "331"
+    },
+    {
+        "card_name": "RZ48 Vengeful Spirit Mass",
+        "number": 274,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "336"
+    },
+    {
+        "card_name": "RZ51 Nefarious Wealth",
+        "number": 277,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "344"
+    },
+    {
+        "card_name": "RZ54 O-Namazu",
+        "number": 280,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "345"
+    },
+    {
+        "card_name": "RZ42 Ultramarine Orb Elixir",
+        "number": 268,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "RZ45 Butterfly Dream",
+        "number": 271,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "335"
+    },
+    {
+        "card_name": "RZ49 Ministry of Right and Wrong",
+        "number": 275,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "343"
+    },
+    {
+        "card_name": "RZ52 Palace of the Earth Spirits",
+        "number": 278,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "337"
+    },
+    {
+        "card_name": "RZ55 Sea of the Blood Pools",
+        "number": 281,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "338"
+    },
+    {
+        "card_name": "RZ43 Primate Spirit Garden",
+        "number": 269,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "341"
+    },
+    {
+        "card_name": "RZ46 Narrow Confines of Avici",
+        "number": 272,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "342"
+    },
+    {
+        "card_name": "UZ42 Minamitsu Murasa",
+        "number": 323,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "300"
+    },
+    {
+        "card_name": "UZ45 Sannyo Komakusa",
+        "number": 326,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "303"
+    },
+    {
+        "card_name": "UZ48 Moon Invasion Force",
+        "number": 329,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "UZ36 Mayohiga",
+        "number": 317,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "295"
+    },
+    {
+        "card_name": "UZ39 Eternity Larva",
+        "number": 320,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "UZ43 Saigyou Ayakashi",
+        "number": 324,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "301"
+    },
+    {
+        "card_name": "UZ46 Komakusa of Massacre",
+        "number": 327,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "UZ49 Chimi Houjuu",
+        "number": 330,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "UZ37 Shou Toramaru",
+        "number": 318,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "294"
+    },
+    {
+        "card_name": "UZ40 Star of Ingenious Brilliance",
+        "number": 321,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "298"
+    },
+    {
+        "card_name": "UZ44 Sagacious Charm",
+        "number": 325,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "302"
+    },
+    {
+        "card_name": "UZ47 Underworld Charm",
+        "number": 328,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "305"
+    },
+    {
+        "card_name": "UZ50 Wild Charm",
+        "number": 331,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "321"
+    },
+    {
+        "card_name": "UZ38 Hakurei Charm",
+        "number": 319,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "296"
+    },
+    {
+        "card_name": "UZ41 Moriya Charm",
+        "number": 322,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "299"
+    },
+    {
+        "card_name": "CZ03 Watcher in the Gap",
+        "number": 208,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "310"
+    },
+    {
+        "card_name": "CZ04 Train Bisection",
+        "number": 209,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "311"
+    },
+    {
+        "card_name": "CZ05 Ominous Caller",
+        "number": 210,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "312"
+    },
+    {
+        "card_name": "CZ01 High-Speed Granny",
+        "number": 206,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "308"
+    },
+    {
+        "card_name": "CZ02 Lake-Dwelling Monster",
+        "number": 207,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "309"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MZ14 Junko",
+        "number": 224,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "MZ15 Suika Ibuki",
+        "number": 225,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "MZ11 Suwako Moriya",
+        "number": 221,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "MZ12 Keiki Haniyasushin",
+        "number": 222,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "MZ13 Kanako Yasaka",
+        "number": 223,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MZ16 Gensokyo Chronicle",
+        "number": 226,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "323"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MA01 Sumiyoshi Sanjin Rocket",
+        "number": 342,
+        "shape": "leveler",
+        "set": "GEN",
+        "rotated": false,
+        "position": "407"
+    },
+    {
+        "card_name": "RA01 Unidentified Flying Object",
+        "number": 343,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "RA02 Scroll of Fate",
+        "number": 344,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "346"
+    },
+    {
+        "card_name": "UA01 Streaming Doll",
+        "number": 345,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "340"
+    },
+    {
+        "card_name": "UA02 Oni-Shaped Sculpting Art",
+        "number": 346,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "UA03 Shinigami's Boat",
+        "number": 347,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "UA04 Palanquin Ship",
+        "number": 348,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "UA05 Yamanba's Cleaver",
+        "number": 349,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "UA06 Substitute Jizo",
+        "number": 350,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "UA07 Lunar Udonge",
+        "number": 351,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "A0 Gensokyo",
+        "number": 0,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "368"
+    },
+    {
+        "card_name": "CA01 Owotoshi Harvester",
+        "number": 332,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "347"
+    },
+    {
+        "card_name": "CA02 Basic Shikigami",
+        "number": 333,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "CA03 Tatterkite",
+        "number": 334,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "CA04 Lively Bullet Golem",
+        "number": 335,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "CA05 Oboroguruma",
+        "number": 336,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "CA06 Heavenly Keystone",
+        "number": 337,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "CA07 Genuine Magatama",
+        "number": 338,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "CA08 Lunar Treasure",
+        "number": 339,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "CA09 Stone Cherry",
+        "number": 340,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "CA10 Dragon Gem",
+        "number": 341,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL02 Canal of Willows",
+        "number": 354,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "CL03 Sanzu Riverbank",
+        "number": 355,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "CL04 Rainbow Dragon Cave",
+        "number": 356,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "CL05 False Heaven Shelf",
+        "number": 357,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "CL01 Garden of the Sun",
+        "number": 353,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL09 Road of Reconsideration",
+        "number": 361,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "CL07 Genbu Ravine",
+        "number": 359,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "CL10 Netherworld Orchard",
+        "number": 362,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "CL08 Hakurei Shrine",
+        "number": 360,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "CL06 Bamboo Forest of the Lost",
+        "number": 358,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL01 Old Hell of Blazing Fires",
+        "number": 363,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "314"
+    },
+    {
+        "card_name": "RL02 New Hell of Deep Shadows",
+        "number": 364,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "315"
+    },
+    {
+        "card_name": "UL01 Summit of the World",
+        "number": 365,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "UL02 Through the Back Door",
+        "number": 366,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "UL03 Sea of Tranquility",
+        "number": 367,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "UL04 Streets of Old Hell",
+        "number": 368,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "UL05 Downtown Beast Realm",
+        "number": 369,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "UL06 Barrier Fault",
+        "number": 370,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "373"
+    },
+    {
+        "card_name": "CA11 Devil's Library",
+        "number": 352,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "LL01 Plains",
+        "number": 371,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "348"
+    },
+    {
+        "card_name": "LL05 Island",
+        "number": 375,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "349"
+    },
+    {
+        "card_name": "LL09 Swamp",
+        "number": 379,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "350"
+    },
+    {
+        "card_name": "LL13 Mountain",
+        "number": 383,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "351"
+    },
+    {
+        "card_name": "LL17 Forest",
+        "number": 387,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "352"
+    },
+    {
+        "card_name": "LL02 Plains",
+        "number": 372,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "353"
+    },
+    {
+        "card_name": "LL03 Plains",
+        "number": 373,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "354"
+    },
+    {
+        "card_name": "LL04 Plains",
+        "number": 374,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "355"
+    },
+    {
+        "card_name": "LL06 Island",
+        "number": 376,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "356"
+    },
+    {
+        "card_name": "LL07 Island",
+        "number": 377,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "357"
+    },
+    {
+        "card_name": "LL08 Island",
+        "number": 378,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "358"
+    },
+    {
+        "card_name": "LL10 Swamp",
+        "number": 380,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "359"
+    },
+    {
+        "card_name": "LL11 Swamp",
+        "number": 381,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "360"
+    },
+    {
+        "card_name": "LL12 Swamp",
+        "number": 382,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "361"
+    },
+    {
+        "card_name": "LL14 Mountain",
+        "number": 384,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "362"
+    },
+    {
+        "card_name": "LL16 Mountain",
+        "number": 386,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "363"
+    },
+    {
+        "card_name": "LL15 Mountain",
+        "number": 385,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "364"
+    },
+    {
+        "card_name": "LL19 Forest",
+        "number": 389,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "365"
+    },
+    {
+        "card_name": "LL18 Forest",
+        "number": 388,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "366"
+    },
+    {
+        "card_name": "LL20 Forest",
+        "number": 390,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "367"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "TC01 Manifest",
+        "number": 1,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "406"
+    },
+    {
+        "card_name": "TA01 Toy",
+        "number": 13,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "400"
+    },
+    {
+        "card_name": "TA02 Spirit",
+        "number": 14,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "401"
+    },
+    {
+        "card_name": "TA03 Drone Clue",
+        "number": 15,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "402"
+    },
+    {
+        "card_name": "TA04 Clue",
+        "number": 16,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "403"
+    },
+    {
+        "card_name": "TA05 Blood",
+        "number": 17,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "405"
+    },
+    {
+        "card_name": "TW01 Minion",
+        "number": 2,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "394"
+    },
+    {
+        "card_name": "TB01 Skeleton",
+        "number": 4,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "396"
+    },
+    {
+        "card_name": "TB02 Bat",
+        "number": 5,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "397"
+    },
+    {
+        "card_name": "TG01 Faerie",
+        "number": 6,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "398"
+    },
+    {
+        "card_name": "TG02 Plant",
+        "number": 7,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "399"
+    },
+    {
+        "card_name": "TW02 Soldier",
+        "number": 3,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "395"
+    },
+    {
+        "card_name": "TZ01 Unzan",
+        "number": 8,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "389"
+    },
+    {
+        "card_name": "TZ02 Backup Dancer",
+        "number": 9,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "393"
+    },
+    {
+        "card_name": "TZ03 Horror",
+        "number": 10,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "392"
+    },
+    {
+        "card_name": "TZ04 Ogre",
+        "number": 11,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "391"
+    },
+    {
+        "card_name": "TZ05 Book",
+        "number": 12,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "390"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
