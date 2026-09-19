@@ -1,4 +1,28 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+A0 Gensokyo removed.
+
+MZ16 Gensokyo Chronicle
+rules_text: Nonland cards you own have flash.
+{T}, Exile a Book card or a card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. If it was a permanent card, it enters with a finality counter on it. => Nonland cards you own have flash.
+{T}, Exile a Book card or a card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. Otherwise, it enters with a finality counter on it. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]
+
+RZ08 Mind Starmine
+rules_text: Spellcard
+Tap all untapped creatures. For each creature tapped this way, gain 1 life for each creature you control and draw a card for each creature you don't control. => Spellcard
+Tap all untapped creatures. For each creature you control tapped this way, gain 1 life. For each creature you don't control tapped this way, draw a card.
+
+RR01 Mokou Fujiwara
+rules_text: When Mokou enters, she deals 2 damage to target creature or planeswalker.
+When Mokou leaves the battlefield, she deals 2 damage to target player or planeswalker.
+Lunatic—Pay 2 life. => [i]Phoenix Rebirth[/i] — When Mokou enters, she deals 2 damage to target creature or planeswalker.
+[i]Possessed by Phoenix[/i] — When Mokou leaves the battlefield, she deals 2 damage to target player or planeswalker.
+Lunatic—Pay 2 life.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

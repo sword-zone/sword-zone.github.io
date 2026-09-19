@@ -3481,216 +3481,6 @@
 			}
 		},
 		{
-			"name": "LL01 Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "371",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/348.png"
-			}
-		},
-		{
-			"name": "LL05 Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "375",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/349.png"
-			}
-		},
-		{
-			"name": "LL09 Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "379",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/350.png"
-			}
-		},
-		{
-			"name": "LL13 Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "383",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/351.png"
-			}
-		},
-		{
-			"name": "LL17 Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "387",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/352.png"
-			}
-		},
-		{
-			"name": "LL02 Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "372",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/353.png"
-			}
-		},
-		{
-			"name": "LL03 Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "373",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/354.png"
-			}
-		},
-		{
-			"name": "LL04 Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "374",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/355.png"
-			}
-		},
-		{
-			"name": "LL06 Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "376",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/356.png"
-			}
-		},
-		{
-			"name": "LL07 Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "377",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/357.png"
-			}
-		},
-		{
-			"name": "LL08 Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "378",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/358.png"
-			}
-		},
-		{
-			"name": "LL10 Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "380",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/359.png"
-			}
-		},
-		{
-			"name": "LL11 Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "381",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/360.png"
-			}
-		},
-		{
-			"name": "LL12 Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "382",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/361.png"
-			}
-		},
-		{
-			"name": "LL14 Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "384",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/362.png"
-			}
-		},
-		{
-			"name": "LL16 Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "386",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/363.png"
-			}
-		},
-		{
-			"name": "LL15 Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "385",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/364.png"
-			}
-		},
-		{
-			"name": "LL19 Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "389",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/365.png"
-			}
-		},
-		{
-			"name": "LL18 Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "388",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/366.png"
-			}
-		},
-		{
-			"name": "LL20 Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "390",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/367.png"
-			}
-		},
-		{
-			"name": "A0 Gensokyo",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://sword-zone.github.io/sets/GEN-files/img/368.png"
-			}
-		},
-		{
 			"name": "CW14 Reverse Invoker",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
@@ -4446,7 +4236,6 @@
 	8 CR06 Keiga Family Enforcer
 	8 CU16 Tome Familiar
 	8 CA01 Owotoshi Harvester
-	8 A0 Gensokyo
 	8 CW14 Reverse Invoker
 	8 CW12 Power Resonance
 	8 CW13 Settle Beyond Reality
@@ -4559,7 +4348,6 @@
 	8 CR06 Keiga Family Enforcer
 	8 CU16 Tome Familiar
 	8 CA01 Owotoshi Harvester
-	8 A0 Gensokyo
 	8 CW14 Reverse Invoker
 	8 CW12 Power Resonance
 	8 CW13 Settle Beyond Reality
@@ -4918,7 +4706,6 @@
 	2 RZ54 O-Namazu
 	2 RA02 Scroll of Fate
 	12 CA01 Owotoshi Harvester
-	12 A0 Gensokyo
 	12 CW14 Reverse Invoker
 	12 CW12 Power Resonance
 	12 CW13 Settle Beyond Reality
@@ -5290,7 +5077,6 @@
 	7 RZ54 O-Namazu
 	7 RA02 Scroll of Fate
 	6 CA01 Owotoshi Harvester
-	6 A0 Gensokyo
 	6 CW14 Reverse Invoker
 	6 CW12 Power Resonance
 	6 CW13 Settle Beyond Reality

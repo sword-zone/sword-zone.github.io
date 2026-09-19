@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-17</releasedate>
+			<releasedate>2026-09-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5770,7 +5770,7 @@ Monkey Magic — Face down creatures you control are Monkeys and costs to turn t
 		<card>
 			<name>MZ16 Gensokyo Chronicle</name>
 			<text>Nonland cards you own have flash.
-{T}, Exile a Book card or a card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. If it was a permanent card, it enters with a finality counter on it.</text>
+{T}, Exile a Book card or a card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. Otherwise, it enters with a finality counter on it. (If a permanent with a finality counter on it would die, exile it instead.)</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/323.png" num="226">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5805,7 +5805,7 @@ Sacrifice this enchantment: Add {W}{U}{B}{R}{G}. Spend this mana only to turn ca
 		<card>
 			<name>RZ08 Mind Starmine</name>
 			<text>Spellcard
-Tap all untapped creatures. For each creature tapped this way, gain 1 life for each creature you control and draw a card for each creature you don&apos;t control.</text>
+Tap all untapped creatures. For each creature you control tapped this way, gain 1 life. For each creature you don&apos;t control tapped this way, draw a card.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/325.png" num="234">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6058,8 +6058,8 @@ Sacrifice this Aura: You may play an additional land this turn. Draw a card.</te
 		</card>
 		<card>
 			<name>RR01 Mokou Fujiwara</name>
-			<text>When Mokou enters, she deals 2 damage to target creature or planeswalker.
-When Mokou leaves the battlefield, she deals 2 damage to target player or planeswalker.
+			<text>Phoenix Rebirth — When Mokou enters, she deals 2 damage to target creature or planeswalker.
+Possessed by Phoenix — When Mokou leaves the battlefield, she deals 2 damage to target player or planeswalker.
 Lunatic—Pay 2 life.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/339.png" num="143">GEN</set>
 			<prop>
@@ -6210,320 +6210,6 @@ When you cast this spell, if it has flash, you may sacrifice a land. If you do, 
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>LL01 Plains</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/348.png" num="371">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Plains</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL05 Island</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/349.png" num="375">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Island</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL09 Swamp</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/350.png" num="379">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Swamp</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL13 Mountain</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/351.png" num="383">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL17 Forest</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/352.png" num="387">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Forest</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL02 Plains</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/353.png" num="372">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Plains</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL03 Plains</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/354.png" num="373">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Plains</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL04 Plains</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/355.png" num="374">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Plains</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL06 Island</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/356.png" num="376">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Island</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL07 Island</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/357.png" num="377">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Island</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL08 Island</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/358.png" num="378">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Island</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL10 Swamp</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/359.png" num="380">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Swamp</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL11 Swamp</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/360.png" num="381">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Swamp</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL12 Swamp</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/361.png" num="382">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Swamp</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL14 Mountain</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/362.png" num="384">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL16 Mountain</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/363.png" num="386">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL15 Mountain</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/364.png" num="385">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL19 Forest</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/365.png" num="389">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Forest</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL18 Forest</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/366.png" num="388">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Forest</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>LL20 Forest</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/367.png" num="390">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Forest</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>A0 Gensokyo</name>
-			<text></text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/368.png" num="0">GEN</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>CW14 Reverse Invoker</name>
