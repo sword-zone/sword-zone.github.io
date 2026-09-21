@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-19</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -221,7 +221,7 @@ Create a 2/1 colorless Drone Clue creature token with &quot;{2}, Sacrifice this 
 		<card>
 			<name>CU02 Stray Vulgar Spirit</name>
 			<text>Flying; haunt (When this creature dies, exile it haunting target creature.)
-Haunted creature has +1/+1.</text>
+Haunted creature gets +1/+1.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/12.png" num="43">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6432,7 +6432,8 @@ III — Surveil X, where X is the number of charge counters on permanents you co
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — You may play lands and cast spells from your graveyard, can&apos;t play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
 II — Mill four cards.
-III — &quot;Why don&apos;t you witness for yourself how Gensokyo changes?&quot; — Ariya Iwanaga</text>
+III — &quot;Why don&apos;t you witness for yourself how Gensokyo changes?&quot;
+—Ariya Iwanaga</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/381.png" num="266">GEN</set>
 			<prop>
 				<layout>saga</layout>

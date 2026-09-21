@@ -1,4 +1,53 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+CU02 Stray Vulgar Spirit
+rules_text: Flying; haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+Haunted creature has +1/+1. => Flying; haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+Haunted creature gets +1/+1.
+
+CU07 Dream Fracture
+
+CB14 Vanquish the Weak
+
+CG12 Confront the Unknown
+
+CG13 Return to Nature
+
+UU07 Fact or Fiction
+
+RR05 Showstopping Surprise
+
+RG04 Seasons Past
+
+CA03 Tatterkite
+
+UU13 Ensoul Artifact
+
+CW13 Settle Beyond Reality
+
+RZ40 Days Go On, Unchanging
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
+II — Mill four cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?” — Ariya Iwanaga[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
+II — Mill four cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?”
+—Ariya Iwanaga[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
+II — Mill four cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?” — Ariya Iwanaga[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
+II — Mill four cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?”
+—Ariya Iwanaga[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
