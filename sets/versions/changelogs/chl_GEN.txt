@@ -1,4 +1,314 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CW04 Nurikabe added.
+CB03 Otherworld Fairy added.
+CR04 Purified Fairy added.
+CR07 Death Fairy added.
+CG02 Fairy Prankster added.
+
+CW04 Mountain Sarugami removed.
+CB03 Mouryo removed.
+CR04 Seto Taishou removed.
+CR07 Raijuu removed.
+CG02 Unfrozen Frog removed.
+
+CU15 Psychokinesis App
+rules_text: Return target nonland permanent to its owner's hand. Target player mills cards equal to its mana value.
+Lunatic {2}{U} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Return target creature to its owner's hand. Target player mills cards equal to its mana value.
+Lunatic {2}{U} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CB05 Mishaguji
+rules_text: When this creature enters, if a card left your graveyard this turn, draw a card.
+Lunatic {3}{B} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When this creature enters, if a card left your graveyard this turn, draw a card.
+Lunatic {3}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CB08 Curse of Human Imagination
+rules_text: Create three 1/1 black and green Horror creature tokens.
+Lunatic {3}{B} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Create three 1/1 black and green Horror creature tokens.
+Lunatic {3}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CB15 Lunatic Torch Relay
+rules_text: Return target creature card from your graveyard to your hand. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {2}{B} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Return target creature card from your graveyard to your hand. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {2}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR01 Sunflower Fairy
+rules_text: Whenever this creature attacks, it deals 1 damage to any target.
+Lunatic {2}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Whenever this creature attacks, it deals 1 damage to any target.
+Lunatic {2}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR02 Little Devil
+rules_text: When Little Devil leaves the battlefield, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {0} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When Little Devil leaves the battlefield, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {0} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR03 Chief Fairy
+rules_text: Whenever this creature attacks, it gets +X/+0, where X is equal to the number of colorless nonland permanents you control. => Unseal 1 [i](This creature enters with a -1/-1 counter on it. Whenever it deals combat damage, remove up to that many counters from it.)[/i]
+While there are no counters on this creature, other creatures you control get +1/+0.
+pt: 1/2 => 2/3
+
+CR09 Soaring Idaten
+rules_text: Target creature you control gets +2/+0 and gains haste until end of turn. You may discard a card. If you do, add {R}.
+Lunatic {1}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Target creature you control gets +2/+0 and gains haste until end of turn. You may discard a card. If you do, add {R}.
+Lunatic {1}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UR07 Stardust Reverie
+rules_text: Stardust Reverie deals 2 damage to each creature. If this spell was cast from your graveyard, it deals 5 damage to each creature instead.
+Lunatic {5}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Stardust Reverie deals 2 damage to each creature. If this spell was cast from your graveyard, it deals 5 damage to each creature instead.
+Lunatic {5}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UW04 Hong Meiling
+type: Creature — Monk => Creature — Horror Monk
+
+CU08 Logical Wall
+rules_text: Put a charge counter on target permanent you control.
+Target creature's controller puts it on their choice of the top or bottom of their library. => Put a charge counter on target permanent you control.
+Return target nonland permanent to its owner's hand. They may discard that card. If they do, they draw a card.
+
+UU09 Divining Crop
+rules_text: Search your library for an instant, sorcery, or card with spellcard, reveal it, put it into your hand, then shuffle.
+Lunatic {4}{U} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Search your library for an instant, sorcery, or card with spellcard, reveal it, put it into your hand, then shuffle.
+Lunatic {4}{U} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UB02 Star Sapphire
+rules_text: As long as Star entered the battlefield this turn, whenever another Faerie enters the battlefield, each opponent loses 1 life.
+[i]Starlight Rain[/i] — Whenever Star attacks, Faeries you control gain menace until end of turn. => As long as Star entered the battlefield this turn, whenever another Faerie enters, each opponent loses 1 life.
+[i]Starlight Rain[/i] — Whenever Star attacks, Faeries you control gain menace until end of turn.
+
+UB01 Rumia
+type: Creature — Imp => Creature — Imp Horror
+
+UB03 Yoshika Miyako
+rules_text: [i]Undead Murderer[/i] — When Yoshika enters, put two -1/-1 counters on her if she was cast from your hand. You may sacrifice another creature. If you do, gain life equal to her power.
+Lunatic {1}{B}{B} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => [i]Undead Murderer[/i] — When Yoshika enters, put two -1/-1 counters on her if she was cast from your hand. You may sacrifice another creature. If you do, gain life equal to her power.
+Lunatic {1}{B}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UB09 Fox Winder
+rules_text: Choose one —
+• Target player draws a card and loses 1 life.
+• Target player discards a card.
+Lunatic {B} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Choose one —
+• Target player draws a card and loses 1 life.
+• Target player discards a card.
+Lunatic {B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UR04 Tojiko Soga
+rules_text: [i]Iruka's Thunder[/i] — When Tojiko enters, she deals 3 damage to target creature.
+Lunatic {4}{R}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => [i]Iruka's Thunder[/i] — When Tojiko enters, she deals 3 damage to target creature.
+Lunatic {4}{R}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR12 Lunatic Impact
+rules_text: Choose any number of permanents, then give each another counter of each kind already there.
+Look at the top card of your library and exile it face down. Until end of turn, you may play that card.
+Lunatic {2}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Choose any number of permanents, then give each another counter of each kind already there.
+Look at the top card of your library and exile it face down. Until end of turn, you may play that card.
+Lunatic {2}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UG05 Kyouko Kasodani
+type: Creature — Beast => Creature — Beast Horror
+
+RW07 Algorithmic Phantom
+cost: {2}{W} => {3}{W}
+rules_text: When this enchantment enters, manifest a card from your hand.
+Whenever one or more colorless nontoken creatures you control enters, investigate. => If you would draw a card except the first one you draw in each of your draw steps, manifest the top card of your library instead.
+{3}: Investigate. Activate this ability only once each turn.
+
+MW01 Eiki Shiki, Yamaxandu
+type: Creature — Archon => Creature — Archon Advisor
+
+MG02 Ariya Iwanaga
+type: Creature — Spirit => Creature — Spirit Noble
+
+MZ10 Hecatia Lapislazuli
+type: Creature — Demon => Creature — Demon Spirit
+rules_text: First strike, unseal, ward {3}
+When you cast Hecatia, she enters with two charge counters on her.
+[i]Trinitarian Rhapsody[/i] — Whenever you remove a counter from Hecatia, create a copy of her. => First strike, unseal, ward {3}
+When Hecatia enters, if she's not a token, she enters with two charge counters on her.
+[i]Trinitarian Rhapsody[/i] — Whenever you remove a counter from Hecatia, create a copy of her.
+
+RZ22 Yorihime Watatsuki
+type: Creature — Moonfolk Noble Cleric => Creature — Moonfolk Cleric Noble
+
+RZ35 Sumireko Usami
+rules_text: You have no maximum hand size.
+[i]Psychexplosion[/i] — When Sumireko enters, look at the top three cards of your library. Put one of those cards into your hand and the rest into your graveyard. Sumireko deals damage equal to the mana value of cards put into your graveyard this way to any target. => You have no maximum hand size.
+[i]Psychexplosion[/i] — When Sumireko enters, look at the top three cards of your library. Put one of those cards into your graveyard and the rest into your hand. Sumireko deals damage equal to the mana value of cards put into your graveyard this way to any target.
+
+UR13 Hakurei Yin Yang Orbs
+rules_text: When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
+Sacrifice this artifact: Discard a card, then draw a card.
+Lunatic {3}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
+Sacrifice this artifact: Discard a card, then draw a card.
+Lunatic {3}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UZ07 Ichirin Kumoi
+type: Creature — Monk => Creature — Horror Monk
+
+UZ09 Kisume
+type: Creature — Ouphe => Creature — Ouphe Horror
+
+UZ10 Seiga Kaku
+rules_text: Seiga can't be blocked.
+Whenever Seiga deals combat damage to a player, put a charge counter on her.
+[i]Yoshika Tongling[/i] — {T}, Remove X charge counters from Seiga: Return target creature card with mana value X or less from your graveyard to the battlefield. => Seiga can't be blocked.
+Whenever Seiga deals combat damage to a player, put that many charge counters on her.
+[i]Yoshika Tongling[/i] — {T}, Remove X charge counters from Seiga: Return target creature card with mana value X or less from your graveyard to the battlefield.
+
+UZ13 Rin Kaenbyou
+pt: 3/3 => 3/2
+
+UZ06 Tewi Inaba
+rules_text: When Tewi enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Vulnerary of Ohnamuji-sama[/i] — Clues you control have “{1}, Sacrifice this artifact: Look at the top three cards of your library. Put them on top of your library in any order, then draw a card. Gain 2 life.” => When Tewi enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Vulnerary of Ohnamuji-sama[/i] — Clues you control have “{2}, Sacrifice this artifact: Look at the top three cards of your library. Put them on top of your library in any order, then draw a card. Gain 2 life.”
+
+UZ30 Kosuzu Motoori
+rules_text: When Kosuzu enters, investigate, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don't, manifest it at end of turn. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.” To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i] => When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don't, manifest it at end of turn. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+pt: 0/1 => 1/1
+
+UZ33 Wriggle Nightbug
+type: Creature — Insect => Creature — Insect Horror
+
+UZ42 Minamitsu Murasa
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+At the beginning of your upkeep, if Murasa is haunting an untapped creature, you may tap that creature. When you do, target Vehicle becomes an artifact creature until end of turn.
+[i]Sinker Ghost[/i] — At the beginning of your end step, you may put a -1/-1 counter on haunted creature. => Menace, lifelink; haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Sinker Ghost[/i] — Put up to two -1/-1 counters on haunted creature: Target artifact you control becomes an artifact creature until end of turn. If it isn't a Vehicle, it becomes a 2/2 Vehicle until until end of turn. Activate this ability only as a sorcery and only once each turn.
+
+UZ46 Komakusa of Massacre
+rules_text: Gain control of target creature. Untap it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+Lunatic {2}{U}{B}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Gain control of target creature. Untap it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+Lunatic {2}{U}{B}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CZ01 High-Speed Granny
+rules_text: [i]Urban Legend[/i] — You may pay {2}{W} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Double strike
+Whenever you attack, up to two target creatures get +1/+0 until end of turn.
+{4}: This enchantment becomes an enchantment creature. [i](This effect lasts indefinitely.)[/i] => [i]Urban Legend[/i] — You may pay {2}{W} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Double strike
+Whenever you attack, up to two target creatures get +1/+0 until end of turn.
+{4}: This enchantment becomes an enchantment creature. [i](This effect doesn't end.)[/i]
+
+CZ02 Lake-Dwelling Monster
+rules_text: [i]Urban Legend [/i]— You may pay {2}{U} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Vigilance
+{T}: Untap another target creature.
+{4}: This enchantment becomes an enchantment creature. [i](This effect lasts indefinitely.)[/i]” => [i]Urban Legend [/i]— You may pay {2}{U} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Vigilance
+{T}: Untap another target creature.
+{4}: This enchantment becomes an enchantment creature. [i](This effect doesn't end.)[/i]
+
+CZ03 Watcher in the Gap
+rules_text: [i]Urban Legend[/i] — You may pay {2}{B} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Deathtouch
+Whenever another creature you control leaves the battlefield, target opponent loses 1 life and you gain 1 life.
+{4}: This enchantment becomes an enchantment creature. [i](This effect lasts indefinitely.)[/i] => [i]Urban Legend[/i] — You may pay {2}{B} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Deathtouch
+Whenever another creature you control leaves the battlefield, target opponent loses 1 life and you gain 1 life.
+{4}: This enchantment becomes an enchantment creature. [i](This effect doesn't end.)[/i]
+
+CZ04 Train Bisection
+rules_text: [i]Urban Legend[/i] — You may pay {2}{R} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Menace
+Whenever you cast a spell from anywhere other than your hand, this enchantment deals 2 damage to target player.
+{4}: This enchantment becomes an enchantment creature. [i](This effect lasts indefinitely.)[/i] => [i]Urban Legend[/i] — You may pay {2}{R} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Menace
+Whenever you cast a spell from anywhere other than your hand, this enchantment deals 2 damage to target player.
+{4}: This enchantment becomes an enchantment creature. [i](This effect doesn't end.)[/i]
+
+CZ05 Ominous Caller
+rules_text: [i]Urban Legend[/i] — You may pay {2}{G} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Trample
+The first creature that enters under your control each turn gains haste until end of turn.
+{4}: This enchantment becomes an enchantment creature. [i](This effect lasts indefinitely.)[/i] => [i]Urban Legend[/i] — You may pay {2}{G} instead of paying this card's mana cost. If you do, when it enters it isn't a creature.
+Trample
+The first creature that enters under your control each turn gains haste until end of turn.
+{4}: This enchantment becomes an enchantment creature. [i](This effect doesn't end.)[/i]
+
+RZ12 Nina Watari
+rules_text: [i]New World Order —[/i] Whenever a nonland non-Illusion permanent enters the battlefield under your control, if it's a creature or if it has a {T} symbol in its text, create a copy of it, except it's an Illusion in addition to its other card types.
+Whenever an Illusion token you control becomes tapped, sacrifice it at the beginning of the next end step. => [i]New World Order —[/i] Whenever you cast a non-Illusion permanent spell, if it's a creature or if it has a {T} symbol in its text, create a copy of it, except it's an Illusion in addition to its other card types.
+Whenever an Illusion token you control becomes tapped, sacrifice it at the beginning of the next end step.
+pt: 4/4 => 3/3
+
+RZ32 End of the Sixty Year Cycle
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile a card with mana value 5 or less from your hand or graveyard.
+II — Gain life equal to the mana value of the exiled card.
+III — You may cast the exiled card without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile a nonland card with mana value 5 or less from your hand or graveyard.
+II — Gain life equal to the mana value of the exiled card.
+III — You may cast the exiled card without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile a card with mana value 5 or less from your hand or graveyard.
+II — Gain life equal to the mana value of the exiled card.
+III — You may cast the exiled card without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile a nonland card with mana value 5 or less from your hand or graveyard.
+II — Gain life equal to the mana value of the exiled card.
+III — You may cast the exiled card without paying its mana cost.
+
+UZ08 Gathering of Divine Spirits
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain 2 life for each card you own in exile haunting creatures.
+II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
+III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may return target permanent you control to its owner's hand.
+II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
+III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain 2 life for each card you own in exile haunting creatures.
+II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
+III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may return target permanent you control to its owner's hand.
+II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
+III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance.
+
+
+VERSION 4 CHANGELOG
+====================
+
+
+
+CR14 Mine Blast
+rules_text: Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+Choose one —
+• Mine Blast deals 3 damage to target creature or planeswalker.
+• Destroy target artifact.
+• Add {R}{R}{R}{R}{R}. You may choose this mode only if this spell has flash. => Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+Choose one —
+• Mine Blast deals 3 damage to target creature or planeswalker.
+• Destroy target artifact.
+• Add {R}{R}{R}{R}{R}. Choose this mode only if this spell has flash.
+
+RZ26 Misumaru Tamatsukuri
+rules_text: Ward {X}, where X is the number of artifacts you control.
+[i]Yin-Yang Divine Orbs[/i] — {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way. => Ward {X}, where X is the number of artifacts you control.
+[i]Yin Yang Divine Orbs[/i] — {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way.
+
+RZ41 Chimata Tenkyuu
+rules_text: Flying, haste
+[i]Rainbow Ring of People[/i] — {T}: Choose another target non-Aura permanent you control and target nonland permanent an opponent controls. If those permanents are within 1 mana value of each other, exchange control of them. Activate only as a sorcery. => Flying, haste
+[i]Rainbow Ring of People[/i] — When Chimata enters, choose another target non-Aura permanent you control and target nonland non-Aura permanent an opponent controls. If those permanents are within 1 mana value of each other, exchange control of them.
+
+UR13 Hakurei Yin Yang Orbs
+rules_text: When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
+Sacrifice this artifact: Draw a card, then discard a card.
+Lunatic {3}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
+Sacrifice this artifact: Discard a card, then draw a card.
+Lunatic {3}{R} [i](If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+RZ20 Box of a Hundred Medicines
+rules_text: When this artifact enters, sacrifice up to two lands.
+Whenever a land leaves the battlefield, put a charge counter on this artifact.
+At the beginning of your end step, if a land left the battlefield this turn, create an X/X red and green Ogre creature token, where X is the number of charge counters on this artifact. => When this artifact enters, sacrifice a land.
+Whenever a land leaves the battlefield, put a charge counter on this artifact.
+{T}: Add {R} or {G}.
+At the beginning of your end step, if a land left the battlefield this turn, create an X/X red and green Ogre creature token, where X is the number of charge counters on this artifact.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

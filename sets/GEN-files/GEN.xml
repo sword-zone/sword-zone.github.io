@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-21</releasedate>
+			<releasedate>2026-09-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -62,13 +62,13 @@ When this creature is turned face up, it gets +2/+0 until end of turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW04 Mountain Sarugami</name>
+			<name>CW04 Nurikabe</name>
 			<text>Whenever this creature attacks, another target creature you control gains indestructible until end of turn.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/3.png" num="4">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Monkey</type>
+				<type>Creature — Wall Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
@@ -380,8 +380,8 @@ If this spell has flash, activated abilities of artifacts you control cost {1} l
 		</card>
 		<card>
 			<name>CU15 Psychokinesis App</name>
-			<text>Return target nonland permanent to its owner&apos;s hand. Target player mills cards equal to its mana value.
-Lunatic {2}{U} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+			<text>Return target creature to its owner&apos;s hand. Target player mills cards equal to its mana value.
+Lunatic {2}{U} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/21.png" num="56">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -502,13 +502,13 @@ Haunted creature has base power and toughness 1/1.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB03 Mouryo</name>
+			<name>CB03 Otherworld Fairy</name>
 			<text>When this creature enters, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/28.png" num="85">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Spirit</type>
+				<type>Creature — Faerie</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -557,7 +557,7 @@ Whenever you remove one or more counters from a permanent you control, create a 
 		<card>
 			<name>CB05 Mishaguji</name>
 			<text>When this creature enters, if a card left your graveyard this turn, draw a card.
-Lunatic {3}{B} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {3}{B} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/31.png" num="87">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -647,7 +647,7 @@ If this spell has flash, creatures you control get +1/+0 until end of turn.</tex
 		<card>
 			<name>CB08 Curse of Human Imagination</name>
 			<text>Create three 1/1 black and green Horror creature tokens.
-Lunatic {3}{B} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {3}{B} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/36.png" num="90">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -715,7 +715,7 @@ Choose one —
 		<card>
 			<name>CB15 Lunatic Torch Relay</name>
 			<text>Return target creature card from your graveyard to your hand. Create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
-Lunatic {2}{B} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {2}{B} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/40.png" num="97">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -732,7 +732,7 @@ Lunatic {2}{B} (If a card has been discarded this turn, you may cast this from y
 		<card>
 			<name>CR01 Sunflower Fairy</name>
 			<text>Whenever this creature attacks, it deals 1 damage to any target.
-Lunatic {2}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {2}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/41.png" num="124">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -750,7 +750,7 @@ Lunatic {2}{R} (If a card has been discarded this turn, you may cast this from y
 		<card>
 			<name>CR02 Little Devil</name>
 			<text>When Little Devil leaves the battlefield, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
-Lunatic {0} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {0} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/42.png" num="125">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -766,9 +766,9 @@ Lunatic {0} (If a card has been discarded this turn, you may cast this from your
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR03 Chief Fairy</name>
+			<name>CR04 Purified Fairy</name>
 			<text>Whenever this creature attacks, it gets +X/+0, where X is equal to the number of colorless nonland permanents you control.</text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/43.png" num="126">GEN</set>
+			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/43.png" num="127">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -801,14 +801,14 @@ Lunatic {0} (If a card has been discarded this turn, you may cast this from your
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR04 Seto Taishou</name>
+			<name>CR03 Chief Fairy</name>
 			<text>Unseal 1 (This creature enters with a -1/-1 counter on it. Whenever it deals combat damage, remove up to that many counters from it.)
 While there are no counters on this creature, other creatures you control get +1/+0.</text>
-			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/45.png" num="127">GEN</set>
+			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/45.png" num="126">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Soldier</type>
+				<type>Creature — Faerie</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -819,14 +819,14 @@ While there are no counters on this creature, other creatures you control get +1
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR07 Raijuu</name>
+			<name>CR07 Death Fairy</name>
 			<text>Menace; unseal 2 (This creature enters with two -1/-1 counters on it. Whenever it deals combat damage, remove up to that many counters from it.)
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/46.png" num="130">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Beast</type>
+				<type>Creature — Faerie</type>
 				<maintype>Creature</maintype>
 				<manacost>3RR</manacost>
 				<cmc>5</cmc>
@@ -839,7 +839,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>CR09 Soaring Idaten</name>
 			<text>Target creature you control gets +2/+0 and gains haste until end of turn. You may discard a card. If you do, add {R}.
-Lunatic {1}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {1}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/47.png" num="132">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -925,7 +925,7 @@ If this spell has flash, artifacts you control gain &quot;When this artifact die
 		<card>
 			<name>UR07 Stardust Reverie</name>
 			<text>Stardust Reverie deals 2 damage to each creature. If this spell was cast from your graveyard, it deals 5 damage to each creature instead.
-Lunatic {5}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {5}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/52.png" num="156">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -962,7 +962,7 @@ Blazing Dragon Veins deals 2 damage divided as you choose among one or two targe
 Choose one —
 • Mine Blast deals 3 damage to target creature or planeswalker.
 • Destroy target artifact.
-• Add {R}{R}{R}{R}{R}. You may choose this mode only if this spell has flash.</text>
+• Add {R}{R}{R}{R}{R}. Choose this mode only if this spell has flash.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/54.png" num="137">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1014,14 +1014,14 @@ Whenever you remove one or more counters from this creature, surveil 1.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG02 Unfrozen Frog</name>
+			<name>CG02 Fairy Prankster</name>
 			<text>Deathtouch
 While this creature is blocking or being blocked, spells you cast cost {1} less to cast.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/57.png" num="166">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Frog</type>
+				<type>Creature — Faerie</type>
 				<maintype>Creature</maintype>
 				<manacost>G</manacost>
 				<cmc>1</cmc>
@@ -1322,7 +1322,7 @@ Whenever an opponent attacks with more than one creature, creatures that player 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Monk</type>
+				<type>Creature — Horror Monk</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
@@ -1592,7 +1592,7 @@ If you control three or more artifacts, this Vehicle is an artifact creature.</t
 		<card>
 			<name>CU08 Logical Wall</name>
 			<text>Put a charge counter on target permanent you control.
-Target creature&apos;s controller puts it on their choice of the top or bottom of their library.</text>
+Return target nonland permanent to its owner&apos;s hand. They may discard that card. If they do, they draw a card.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/89.png" num="49">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1609,7 +1609,7 @@ Target creature&apos;s controller puts it on their choice of the top or bottom o
 		<card>
 			<name>UU09 Divining Crop</name>
 			<text>Search your library for an instant, sorcery, or card with spellcard, reveal it, put it into your hand, then shuffle.
-Lunatic {4}{U} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {4}{U} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/90.png" num="76">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1661,7 +1661,7 @@ Equipped creature gets +1/+3.</text>
 		</card>
 		<card>
 			<name>UB02 Star Sapphire</name>
-			<text>As long as Star entered the battlefield this turn, whenever another Faerie enters the battlefield, each opponent loses 1 life.
+			<text>As long as Star entered the battlefield this turn, whenever another Faerie enters, each opponent loses 1 life.
 Starlight Rain — Whenever Star attacks, Faeries you control gain menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/93.png" num="110">GEN</set>
 			<prop>
@@ -1686,7 +1686,7 @@ Demarcation — {1}{B}, Sacrifice an artifact or creature: Draw a card.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Imp</type>
+				<type>Creature — Imp Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>B</manacost>
 				<cmc>1</cmc>
@@ -1737,7 +1737,7 @@ A Poison for Melancholy — Whenever you remove a counter from Medicine, create 
 		<card>
 			<name>UB03 Yoshika Miyako</name>
 			<text>Undead Murderer — When Yoshika enters, put two -1/-1 counters on her if she was cast from your hand. You may sacrifice another creature. If you do, gain life equal to her power.
-Lunatic {1}{B}{B} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {1}{B}{B} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/97.png" num="111">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1811,7 +1811,7 @@ Whenever you remove one or more counters from a permanent you control, each oppo
 			<text>Choose one —
 • Target player draws a card and loses 1 life.
 • Target player discards a card.
-Lunatic {B} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {B} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/101.png" num="117">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1920,7 +1920,7 @@ When Mike enters, choose one —
 		<card>
 			<name>UR04 Tojiko Soga</name>
 			<text>Iruka&apos;s Thunder — When Tojiko enters, she deals 3 damage to target creature.
-Lunatic {4}{R}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {4}{R}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/107.png" num="153">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1976,7 +1976,7 @@ Soul Go Happy — Whenever you cast a spell with spellcard or a spell from your 
 			<name>CR12 Lunatic Impact</name>
 			<text>Choose any number of permanents, then give each another counter of each kind already there.
 Look at the top card of your library and exile it face down. Until end of turn, you may play that card.
-Lunatic {2}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {2}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/110.png" num="135">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2157,7 +2157,7 @@ Primal Scream — Whenever you remove one or more counters from Kyouko, manifest
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Beast</type>
+				<type>Creature — Beast Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
@@ -2363,16 +2363,16 @@ Return target nonland permanent card from your graveyard to the battlefield tapp
 		</card>
 		<card>
 			<name>RW07 Algorithmic Phantom</name>
-			<text>When this enchantment enters, manifest a card from your hand.
-Whenever one or more colorless nontoken creatures you control enters, investigate.</text>
+			<text>If you would draw a card except the first one you draw in each of your draw steps, manifest the top card of your library instead.
+{3}: Investigate. Activate this ability only once each turn.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/132.png" num="26">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -2875,7 +2875,7 @@ Creatures with -1/-1 counters are black in addition to their other colors.</text
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Archon</type>
+				<type>Creature — Archon Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>4WW</manacost>
 				<cmc>6</cmc>
@@ -3038,7 +3038,7 @@ Blood of Gaea — Yuuma&apos;s gets +1+1 for each land card in all graveyards. I
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Spirit</type>
+				<type>Creature — Spirit Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>3G</manacost>
 				<cmc>4</cmc>
@@ -3529,13 +3529,13 @@ Lunatic {U}{B}{R}</text>
 		<card>
 			<name>MZ10 Hecatia Lapislazuli</name>
 			<text>First strike, unseal, ward {3}
-When you cast Hecatia, she enters with two charge counters on her.
+When Hecatia enters, if she&apos;s not a token, she enters with two charge counters on her.
 Trinitarian Rhapsody — Whenever you remove a counter from Hecatia, create a copy of her.</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/198.png" num="220">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Demon</type>
+				<type>Creature — Demon Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>3BRG</manacost>
 				<cmc>6</cmc>
@@ -4099,7 +4099,7 @@ Divine Summoning — Whenever an instant or sorcery spell you cast is put into a
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Moonfolk Noble Cleric</type>
+				<type>Creature — Moonfolk Cleric Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>3RW</manacost>
 				<cmc>5</cmc>
@@ -4148,7 +4148,7 @@ Cylinder Fox — At the beginning of your upkeep, if Tsukasa is on the battlefie
 		<card>
 			<name>RZ26 Misumaru Tamatsukuri</name>
 			<text>Ward {X}, where X is the number of artifacts you control.
-Yin-Yang Divine Orbs — {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way.</text>
+Yin Yang Divine Orbs — {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/233.png" num="252">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4257,7 +4257,7 @@ If there are six or more counters on Nitori, whenever you put a counter on her, 
 		<card>
 			<name>RZ35 Sumireko Usami</name>
 			<text>You have no maximum hand size.
-Psychexplosion — When Sumireko enters, look at the top three cards of your library. Put one of those cards into your hand and the rest into your graveyard. Sumireko deals damage equal to the mana value of cards put into your graveyard this way to any target.</text>
+Psychexplosion — When Sumireko enters, look at the top three cards of your library. Put one of those cards into your graveyard and the rest into your hand. Sumireko deals damage equal to the mana value of cards put into your graveyard this way to any target.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/239.png" num="261">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4313,7 +4313,7 @@ Mysterium — You can&apos;t lose the game and opponents can&apos;t win the game
 		<card>
 			<name>RZ41 Chimata Tenkyuu</name>
 			<text>Flying, haste
-Rainbow Ring of People — {T}: Choose another target non-Aura permanent you control and target nonland permanent an opponent controls. If those permanents are within 1 mana value of each other, exchange control of them. Activate only as a sorcery.</text>
+Rainbow Ring of People — When Chimata enters, choose another target non-Aura permanent you control and target nonland non-Aura permanent an opponent controls. If those permanents are within 1 mana value of each other, exchange control of them.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/242.png" num="267">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4524,8 +4524,8 @@ Radiant Treasure Gun deals damage to target creature or planeswalker equal to th
 		<card>
 			<name>UR13 Hakurei Yin Yang Orbs</name>
 			<text>When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
-Sacrifice this artifact: Draw a card, then discard a card.
-Lunatic {3}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Sacrifice this artifact: Discard a card, then draw a card.
+Lunatic {3}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/254.png" num="162">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4787,7 +4787,7 @@ Hanging Cloud&apos;s Iron Hammer — Whenever Ichirin attacks, create a 3/2 blue
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Monk</type>
+				<type>Creature — Horror Monk</type>
 				<maintype>Creature</maintype>
 				<manacost>2WU</manacost>
 				<cmc>4</cmc>
@@ -4805,7 +4805,7 @@ Like a Moth to a Well — When Kisume enters, draw a card, then discard a card. 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Ouphe</type>
+				<type>Creature — Ouphe Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>UB</manacost>
 				<cmc>2</cmc>
@@ -4818,7 +4818,7 @@ Like a Moth to a Well — When Kisume enters, draw a card, then discard a card. 
 		<card>
 			<name>UZ10 Seiga Kaku</name>
 			<text>Seiga can&apos;t be blocked.
-Whenever Seiga deals combat damage to a player, put a charge counter on her.
+Whenever Seiga deals combat damage to a player, put that many charge counters on her.
 Yoshika Tongling — {T}, Remove X charge counters from Seiga: Return target creature card with mana value X or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/271.png" num="291">GEN</set>
 			<prop>
@@ -4867,7 +4867,7 @@ Blazing Wheel — For casting spells or activating abilities, you may treat card
 				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5020,7 +5020,7 @@ You may have that creature deal damage equal to its power to target creature or 
 		<card>
 			<name>UZ06 Tewi Inaba</name>
 			<text>When Tewi enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-Vulnerary of Ohnamuji-sama — Clues you control have &quot;{1}, Sacrifice this artifact: Look at the top three cards of your library. Put them on top of your library in any order, then draw a card. Gain 2 life.&quot;</text>
+Vulnerary of Ohnamuji-sama — Clues you control have &quot;{2}, Sacrifice this artifact: Look at the top three cards of your library. Put them on top of your library in any order, then draw a card. Gain 2 life.&quot;</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/282.png" num="287">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5146,7 +5146,7 @@ Artifact creatures you control get +1/+1 for each charge counter on them.</text>
 		</card>
 		<card>
 			<name>UZ30 Kosuzu Motoori</name>
-			<text>When Kosuzu enters, investigate, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don&apos;t, manifest it at end of turn. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot; To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<text>When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don&apos;t, manifest it at end of turn. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/289.png" num="311">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5157,7 +5157,7 @@ Artifact creatures you control get +1/+1 for each charge counter on them.</text>
 				<cmc>2</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>0/1</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5187,7 +5187,7 @@ Firefly Phenomenon — Whenever Wriggle attacks, you may exile a nonland permane
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect</type>
+				<type>Creature — Insect Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>BG</manacost>
 				<cmc>2</cmc>
@@ -5346,9 +5346,8 @@ Surveil X. For each land card put into your graveyard this way, return it to the
 		</card>
 		<card>
 			<name>UZ42 Minamitsu Murasa</name>
-			<text>Haunt (When this creature dies, exile it haunting target creature.)
-At the beginning of your upkeep, if Murasa is haunting an untapped creature, you may tap that creature. When you do, target Vehicle becomes an artifact creature until end of turn.
-Sinker Ghost — At the beginning of your end step, you may put a -1/-1 counter on haunted creature.</text>
+			<text>Menace, lifelink; haunt (When this creature dies, exile it haunting target creature.)
+Sinker Ghost — Put up to two -1/-1 counters on haunted creature: Target artifact you control becomes an artifact creature until end of turn. If it isn&apos;t a Vehicle, it becomes a 2/2 Vehicle until until end of turn. Activate this ability only as a sorcery and only once each turn.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/300.png" num="323">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5421,7 +5420,7 @@ When this creature leaves the battlefield, put all creature cards without haunt 
 		<card>
 			<name>UZ46 Komakusa of Massacre</name>
 			<text>Gain control of target creature. Untap it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
-Lunatic {2}{U}{B}{R} (If a card has been discarded this turn, you may cast this from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
+Lunatic {2}{U}{B}{R} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/304.png" num="327">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5496,7 +5495,7 @@ Qi of a Restless Forest — Chimi gets +1/+1 as long as you control a forest.</t
 			<text>Urban Legend — You may pay {2}{W} instead of paying this card&apos;s mana cost. If you do, when it enters it isn&apos;t a creature.
 Double strike
 Whenever you attack, up to two target creatures get +1/+0 until end of turn.
-{4}: This enchantment becomes an enchantment creature. (This effect lasts indefinitely.)</text>
+{4}: This enchantment becomes an enchantment creature. (This effect doesn&apos;t end.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/308.png" num="206">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5516,7 +5515,7 @@ Whenever you attack, up to two target creatures get +1/+0 until end of turn.
 			<text>Urban Legend — You may pay {2}{U} instead of paying this card&apos;s mana cost. If you do, when it enters it isn&apos;t a creature.
 Vigilance
 {T}: Untap another target creature.
-{4}: This enchantment becomes an enchantment creature. (This effect lasts indefinitely.)&quot;</text>
+{4}: This enchantment becomes an enchantment creature. (This effect doesn&apos;t end.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/309.png" num="207">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5536,7 +5535,7 @@ Vigilance
 			<text>Urban Legend — You may pay {2}{B} instead of paying this card&apos;s mana cost. If you do, when it enters it isn&apos;t a creature.
 Deathtouch
 Whenever another creature you control leaves the battlefield, target opponent loses 1 life and you gain 1 life.
-{4}: This enchantment becomes an enchantment creature. (This effect lasts indefinitely.)</text>
+{4}: This enchantment becomes an enchantment creature. (This effect doesn&apos;t end.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/310.png" num="208">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5556,7 +5555,7 @@ Whenever another creature you control leaves the battlefield, target opponent lo
 			<text>Urban Legend — You may pay {2}{R} instead of paying this card&apos;s mana cost. If you do, when it enters it isn&apos;t a creature.
 Menace
 Whenever you cast a spell from anywhere other than your hand, this enchantment deals 2 damage to target player.
-{4}: This enchantment becomes an enchantment creature. (This effect lasts indefinitely.)</text>
+{4}: This enchantment becomes an enchantment creature. (This effect doesn&apos;t end.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/311.png" num="209">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5576,7 +5575,7 @@ Whenever you cast a spell from anywhere other than your hand, this enchantment d
 			<text>Urban Legend — You may pay {2}{G} instead of paying this card&apos;s mana cost. If you do, when it enters it isn&apos;t a creature.
 Trample
 The first creature that enters under your control each turn gains haste until end of turn.
-{4}: This enchantment becomes an enchantment creature. (This effect lasts indefinitely.)</text>
+{4}: This enchantment becomes an enchantment creature. (This effect doesn&apos;t end.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/312.png" num="210">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5821,7 +5820,7 @@ Tap all untapped creatures. For each creature you control tapped this way, gain 
 		</card>
 		<card>
 			<name>RZ12 Nina Watari</name>
-			<text>New World Order — Whenever a nonland non-Illusion permanent enters the battlefield under your control, if it&apos;s a creature or if it has a {T} symbol in its text, create a copy of it, except it&apos;s an Illusion in addition to its other card types.
+			<text>New World Order — Whenever you cast a non-Illusion permanent spell, if it&apos;s a creature or if it has a {T} symbol in its text, create a copy of it, except it&apos;s an Illusion in addition to its other card types.
 Whenever an Illusion token you control becomes tapped, sacrifice it at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/326.png" num="238">GEN</set>
 			<prop>
@@ -5833,14 +5832,15 @@ Whenever an Illusion token you control becomes tapped, sacrifice it at the begin
 				<cmc>5</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>RZ20 Box of a Hundred Medicines</name>
-			<text>When this artifact enters, sacrifice up to two lands.
+			<text>When this artifact enters, sacrifice a land.
 Whenever a land leaves the battlefield, put a charge counter on this artifact.
+{T}: Add {R} or {G}.
 At the beginning of your end step, if a land left the battlefield this turn, create an X/X red and green Ogre creature token, where X is the number of charge counters on this artifact.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/327.png" num="246">GEN</set>
 			<prop>
@@ -6392,7 +6392,7 @@ III — You may sacrifice a land. If you do, target creature you control gains &
 		<card>
 			<name>RZ32 End of the Sixty Year Cycle</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Exile a card with mana value 5 or less from your hand or graveyard.
+I — Exile a nonland card with mana value 5 or less from your hand or graveyard.
 II — Gain life equal to the mana value of the exiled card.
 III — You may cast the exiled card without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/379.png" num="258">GEN</set>
@@ -6469,7 +6469,7 @@ III — Each player investigates. Exile two colorless permanents you control. (T
 		<card>
 			<name>UZ08 Gathering of Divine Spirits</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Gain 2 life for each card you own in exile haunting creatures.
+I — You may return target permanent you control to its owner&apos;s hand.
 II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
 III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/383.png" num="289">GEN</set>

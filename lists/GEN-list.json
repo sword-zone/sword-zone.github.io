@@ -1032,7 +1032,7 @@
         "position": "42"
     },
     {
-        "card_name": "CG02 Unfrozen Frog",
+        "card_name": "CG02 Fairy Prankster",
         "number": 166,
         "shape": "normal",
         "set": "GEN",
@@ -1056,7 +1056,7 @@
         "position": "13"
     },
     {
-        "card_name": "CB03 Mouryo",
+        "card_name": "CB03 Otherworld Fairy",
         "number": 85,
         "shape": "normal",
         "set": "GEN",
@@ -1069,7 +1069,7 @@
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
-        "position": "43"
+        "position": "45"
     },
     {
         "card_name": "CG03 Wonder Stone",
@@ -1080,7 +1080,7 @@
         "position": "58"
     },
     {
-        "card_name": "CW04 Mountain Sarugami",
+        "card_name": "CW04 Nurikabe",
         "number": 4,
         "shape": "normal",
         "set": "GEN",
@@ -1104,12 +1104,12 @@
         "position": "29"
     },
     {
-        "card_name": "CR04 Seto Taishou",
+        "card_name": "CR04 Purified Fairy",
         "number": 127,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
-        "position": "45"
+        "position": "43"
     },
     {
         "card_name": "CG04 Great Fairy",
@@ -1224,7 +1224,7 @@
         "position": "32"
     },
     {
-        "card_name": "CR07 Raijuu",
+        "card_name": "CR07 Death Fairy",
         "number": 130,
         "shape": "normal",
         "set": "GEN",
