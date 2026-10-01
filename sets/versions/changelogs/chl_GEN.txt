@@ -1,4 +1,15 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+CB01 Zombie Fairy added.
+
+CB01 Fairy of Old Hell removed.
+
+CW01 Fairy Maid
+type: Creature — Faerie => Creature — Faerie Citizen
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CW04 Nurikabe added.

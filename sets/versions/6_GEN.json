@@ -11,7 +11,7 @@
             "card_name": "CW01 Fairy Maid",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Faerie",
+            "type": "Creature \u2014 Faerie Citizen",
             "number": 1,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -554,10 +554,10 @@
             "notes": "Monoblue\nMonocolor\nCombat Trick\nSeiran\nCantrip"
         },
         {
-            "card_name": "CB01 Fairy of Old Hell",
+            "card_name": "CB01 Zombie Fairy",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Faerie",
+            "type": "Creature \u2014 Faerie Performer",
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
