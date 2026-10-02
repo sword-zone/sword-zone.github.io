@@ -1,4 +1,20 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+RZ26 Misumaru Tamatsukuri
+rules_text: Ward {X}, where X is the number of artifacts you control.
+[i]Yin Yang Divine Orbs[/i] — {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way. => Ward {X}, where X is the number of artifacts you control.
+[i]Yin Yang Divine Orbs[/i] — {1}, {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way.
+
+RZ06 Hatate Himekaidou
+rules_text: Flying
+[i]Tengu Psychography[/i] — When Hatate enters, you may choose a token on the battlefield. Create a copy of it. If you don't, investigate. => Flying
+[i]Tengu Psychography[/i] — When Hatate enters, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don't, investigate.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 CB01 Zombie Fairy added.

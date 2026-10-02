@@ -4148,7 +4148,7 @@ Cylinder Fox — At the beginning of your upkeep, if Tsukasa is on the battlefie
 		<card>
 			<name>RZ26 Misumaru Tamatsukuri</name>
 			<text>Ward {X}, where X is the number of artifacts you control.
-Yin Yang Divine Orbs — {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way.</text>
+Yin Yang Divine Orbs — {1}, {T}, Sacrifice any number of artifacts: Create a copy of another target artifact or face up creature with mana value equal to the number of artifacts sacrificed this way.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/233.png" num="252">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5875,7 +5875,7 @@ Lunatic {X}{B}{R}</text>
 		<card>
 			<name>RZ06 Hatate Himekaidou</name>
 			<text>Flying
-Tengu Psychography — When Hatate enters, you may choose a token on the battlefield. Create a copy of it. If you don&apos;t, investigate.</text>
+Tengu Psychography — When Hatate enters, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don&apos;t, investigate.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/329.png" num="232">GEN</set>
 			<prop>
 				<layout>normal</layout>
