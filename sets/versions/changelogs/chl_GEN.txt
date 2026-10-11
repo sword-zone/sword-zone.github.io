@@ -1,4 +1,19 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+UU04 Merry Hearn and Renko Usami
+rules_text: Ward—{9} minus the number of creatures on the battlefield.
+When Merry and Renko enter and at the beginning of your upkeep, choose one —
+• [i]Strange Bird of the Moon[/i] — You have hexproof until the start of your next turn.
+• [i]Illusion of Mysterious Cat[/i] — All permanents lose and can't gain hexproof, shroud, or ward until the start of your next turn. => Hexproof from instants and sorceries
+When Merry and Renko enter and at the beginning of your upkeep, choose one —
+• [i]Strange Bird of the Moon[/i] — You have hexproof until the start of your next turn.
+• [i]Illusion of Mysterious Cat[/i] — All permanents lose and can't gain hexproof, shroud, or ward until the start of your next turn.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 UU04 Merry Hearn and Renko Usami added.

@@ -1758,7 +1758,7 @@
             "number": 71,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Ward\u2014{9} minus the number of creatures on the battlefield.\nWhen Merry and Renko enter and at the beginning of your upkeep, choose one \u2014\n\u2022 [i]Strange Bird of the Moon[/i] \u2014 You have hexproof until the start of your next turn.\n\u2022 [i]Illusion of Mysterious Cat[/i] \u2014 All permanents lose and can't gain hexproof, shroud, or ward until the start of your next turn.",
+            "rules_text": "Hexproof from instants and sorceries\nWhen Merry and Renko enter and at the beginning of your upkeep, choose one \u2014\n\u2022 [i]Strange Bird of the Moon[/i] \u2014 You have hexproof until the start of your next turn.\n\u2022 [i]Illusion of Mysterious Cat[/i] \u2014 All permanents lose and can't gain hexproof, shroud, or ward until the start of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
