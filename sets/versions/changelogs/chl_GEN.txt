@@ -1,4 +1,17 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+CB11 Mishaguji's Scourge
+rules_text: Put a -1/-1 counter on target creature. Its controller loses 1 life.
+Haunt [i](When this spell card is put into a graveyard after resolving, exile it haunting target creature.)[/i]
+At the beginning of your upkeep, put a -1/-1 counter on haunted creature, then its controller loses 1 life. => Exile up to one target card from a graveyard.
+Haunt [i](When this spell card is put into a graveyard after resolving, exile it haunting target creature.)[/i]
+When this card haunts a creature and at the beginning of your upkeep, put a -1/-1 counter on haunted creature, then its controller loses 1 life.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

@@ -4399,9 +4399,9 @@ Haunted creature has &quot;{T}: Add one mana of any color. Spend this mana only 
 		</card>
 		<card>
 			<name>CB11 Mishaguji&apos;s Scourge</name>
-			<text>Put a -1/-1 counter on target creature. Its controller loses 1 life.
+			<text>Exile up to one target card from a graveyard.
 Haunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
-At the beginning of your upkeep, put a -1/-1 counter on haunted creature, then its controller loses 1 life.</text>
+When this card haunts a creature and at the beginning of your upkeep, put a -1/-1 counter on haunted creature, then its controller loses 1 life.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/247.png" num="93">GEN</set>
 			<prop>
 				<layout>normal</layout>

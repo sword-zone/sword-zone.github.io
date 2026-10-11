@@ -5202,7 +5202,7 @@
             "number": 93,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Put a -1/-1 counter on target creature. Its controller loses 1 life.\nHaunt [i](When this spell card is put into a graveyard after resolving, exile it haunting target creature.)[/i]\nAt the beginning of your upkeep, put a -1/-1 counter on haunted creature, then its controller loses 1 life.",
+            "rules_text": "Exile up to one target card from a graveyard.\nHaunt [i](When this spell card is put into a graveyard after resolving, exile it haunting target creature.)[/i]\nWhen this card haunts a creature and at the beginning of your upkeep, put a -1/-1 counter on haunted creature, then its controller loses 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
