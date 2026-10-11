@@ -1,4 +1,163 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+UU04 Merry Hearn and Renko Usami added.
+TA06 Lotus added.
+
+UU04 Renko Usami and Merry Hearn removed.
+
+CW11 Tide-Flowing Jewel
+rules_text: Return target spell to its owner's hand.
+Create a 2/1 colorless Drone Clue creature token with “{2}, Sacrifice this artifact: Draw a card.” => Return target spell to its owner's hand.
+Create a 2/1 colorless Drone Clue creature token with “{2}, Sacrifice this token: Draw a card.”
+
+CU10 Spin the Cephalic Plate
+rules_text: Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+Create a 2/1 colorless Drone Clue artifact creature token with “{2}, Sacrifice this artifact: Draw a card.”
+If this spell has flash, activated abilities of artifacts you control cost {1} less to activate until end of turn. => Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+Create a 2/1 colorless Drone Clue artifact creature token with “{2}, Sacrifice this token: Draw a card.”
+If this spell has flash, activated abilities of artifacts you control cost {1} less to activate until end of turn.
+
+CB03 Otherworld Fairy
+rules_text: When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i] => When this creature enters, you may have target player discard a card.
+
+CB04 Zenki and Goki
+rules_text: Flying
+When this creature enters, surveil 2. If you put both cards into the graveyard this way, mill two cards. => Flying
+When this creature enters, surveil 2. If you put both cards into your graveyard this way, mill a card.
+
+CU08 Logical Wall
+rules_text: Put a charge counter on target permanent you control.
+Return target nonland permanent to its owner's hand. They may discard that card. If they do, they draw a card. => Put a charge counter on target permanent.
+Return target nonland permanent to its owner's hand. They may discard that card. If they do, they draw a card.
+
+UG08 Missing Power
+rules_text: When this enchantment enters, it becomes an Aura with enchant creature. Mill four cards. You may put a land milled this way onto the battlefield tapped, then manifest one of the other cards milled this way. Attach this enchantment to it. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Enchanted creature gets +2/+2. => When this enchantment enters, it becomes an Aura with enchant creature. Mill three cards. You may put a land milled this way onto the battlefield tapped, then manifest one of the other cards milled this way. Attach this enchantment to it. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Enchanted creature gets +2/+2.
+
+RG03 Yuuka Kazami
+rules_text: Trample
+[i]The Beauties of Nature[/i] — {G}, Reveal Yuuka and a land card from your hand: Put the revealed land onto the battlefield tapped. Activate this ability only once each turn and only as a sorcery. => Trample
+[i]The Beauties of Nature[/i] — {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with “{T}, Sacrifice this token: Add three mana of any one color.” Then put three stun counters on it. You may cast Yuuka for as long as she remains exiled.
+
+CA05 Oboroguruma
+rules_text: Whenever another colorless nonland permanent enters the battlefield under your control, this Vehicle becomes a Horror artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever another colorless nonland permanent enters the battlefield under your control, this Vehicle becomes a Horror artifact creature until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 3/3 => 4/4
+
+RZ33 Marisa Kirisame
+rules_text: Trample
+At the beginning of your end step, put a charge counter on Marisa.
+[i]Stardust Missile[/i] — Remove a charge counter from Marisa: She gets +1/+0 until end of turn. => Trample
+At the beginning of your end step, put a charge counter on target permanent.
+[i]Stardust Missile[/i] — Remove a charge counter from Marisa: She gets +1/+0 until end of turn.
+
+MZ15 Suika Ibuki
+rules_text: When Suika enters, sacrifice any number of colorless permanents, then distribute that many charge counters among permanents you control.
+[i]Missing Purple Power[/i] — If Suika is on the battlefield or in your graveyard, lands you control with charge counters on them have “{T}: Add two mana of any one color.” => When Suika enters, sacrifice any number of colorless permanents, then distribute that many charge counters among permanents.
+[i]Missing Purple Power[/i] — If Suika is on the battlefield or in your graveyard, lands you control with charge counters on them have “{T}: Add two mana of any one color.”
+
+RZ37 Mamizou Futatsuiwa
+rules_text: Ward—Exile four cards from your graveyard. 
+[i]Full Moon Pompokolin[/i] — Whenever one or more cards leave a graveyard, you may put a -1/-1 counter on target creature. => Ward—Exile three cards from your graveyard. 
+[i]Full Moon Pompokolin[/i] — Whenever one or more cards leave a graveyard, you may put a -1/-1 counter on target creature.
+pt: 3/4 => 3/3
+
+RZ34 Nitori Kawashiro
+rules_text: [i]Exteeending Aaarm[/i] — At the beginning of your end step, you may pay {1} to put a charge counter on target permanent.
+If there are three or more counters on Nitori, she gets +3/+3 and has flying.
+If there are six or more counters on Nitori, whenever you put a counter on her, draw a card. => [i]Exteeending Aaarm[/i] — At the beginning of your end step, put a charge counter on target permanent.
+If there are three or more counters on Nitori, she gets +3/+3 and has flying.
+If there are six or more counters on Nitori, whenever you put a counter on her, draw a card.
+
+UG15 Necronomicon Kanji Edition
+rules_text: When this artifact enters, mill four cards, then put a charge counter on it for each land card in your graveyard.
+{T}, Remove X charge counters from this artifact: Put target permanent card with mana value X or less from your graveyard into your hand. X can't be 0. => When this artifact enters, mill three cards, then put a charge counter on it for each land card in your graveyard.
+{T}, Remove X charge counters from this artifact: Return target permanent card with mana value X or less from your graveyard into your hand. X can't be 0.
+
+UZ18 Yatsuhashi Tsukumo
+rules_text: Trample, haste
+When Yatsuhashi enters, mill four cards.
+[i]Social Upheaval Koto Dirge[/i] — Whenever a land card is put into your graveyard from anywhere, Yatsuhashi gets +1/+1 until end of turn. => Trample, haste
+When Yatsuhashi enters, mill three cards.
+[i]Social Upheaval Koto Dirge[/i] — Whenever a land card is put into your graveyard from anywhere, Yatsuhashi gets +1/+1 until end of turn.
+
+UZ31 Narumi Yatadera
+rules_text: When Narumi enters, put a charge counter on target permanent you control.
+[i]Criminal Salvation[/i] — Other artifacts you control with charge counters on them are 2/2 Golem creatures in addition to their other types.
+Artifact creatures you control get +1/+1 for each charge counter on them. => When Narumi enters, put a charge counter on target permanent.
+[i]Criminal Salvation[/i] — Other artifacts you control with charge counters on them are 2/2 Golem creatures in addition to their other types.
+Artifact creatures you control get +1/+1 for each charge counter on them.
+
+UZ33 Wriggle Nightbug
+rules_text: When Wriggle enters, mill four cards.
+[i]Firefly Phenomenon[/i] — Whenever Wriggle attacks, you may exile a nonland permanent card from your graveyard. Until end of turn, you may cast that card. => When Wriggle enters, mill three cards.
+[i]Firefly Phenomenon[/i] — Whenever Wriggle attacks, you may exile a nonland permanent card from your graveyard. Until end of turn, you may cast that card.
+
+CG15 Old History of an Untrodden Land
+rules_text: Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+If this spell has flash, mill four cards.
+Return up to one target permanent card from your graveyard to your hand. => Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+If this spell has flash, mill three cards.
+Return up to one target permanent card from your graveyard to your hand.
+
+RZ12 Nina Watari
+rules_text: [i]New World Order —[/i] Whenever you cast a non-Illusion permanent spell, if it's a creature or if it has a {T} symbol in its text, create a copy of it, except it's an Illusion in addition to its other card types.
+Whenever an Illusion token you control becomes tapped, sacrifice it at the beginning of the next end step. => [i]New World Order —[/i] Whenever you cast a permanent spell, if it's a creature or if it has a {T} symbol in its text box, create a copy of it, except it's an Illusion in addition to its other card types and gains “whenever this permanent becomes tapped, sacrifice it at the beginning of the next end step.”
+
+RZ47 Sagume Kishin
+rules_text: Flying, haunt
+[i]One-Winged White Heron[/i] — Put a card you own haunting a creature into your graveyard: Copy target spell. The copy is colorless and you may choose new targets for the copy. If it was a permanent spell, the copy is an enchantment and loses all other card types. Activate this ability only while Sagume is on the battlefield or haunting a creature and only once each turn. => Flying, haunt
+[i]One-Winged White Heron[/i] — Put a card you own haunting a creature into your graveyard: Copy target noncreature spell. The copy is colorless and you may choose new targets for the copy. Activate this ability only while Sagume is on the battlefield or haunting a creature and only once each turn.
+
+RZ40 Days Go On, Unchanging
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
+II — Mill four cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?”
+—Ariya Iwanaga[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a nonland permanent you control dies or an instant or sorcery spell you control resolves, exile it instead for as long as you control this Saga.
+II — Mill three cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?”
+—Ariya Iwanaga[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a permanent you control dies or an instant or sorcery spell you control resolves, put it on the bottom of your library instead of into the graveyard for as long as you control this Saga.
+II — Mill four cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?”
+—Ariya Iwanaga[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may play lands and cast spells from your graveyard, can't play lands or cast spells from your hand, and whenever a nonland permanent you control dies or an instant or sorcery spell you control resolves, exile it instead for as long as you control this Saga.
+II — Mill three cards.
+III — [i]“Why don't you witness for yourself how Gensokyo changes?”
+—Ariya Iwanaga[/i]
+
+TZ05 Book
+rules_text: This creature is all colors. => This token is all colors.
+
+TA03 Drone Clue
+rules_text: {2}, Sacrifice this creature: Draw a card. => {2}, Sacrifice this token: Draw a card.
+
+TA04 Clue
+rules_text: {2}, Sacrifice this artifact: Draw a card. => {2}, Sacrifice this token: Draw a card.
+
+TA05 Blood
+rules_text: {1}, {T}, Discard a card, Sacrifice this artifact: Draw a card. => {1}, {T}, Discard a card, Sacrifice this token: Draw a card.
+
+MA01 Sumiyoshi Sanjin Rocket
+rules_text: [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents you control. Other creatures you control get +1/+1 for each charge counter on them until end of turn. => [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.
+special_text: [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents you control. Other creatures you control get +1/+1 for each charge counter on them until end of turn. => [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

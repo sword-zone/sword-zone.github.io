@@ -488,7 +488,7 @@
         "position": "74"
     },
     {
-        "card_name": "UU04 Renko Usami and Merry Hearn",
+        "card_name": "UU04 Merry Hearn and Renko Usami",
         "number": 71,
         "shape": "normal",
         "set": "GEN",
@@ -3182,6 +3182,14 @@
         "position": "405"
     },
     {
+        "card_name": "TA06 Lotus",
+        "number": 18,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "408"
+    },
+    {
         "card_name": "TW01 Minion",
         "number": 2,
         "shape": "token",
@@ -3268,9 +3276,6 @@
         "set": "GEN",
         "rotated": false,
         "position": "390"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
