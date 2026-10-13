@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-12</releasedate>
+			<releasedate>2026-10-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1500,8 +1500,8 @@ When Merry and Renko enter and at the beginning of your upkeep, choose one —
 		<card>
 			<name>UU03 Akyuu Hieda</name>
 			<text>Haunt (When this creature dies, exile it haunting target creature.)
-When Akyuu haunts a creature, discard a card.
-Gumonji — Whenever you discard one or more cards, if Akyuu is on the battlefield or haunting a creature, if those cards aren&apos;t exiled, you may put one of those cards into your hand. Do this only once each turn.</text>
+When Akyuu enters, discard a card.
+Gumonji — Whenever you discard one or more cards, if Akyuu is on the battlefield or haunting a creature, if those cards aren&apos;t exiled, you may put one of those cards into your hand. Do this only once on each of your turns.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/84.png" num="70">GEN</set>
 			<prop>
 				<layout>normal</layout>

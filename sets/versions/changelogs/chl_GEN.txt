@@ -1,4 +1,17 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+UU03 Akyuu Hieda
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+When Akyuu haunts a creature, discard a card.
+[i]Gumonji[/i] — Whenever you discard one or more cards, if Akyuu is on the battlefield or haunting a creature, if those cards aren't exiled, you may put one of those cards into your hand. Do this only once each turn. => Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+When Akyuu enters, discard a card.
+[i]Gumonji[/i] — Whenever you discard one or more cards, if Akyuu is on the battlefield or haunting a creature, if those cards aren't exiled, you may put one of those cards into your hand. Do this only once on each of your turns.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
