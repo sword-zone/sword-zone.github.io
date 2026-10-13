@@ -1,4 +1,15 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+RG03 Yuuka Kazami
+
+UZ31 Narumi Yatadera
+cost: {1}{U}{R} => {2}{U}{R}
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

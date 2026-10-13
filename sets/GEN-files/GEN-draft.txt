@@ -2883,7 +2883,7 @@
 		{
 			"name": "UZ31 Narumi Yatadera",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Artifact Creature — Wizard",
 			"collector_number": "312",
 			"image_uris": {

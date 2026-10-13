@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-11</releasedate>
+			<releasedate>2026-10-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5136,8 +5136,8 @@ Artifact creatures you control get +1/+1 for each charge counter on them.</text>
 				<side>front</side>
 				<type>Artifact Creature — Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>1UR</manacost>
-				<cmc>3</cmc>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 				<pt>2/2</pt>

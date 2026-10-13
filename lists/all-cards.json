@@ -3584,7 +3584,7 @@
             "alias": "Flower Master of the Four Seasons",
             "position": "155",
             "rotated": false,
-            "notes": "Monogreen\nMonocolor\nBomb\nRamp",
+            "notes": "Monogreen\nMonocolor\nRamp",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6631,7 +6631,7 @@
             "type": "Artifact Creature \u2013 Wizard",
             "number": 312,
             "color_identity": "UR",
-            "cost": "{1}{U}{R}",
+            "cost": "{2}{U}{R}",
             "rules_text": "When Narumi enters, put a charge counter on target permanent.\n[i]Criminal Salvation[/i] \u2013 Other artifacts you control with charge counters on them are 2/2 Golem creatures in addition to their other types.\nArtifact creatures you control get +1/+1 for each charge counter on them.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
