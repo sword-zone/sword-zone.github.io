@@ -1700,8 +1700,7 @@ Demarcation — {1}{B}, Sacrifice an artifact or creature: Draw a card.</text>
 			<name>UB07 Shion Yorigami</name>
 			<text>Shion can&apos;t be blocked by haunted creatures.
 When you discard Shion, exile her haunting target creature.
-Misfortune Scatter — At the beginning of each end step, put a -1/-1 counter on haunted creature. 
-When haunted creature dies, return Shion to her owner&apos;s hand.</text>
+Misfortune Scatter — At the beginning of each end step, put a -1/-1 counter on haunted creature. Then if that creature had 0 or less toughness, return Shion to her owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/95.png" num="115">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1808,9 +1807,7 @@ Whenever you remove one or more counters from a permanent you control, each oppo
 		</card>
 		<card>
 			<name>UB09 Fox Winder</name>
-			<text>Choose one —
-• Target player draws a card and loses 1 life.
-• Target player discards a card.
+			<text>If you cast this spell during your main phase, target player discards a card. Otherwise, target player draws a card and loses 1 life.
 Lunatic {B} (If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains &quot;if this card would be sent to the graveyard, put it onto the bottom of its owner&apos;s library instead.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/101.png" num="117">GEN</set>
 			<prop>
