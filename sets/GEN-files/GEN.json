@@ -3354,7 +3354,7 @@
             "number": 190,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Whenever you sacrifice a permanent or exile a card from your graveyard, draw a card. This ability only triggers once each turn.\nYou may play an additional land on each of your turns.",
+            "rules_text": "Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability only triggers once each turn.\nYou may play an additional land on each of your turns.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8156,5 +8156,5 @@
             "notes": ""
         }
     ],
-    "version": 14
+    "version": 15
 }

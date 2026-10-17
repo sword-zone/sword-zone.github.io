@@ -1,4 +1,15 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+RG07 Green Spiral
+rules_text: Whenever you sacrifice a permanent or exile a card from your graveyard, draw a card. This ability only triggers once each turn.
+You may play an additional land on each of your turns. => Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability only triggers once each turn.
+You may play an additional land on each of your turns.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

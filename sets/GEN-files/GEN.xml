@@ -2847,7 +2847,7 @@ Exile each creature card in your graveyard in a face down pile, shuffle them, th
 		</card>
 		<card>
 			<name>RG07 Green Spiral</name>
-			<text>Whenever you sacrifice a permanent or exile a card from your graveyard, draw a card. This ability only triggers once each turn.
+			<text>Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability only triggers once each turn.
 You may play an additional land on each of your turns.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/159.png" num="190">GEN</set>
 			<prop>
