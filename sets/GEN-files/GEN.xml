@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-17</releasedate>
+			<releasedate>2026-10-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2781,7 +2781,7 @@ Land Percuss — Whenever you remove a counter from Raiko, add {G}. You don&apos
 		<card>
 			<name>RG03 Yuuka Kazami</name>
 			<text>Trample
-The Beauties of Nature — {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with &quot;{T}, Sacrifice this token: Add three mana of any one color.&quot; Then put three stun counters on it. You may cast Yuuka for as long as she remains exiled.</text>
+The Beauties of Nature — {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with &quot;{T}, Sacrifice this token: Add three mana of any one color.&quot; Put two stun counters on it. You may cast Yuuka for as long as she remains exiled.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/155.png" num="186">GEN</set>
 			<prop>
 				<layout>normal</layout>

@@ -1,4 +1,15 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+RG03 Yuuka Kazami
+rules_text: Trample
+[i]The Beauties of Nature[/i] — {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with “{T}, Sacrifice this token: Add three mana of any one color.” Then put three stun counters on it. You may cast Yuuka for as long as she remains exiled. => Trample
+[i]The Beauties of Nature[/i] — {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with “{T}, Sacrifice this token: Add three mana of any one color.” Put two stun counters on it. You may cast Yuuka for as long as she remains exiled.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 

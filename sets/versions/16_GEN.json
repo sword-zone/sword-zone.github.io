@@ -3270,7 +3270,7 @@
             "number": 186,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "Trample\n[i]The Beauties of Nature[/i] \u2014 {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with \u201c{T}, Sacrifice this token: Add three mana of any one color.\u201d Then put three stun counters on it. You may cast Yuuka for as long as she remains exiled.",
+            "rules_text": "Trample\n[i]The Beauties of Nature[/i] \u2014 {1}{G}, exile Yuuka from your hand: Create a tapped colorless artifact token named Lotus with \u201c{T}, Sacrifice this token: Add three mana of any one color.\u201d Put two stun counters on it. You may cast Yuuka for as long as she remains exiled.",
             "flavor_text": "[i][/i]",
             "pt": "8/8",
             "special_text": "",
