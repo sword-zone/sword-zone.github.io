@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-18</releasedate>
+			<releasedate>2026-10-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3012,8 +3012,8 @@ Look at the top seven cards of your library and exile them face down. Until the 
 		<card>
 			<name>MG01 Yuuma Toutetsu</name>
 			<text>Indestructible
-Blood of Gaea — Yuuma&apos;s gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.
-{1}, Sacrifice a land: You gain 1 life.</text>
+Yuuma gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.
+Blood of Gaea — Lands you control are Blood artifacts in addition to their other types and gain &quot;{1}, Discard a card, sacrifice this land: Draw a card.&quot;</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/168.png" num="182">GEN</set>
 			<prop>
 				<layout>normal</layout>

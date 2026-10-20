@@ -3543,7 +3543,7 @@
             "number": 182,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Indestructible\n[i]Blood of Gaea[/i] \u2014 Yuuma's gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.\n{1}, Sacrifice a land: You gain 1 life.",
+            "rules_text": "Indestructible\nYuuma gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.\n[i]Blood of Gaea[/i] \u2014 Lands you control are Blood artifacts in addition to their other types and gain \u201c{1}, Discard a card, sacrifice this land: Draw a card.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",

@@ -1,4 +1,17 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+MG01 Yuuma Toutetsu
+rules_text: Indestructible
+[i]Blood of Gaea[/i] — Yuuma's gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.
+{1}, Sacrifice a land: You gain 1 life. => Indestructible
+Yuuma gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.
+[i]Blood of Gaea[/i] — Lands you control are Blood artifacts in addition to their other types and gain “{1}, Discard a card, sacrifice this land: Draw a card.”
+
+
+VERSION 16 CHANGELOG
 ====================
 
 
