@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-19</releasedate>
+			<releasedate>2026-10-22</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -256,7 +256,7 @@ Instants, sorceries, and spells with spellcard you cast cost {1} less to cast.</
 		</card>
 		<card>
 			<name>CU04 Book-Reading Youkai</name>
-			<text>When this creature enters, look at the top four cards of your library and put one of them into your hand. Put the rest into your graveyard.</text>
+			<text>When this creature enters, mill four cards. You may put a card from among them into your hand.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/14.png" num="45">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1087,7 +1087,7 @@ Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a b
 		</card>
 		<card>
 			<name>CG06 Gouyoku Alliance Scout</name>
-			<text>When this creature enters, you may sacrifice a land you control, then manifest it from your graveyard. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<text>When this creature enters, you may sacrifice a land you control, then you may manifest it from your graveyard. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/61.png" num="170">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2456,7 +2456,7 @@ Return up to two target permanents to their owner&apos;s hands. For each land yo
 			<name>RU05 Prism Concerto</name>
 			<text>Draw the bottom card of your library.
 Haunt
-At the beginning of your upkeep, draw a card for each card haunting the creature this card haunts.</text>
+At the beginning of your upkeep, draw a card for each card haunting haunted creature.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/137.png" num="65">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5590,8 +5590,7 @@ The first creature that enters under your control each turn gains haste until en
 		<card>
 			<name>RA01 Unidentified Flying Object</name>
 			<text>Flying, haunt
-Equipped creature gets +2/+2 and has flying.
-Haunted creature gets +2/+2 and has flying.
+Equipped or haunted creature gets +2/+2 and has flying.
 Equip {2}
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can&apos;t be attached to other permanents.)</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/313.png" num="343">GEN</set>
@@ -6367,10 +6366,10 @@ III — You may sacrifice a land. If you do, target creature you control gains &
 		</card>
 		<card>
 			<name>MZ03 Doremy Sweet</name>
-			<text>[+2]: Exile a card from your hand face down, then put a card exiled by Doremy into your hand.
-[+1]: Look at the top two cards of your library. Put one of those cards into your hand, then exile the other face-down.
+			<text>[+2]: Look at the top two cards of your library. Put one of those cards into your hand, then exile the other face down.
+[+1]: Exile a card from your hand face down, then put a face down card you own in exile into your hand.
 [-3]: Create a copy of target creature except it&apos;s a Nightmare in addition to its other types.
-[-7]: Cast all cards exiled by Doremy without paying their mana costs.</text>
+[-7]: Cast all face down cards you own in exile without paying their mana costs.</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/378.png" num="213">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6381,7 +6380,7 @@ III — You may sacrifice a land. If you do, target creature you control gains &
 				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<loyalty>5</loyalty>
+				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>

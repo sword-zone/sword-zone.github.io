@@ -1,4 +1,50 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+CU04 Book-Reading Youkai
+rules_text: When this creature enters, look at the top four cards of your library and put one of them into your hand. Put the rest into your graveyard. => When this creature enters, mill four cards. You may put a card from among them into your hand.
+
+CG06 Gouyoku Alliance Scout
+rules_text: When this creature enters, you may sacrifice a land you control, then manifest it from your graveyard. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i] => When this creature enters, you may sacrifice a land you control, then you may manifest it from your graveyard. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+RU05 Prism Concerto
+rules_text: Draw the bottom card of your library.
+Haunt
+At the beginning of your upkeep, draw a card for each card haunting the creature this card haunts. => Draw the bottom card of your library.
+Haunt
+At the beginning of your upkeep, draw a card for each card haunting haunted creature.
+
+RA01 Unidentified Flying Object
+rules_text: Flying, haunt
+Equipped creature gets +2/+2 and has flying.
+Haunted creature gets +2/+2 and has flying.
+Equip {2}
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can't be attached to other permanents.)[/i] => Flying, haunt
+Equipped or haunted creature gets +2/+2 and has flying.
+Equip {2}
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can't be attached to other permanents.)[/i]
+
+MZ03 Doremy Sweet
+rules_text: [+2]: Exile a card from your hand face down, then put a card exiled by Doremy into your hand.
+[+1]: Look at the top two cards of your library. Put one of those cards into your hand, then exile the other face-down.
+[-3]: Create a copy of target creature except it's a Nightmare in addition to its other types.
+[-7]: Cast all cards exiled by Doremy without paying their mana costs. => [+2]: Look at the top two cards of your library. Put one of those cards into your hand, then exile the other face down.
+[+1]: Exile a card from your hand face down, then put a face down card you own in exile into your hand.
+[-3]: Create a copy of target creature except it's a Nightmare in addition to its other types.
+[-7]: Cast all face down cards you own in exile without paying their mana costs.
+special_text: [+2]: Exile a card from your hand face down, then put a card exiled by Doremy into your hand.
+[+1]: Look at the top two cards of your library. Put one of those cards into your hand, then exile the other face-down.
+[-3]: Create a copy of target creature except it's a Nightmare in addition to its other types.
+[-7]: Cast all cards exiled by Doremy without paying their mana costs. => [+2]: Look at the top two cards of your library. Put one of those cards into your hand, then exile the other face down.
+[+1]: Exile a card from your hand face down, then put a face down card you own in exile into your hand.
+[-3]: Create a copy of target creature except it's a Nightmare in addition to its other types.
+[-7]: Cast all face down cards you own in exile without paying their mana costs.
+loyalty: 5 => 4
+
+
+VERSION 18 CHANGELOG
 ====================
 
 
