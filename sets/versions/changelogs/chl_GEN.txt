@@ -1,4 +1,204 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+UA08 Silver Skyway added.
+
+
+UR07 Stardust Reverie
+cost: {1}{R} => {2}{R}
+rules_text: Stardust Reverie deals 2 damage to each creature. If this spell was cast from your graveyard, it deals 5 damage to each creature instead.
+Lunatic {5}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Stardust Reverie deals 2 damage to each creature.
+Lunatic {5}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UU09 Divining Crop
+cost: {3}{U} => {2}{U}{U}
+
+UG09 Parade of One Hundred Demons
+type: Sorcery => Enchantment
+cost: {5}{G}{G} => {6}{G}
+rules_text: Create three 1/1 black and green Horror creature tokens. Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Create an X/X red and green Ogre creature token, where X is the number of tokens you control. => This enchantment costs {1} less to cast for each permanent card in your graveyard.
+Create an X/X red and green Ogre creature token, where X is the highest power among creatures you control and creature cards in your graveyard.
+Token creatures you control have trample.
+
+RW07 Algorithmic Phantom
+rules_text: If you would draw a card except the first one you draw in each of your draw steps, manifest the top card of your library instead.
+{3}: Investigate. Activate this ability only once each turn. => Whenever this enchantment enters or a colorless creature you control attacks, investigate.
+Clues you control have “{2}, Sacrifice this token: Manifest the top card of your library.”
+
+RB01 Joon Yorigami
+rules_text: Lifelink
+[i]Absolute Loser[/i] — {B}, {T}, Discard a card: Choose one —
+• Remove up to two counters from target creature. Its controller gains 1 life.
+• Put a -1/-1 counter on target creature. Its controller loses 1 life. Activate this ability only as a sorcery. => Lifelink
+[i]Absolute Loser[/i] — {B}, {T}, Discard a card: Choose one —
+• Remove up to two counters from target creature. Its controller gains 1 life.
+• Put a -1/-1 counter on target creature. Its controller loses 1 life. Activate only as a sorcery.
+
+RB05 Comets on Earth
+cost: {X}{B}{B} => {4}{B}
+rules_text: For up to X target creatures, put up to X -1/-1 counters on them.
+Lunatic {X}{B} => Mill three cards, then create a 1/1 black and green Horror creature token for each permanent card in your graveyard.
+Lunatic—{2}{B}, exile three cards from your graveyard.
+
+RR02 Tenshi Hinanawi
+rules_text: [i]Sword of Ebullience[/i] — {R}, Discard a card: If that card was a creature card, Tenshi gets +2/+2 and gains trample until end of turn. Otherwise, draw a card. Activate this ability only once each turn. => [i]Sword of Ebullience[/i] — {R}, Discard a card: If that card was a creature card, Tenshi gets +2/+2 and gains trample until end of turn. Otherwise, draw a card. Activate only once each turn.
+
+RR03 Utsuho Reiuji
+cost: {8}{R}{R} => {10}{R}{R}
+rules_text: Utsuho costs {X} less to cast, where X is the amount of damage dealt to players this turn.
+Flying
+[i]The Crow who Stole the Sun[/i] — When you cast Utsuho, she deals damage to each creature, planeswalker, and player equal to the amount of mana spent to cast her. => If your life total is less than your starting life total, Utsuho costs {X} less to cast, where X is the difference.
+Flying
+[i]The Crow who Stole the Sun[/i] — When you cast Utsuho, she deals damage to each creature, planeswalker, and opponent equal to the amount of mana spent to cast her.
+
+MG01 Yuuma Toutetsu
+rules_text: Indestructible
+Yuuma gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she gains trample.
+[i]Blood of Gaea[/i] — Lands you control are Blood artifacts in addition to their other types and have “{1}, {T}, Discard a card, sacrifice this land: Draw a card.” => Indestructible
+Yuuma gets +1+1 for each land card in all graveyards. If there are five or more land cards in graveyards, she has trample.
+[i]Blood of Gaea[/i] — Lands you control are Blood artifacts in addition to their other types and have “{1}, {T}, Discard a card, sacrifice this land: Draw a card.”
+pt: 0/1 => 2/2
+
+RZ01 Youmu Konpaku
+rules_text: When Youmu enters, manifest the top card of your library.
+[i]Lotus Posture Slash[/i] — Whenever you attack, Youmu and up to one target colorless creature you control gain first strike until end of turn. => First strike
+You may turn noncreature permanents face up for their mana cost. Permanents without mana costs count as costing {1}.
+[i]Lotus Posture Slash[/i] — Whenever Youmu attacks, if you don't control a colorless creature, manifest the top card of your deck tapped and attacking.
+
+CA11 Devil's Library
+rules_text: {T}: Add {C}.
+{2}, Sacrifice this land: Draw a card. => When this land enters, surveil 1.
+{T}: Add {C}.
+{2}, Sacrifice this land: Draw a card.
+
+MZ01 Divine Invocation
+cost: {3}{R}{W} => {2}{R}{W}
+
+MZ13 Kanako Yasaka
+rules_text: Menace
+[i]Mountain of Faith [/i]— The first spell you cast each turn has delve. [i](Each card you exile from your graveyard while casting that spell pays for {1}.)[/i] => Menace
+[i]Mountain of Faith [/i]— Whenever a card enters your graveyard, add {B}, {G}, or {U}.
+
+UB15 Higan Retour
+rules_text: Flash
+Cards in graveyards lose all abilities.
+If a creature would die, exile it instead.
+{1}, Pay 4 life: Destroy this enchantment. Any player may activate this ability and only as a sorcery. => Whenever a card you own haunts a creature, it haunts up to two creatures instead.
+Pay 2 life, sacrifice this enchantment: Return target creature card from your graveyard to your hand, then draw a card.
+
+UU15 Dragon God Statue
+rules_text: When this artifact enters, return target creature to its owner's hand.
+At the beginning of your upkeep, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice this artifact: Activated abilities of artifacts you control cost {2} less to activate until end of turn. => When this artifact enters, return target creature to its owner's hand.
+At the beginning of your upkeep, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{T}, Sacrifice this artifact: Activated abilities of artifacts you control cost {2} less to activate until end of turn.
+
+UZ03 Kagerou Imaizumi
+rules_text: {2}, Sacrifice two tokens: Manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+[i]Full Moon Howling[/i] — Whenever one or more colorless nonland permanents enter under your control, Kagerou gets +2/+2 and trample until end of turn. => {2}, Sacrifice two tokens: Manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+[i]Full Moon Howling[/i] — Whenever one or more colorless nonland permanents enter under your control, Kagerou gets +2/+2 and gains trample until end of turn.
+
+UZ25 Enoko Mitsugashira
+
+UZ07 Ichirin Kumoi
+rules_text: Vigilance
+[i]Hanging Cloud's Iron Hammer[/i] — Whenever Ichirin attacks, create a 3/2 blue and white Elemental Monk creature token with flying named Unzan that's untapped and attacking. Exile that token at the end of combat. => Vigilance
+[i]Hanging Cloud's Iron Hammer[/i] — Whenever Ichirin attacks, create a 3/2 blue and white Elemental Monk creature token with flying and vigilance named Unzan that's attacking. Exile that token at the end of combat.
+
+UZ17 Urumi Ushizaki
+
+UZ31 Narumi Yatadera
+rules_text: When Narumi enters, put a charge counter on target permanent.
+[i]Criminal Salvation[/i] — Other artifacts you control with charge counters on them are 2/2 Golem creatures in addition to their other types.
+Artifact creatures you control get +1/+1 for each charge counter on them. => When Narumi enters, put a charge counter on target permanent.
+[i]Criminal Salvation[/i] — Noncreature artifacts you control with charge counters on them are 2/2 Golem creatures in addition to their other types.
+Artifact creatures you control get +1/+1 for each charge counter on them.
+
+UZ38 Hakurei Charm
+rules_text: Choose one —
+• Your opponents can't cast spells this turn.
+• Target permanent can't leave the battlefield this turn.
+• Target player's life total can't change this turn. => Choose one —
+• Choose target creature you control. You may turn it face up if it's face down. Then it deals damage equal to its power to target creature an opponent controls.
+• Target creature you control gains hexproof and indestructible until end of turn.
+• Return target permanent card from your graveyard to your hand.
+
+UZ42 Minamitsu Murasa
+rules_text: Menace, lifelink; haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Sinker Ghost[/i] — Put up to two -1/-1 counters on haunted creature: Target artifact you control becomes an artifact creature until end of turn. If it isn't a Vehicle, it becomes a 2/2 Vehicle until until end of turn. Activate this ability only as a sorcery and only once each turn. => Menace, lifelink; haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Sinker Ghost[/i] — Put up to two -1/-1 counters on haunted creature: Target artifact you control becomes an artifact creature until end of turn. If it isn't a Vehicle, it becomes a 2/2 Vehicle until until end of turn. Activate only as a sorcery and only once each turn.
+
+CR06 Keiga Family Enforcer
+rules_text: Reach; unseal 2 [i](This creature enters with two -1/-1 counters on it. Whenever it deals combat damage, remove up to that many counters from it.)[/i]
+Discard a card: Remove a -1/-1 counter from from a creature you control. Activate this ability only once each turn. => Reach; unseal 2 [i](This creature enters with two -1/-1 counters on it. Whenever it deals combat damage, remove up to that many counters from it.)[/i]
+Discard a card: Remove a -1/-1 counter from from a creature you control. Activate only once each turn.
+
+UW14 Eight-Shaku Occult Pillar
+rules_text: Whenever a spell or ability untaps a nonland permanent you control, surveil 1.
+{T}: Untap target tapped creature you control. When you do, untap target tapped creature you don't control. => Whenever a creature you control with vigilance deals combat damage to a player, untap target permanent you control.
+{1}, {T}: Target creature gains vigilance until end of turn.
+
+UZ02 Son Biten
+rules_text: {3}, {T}: Manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+[i]Monkey Magic[/i] — Face down creatures you control are Monkeys and costs to turn them face up may be paid with any type of mana. => {3}, {T}: Manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+[i]Monkey Magic[/i] — Whenever you turn a creature face up, draw a card.
+
+RZ04 Devil's Recitation
+rules_text: When this enchantment enters, exile target nonland permanent, then manifest a card from your hand.
+Colorless creatures you control get +1/+1.
+Sacrifice this enchantment: Add {W}{U}{B}{R}{G}. Spend this mana only to turn cards face up. => When this enchantment enters, exile target nonland permanent, then manifest a card from your hand.
+{0}: Add {W}{U}{B}{R}{G}. Spend this mana only to turn cards face up. Activate only as a sorcery and only once each turn.
+
+RZ20 Box of a Hundred Medicines
+rules_text: When this artifact enters, sacrifice a land.
+Whenever a land leaves the battlefield, put a charge counter on this artifact.
+{T}: Add {R} or {G}.
+At the beginning of your end step, if a land left the battlefield this turn, create an X/X red and green Ogre creature token, where X is the number of charge counters on this artifact. => Whenever one or more lands enter a graveyard, put a charge counter on this artifact.
+Whenever you sacrifice a land, add {R} or {G}.
+{T}, Sacrifice a colorless permanent: Create a tapped X/X red and green Ogre creature token, where X is the number of charge counters on this artifact.
+
+RZ47 Sagume Kishin
+rules_text: Flying, haunt
+[i]One-Winged White Heron[/i] — Put a card you own haunting a creature into your graveyard: Copy target noncreature spell. The copy is colorless and you may choose new targets for the copy. Activate this ability only while Sagume is on the battlefield or haunting a creature and only once each turn. => Flying, haunt
+[i]One-Winged White Heron[/i] — Put a card you own haunting a creature into your graveyard: Copy target noncreature spell. The copy is colorless and you may choose new targets for the copy. Activate only while Sagume is on the battlefield or haunting a creature and only once each turn.
+
+RZ51 Nefarious Wealth
+rules_text: Exile X cards at random from target player's graveyard. You may cast any number of spells with mana value X or less from among them without paying their mana costs.
+Lunatic {X}{U}{B}{R}, exile X cards from your graveyard. => Exile X cards at random from target player's graveyard. You may cast any number of spells with mana value X or less from among them without paying their mana costs.
+Lunatic—{X}{U}{B}{R}, exile X cards from your graveyard.
+
+CG17 New Rivals on the Mountain
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — You may put a land card from your hand onto the battlefield tapped.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — You may put a land card from your hand onto the battlefield tapped.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn.
+
+MZ03 Doremy Sweet
+
+TZ01 Unzan
+rules_text: Flying => Flying, vigilance
+
+MA01 Sumiyoshi Sanjin Rocket
+rules_text: [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn. => [i]Uwatsutsu no O[/i] — Tap another colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.
+special_text: [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn. => [i]Uwatsutsu no O[/i] — Tap another colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 

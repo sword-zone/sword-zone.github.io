@@ -523,7 +523,7 @@
 		{
 			"name": "UR07 Stardust Reverie",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "156",
 			"image_uris": {
@@ -903,7 +903,7 @@
 		{
 			"name": "UU09 Divining Crop",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
@@ -1233,8 +1233,8 @@
 		{
 			"name": "UG09 Parade of One Hundred Demons",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Sorcery",
+			"mana_cost": "{6}{G}",
+			"type": "Enchantment",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/123.png"
@@ -1463,7 +1463,7 @@
 		{
 			"name": "RB05 Comets on Earth",
 			"rarity": "rare",
-			"mana_cost": "{X}{B}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
@@ -1483,7 +1483,7 @@
 		{
 			"name": "RR03 Utsuho Reiuji",
 			"rarity": "rare",
-			"mana_cost": "{8}{R}{R}",
+			"mana_cost": "{10}{R}{R}",
 			"type": "Creature — Bird Horror",
 			"collector_number": "145",
 			"image_uris": {
@@ -1805,7 +1805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "353",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/180.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "365",
+			"collector_number": "366",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/181.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "366",
+			"collector_number": "367",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "367",
+			"collector_number": "368",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "368",
+			"collector_number": "369",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/184.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "369",
+			"collector_number": "370",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/185.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "354",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/203.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "355",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/204.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "356",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/205.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "357",
+			"collector_number": "358",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/206.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "358",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/207.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "359",
+			"collector_number": "360",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/208.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "360",
+			"collector_number": "361",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/209.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "361",
+			"collector_number": "362",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/210.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "362",
+			"collector_number": "363",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/211.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land — Clue",
-			"collector_number": "352",
+			"collector_number": "353",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/212.png"
 			}
@@ -2163,7 +2163,7 @@
 		{
 			"name": "MZ01 Divine Invocation",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}{W}",
+			"mana_cost": "{2}{R}{W}",
 			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
@@ -3145,7 +3145,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "363",
+			"collector_number": "364",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/314.png"
 			}
@@ -3155,7 +3155,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "364",
+			"collector_number": "365",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/315.png"
 			}
@@ -3525,7 +3525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "370",
+			"collector_number": "371",
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/373.png"
 			}
@@ -3879,6 +3879,16 @@
 			"image_uris": {
 				"en": "https://sword-zone.github.io/sets/GEN-files/img/408.png"
 			}
+		},
+		{
+			"name": "UA08 Silver Skyway",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://sword-zone.github.io/sets/GEN-files/img/409.png"
+			}
 		}
 	]
 
@@ -4143,6 +4153,7 @@
 	4 UZ12 Unending Winter
 	4 UZ16 Spirit Geyser Eruption
 	4 UZ20 Invasion from Beast Realm
+	4 UA08 Silver Skyway
 [common(6)]
 	8 CW01 Fairy Maid
 	8 CW02 Kedama
@@ -4738,6 +4749,7 @@
 	2 RZ28 False Moon in the Sky
 	12 CW17 Mysteries in the Sky
 	1 MA01 Sumiyoshi Sanjin Rocket
+	6 UA08 Silver Skyway
 [wildcard(1)]
 	6 CW01 Fairy Maid
 	6 CW02 Kedama
@@ -5109,3 +5121,4 @@
 	7 RZ28 False Moon in the Sky
 	6 CW17 Mysteries in the Sky
 	4 MA01 Sumiyoshi Sanjin Rocket
+	15 UA08 Silver Skyway

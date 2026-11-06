@@ -2841,6 +2841,14 @@
         "position": "175"
     },
     {
+        "card_name": "UA08 Silver Skyway",
+        "number": 352,
+        "shape": "normal",
+        "set": "GEN",
+        "rotated": false,
+        "position": "409"
+    },
+    {
         "card_name": "CA01 Owotoshi Harvester",
         "number": 332,
         "shape": "normal",
@@ -2921,6 +2929,18 @@
         "position": "202"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -2937,7 +2957,7 @@
     },
     {
         "card_name": "CL02 Canal of Willows",
-        "number": 354,
+        "number": 355,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -2945,7 +2965,7 @@
     },
     {
         "card_name": "CL03 Sanzu Riverbank",
-        "number": 355,
+        "number": 356,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -2953,7 +2973,7 @@
     },
     {
         "card_name": "CL04 Rainbow Dragon Cave",
-        "number": 356,
+        "number": 357,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -2961,7 +2981,7 @@
     },
     {
         "card_name": "CL05 False Heaven Shelf",
-        "number": 357,
+        "number": 358,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -2969,7 +2989,7 @@
     },
     {
         "card_name": "CL01 Garden of the Sun",
-        "number": 353,
+        "number": 354,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -2992,7 +3012,7 @@
     },
     {
         "card_name": "CL09 Road of Reconsideration",
-        "number": 361,
+        "number": 362,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3000,7 +3020,7 @@
     },
     {
         "card_name": "CL07 Genbu Ravine",
-        "number": 359,
+        "number": 360,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3008,7 +3028,7 @@
     },
     {
         "card_name": "CL10 Netherworld Orchard",
-        "number": 362,
+        "number": 363,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3016,7 +3036,7 @@
     },
     {
         "card_name": "CL08 Hakurei Shrine",
-        "number": 360,
+        "number": 361,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3024,7 +3044,7 @@
     },
     {
         "card_name": "CL06 Bamboo Forest of the Lost",
-        "number": 358,
+        "number": 359,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3047,7 +3067,7 @@
     },
     {
         "card_name": "RL01 Old Hell of Blazing Fires",
-        "number": 363,
+        "number": 364,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3055,7 +3075,7 @@
     },
     {
         "card_name": "RL02 New Hell of Deep Shadows",
-        "number": 364,
+        "number": 365,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3063,7 +3083,7 @@
     },
     {
         "card_name": "UL01 Summit of the World",
-        "number": 365,
+        "number": 366,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3071,7 +3091,7 @@
     },
     {
         "card_name": "UL02 Through the Back Door",
-        "number": 366,
+        "number": 367,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3079,7 +3099,7 @@
     },
     {
         "card_name": "UL03 Sea of Tranquility",
-        "number": 367,
+        "number": 368,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3087,7 +3107,7 @@
     },
     {
         "card_name": "UL04 Streets of Old Hell",
-        "number": 368,
+        "number": 369,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3095,7 +3115,7 @@
     },
     {
         "card_name": "UL05 Downtown Beast Realm",
-        "number": 369,
+        "number": 370,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3103,7 +3123,7 @@
     },
     {
         "card_name": "UL06 Barrier Fault",
-        "number": 370,
+        "number": 371,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
@@ -3111,7 +3131,7 @@
     },
     {
         "card_name": "CA11 Devil's Library",
-        "number": 352,
+        "number": 353,
         "shape": "normal",
         "set": "GEN",
         "rotated": false,
