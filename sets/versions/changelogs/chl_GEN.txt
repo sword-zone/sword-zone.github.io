@@ -1,4 +1,15 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+UB15 Higan Retour
+rules_text: Whenever a card you own haunts a creature, it haunts up to two creatures instead.
+Pay 2 life, sacrifice this enchantment: Return target creature card from your graveyard to your hand, then draw a card. => Whenever a card you own's haunt ability triggers, it instead haunts up to two target creatures. If you choose zero, put it into your graveyard. 
+Pay 2 life, sacrifice this enchantment: Return target creature card from your graveyard to your hand, then draw a card.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 UA08 Silver Skyway added.

@@ -4417,7 +4417,7 @@ When this card haunts a creature and at the beginning of your upkeep, put a -1/-
 		</card>
 		<card>
 			<name>UB15 Higan Retour</name>
-			<text>Whenever a card you own haunts a creature, it haunts up to two creatures instead.
+			<text>Whenever a card you own&apos;s haunt ability triggers, it instead haunts up to two target creatures. If you choose zero, put it into your graveyard. 
 Pay 2 life, sacrifice this enchantment: Return target creature card from your graveyard to your hand, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/248.png" num="123">GEN</set>
 			<prop>
