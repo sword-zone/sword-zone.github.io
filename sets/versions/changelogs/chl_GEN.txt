@@ -1,4 +1,116 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+TC02 Minion added.
+TW01 Soldier added.
+
+TW01 Minion removed.
+TW02 Soldier removed.
+
+CU15 Psychokinesis App
+rules_text: Return target creature to its owner's hand. Target player mills cards equal to its mana value.
+Lunatic {2}{U} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Return target creature to its owner's hand. Target player mills cards equal to its mana value.
+Lunatic {2}{U} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CB03 Otherworld Fairy
+pt: 1/1 => 1/2
+
+CB05 Mishaguji
+rules_text: When this creature enters, if a card left your graveyard this turn, draw a card.
+Lunatic {3}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When this creature enters, if a card left your graveyard this turn, draw a card.
+Lunatic {3}{B} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CB08 Curse of Human Imagination
+rules_text: Create three 1/1 black and green Horror creature tokens.
+Lunatic {3}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Create three 1/1 black and green Horror creature tokens.
+Lunatic {3}{B} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CB15 Lunatic Torch Relay
+rules_text: Return target creature card from your graveyard to your hand. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {2}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Return target creature card from your graveyard to your hand. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {2}{B} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR01 Sunflower Fairy
+rules_text: Whenever this creature attacks, it deals 1 damage to any target.
+Lunatic {2}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Whenever this creature attacks, it deals 1 damage to any target.
+Lunatic {2}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR02 Little Devil
+rules_text: When Little Devil leaves the battlefield, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {0} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When Little Devil leaves the battlefield, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Lunatic {0} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR09 Soaring Idaten
+rules_text: Target creature you control gets +2/+0 and gains haste until end of turn. You may discard a card. If you do, add {R}.
+Lunatic {1}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Target creature you control gets +2/+0 and gains haste until end of turn. You may discard a card. If you do, add {R}.
+Lunatic {1}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UR07 Stardust Reverie
+rules_text: Stardust Reverie deals 2 damage to each creature.
+Lunatic {5}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Stardust Reverie deals 2 damage to each creature.
+Lunatic {5}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UU09 Divining Crop
+rules_text: Search your library for an instant, sorcery, or card with spellcard, reveal it, put it into your hand, then shuffle.
+Lunatic {4}{U} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Search your library for an instant, sorcery, or card with spellcard, reveal it, put it into your hand, then shuffle.
+Lunatic {4}{U} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UB03 Yoshika Miyako
+rules_text: [i]Undead Murderer[/i] — When Yoshika enters, put two -1/-1 counters on her if she was cast from your hand. You may sacrifice another creature. If you do, gain life equal to her power.
+Lunatic {1}{B}{B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => [i]Undead Murderer[/i] — When Yoshika enters, put two -1/-1 counters on her if she was cast from your hand. You may sacrifice another creature. If you do, gain life equal to her power.
+Lunatic {1}{B}{B} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UB09 Fox Winder
+rules_text: If you cast this spell during your main phase, target player discards a card. Otherwise, target player draws a card and loses 1 life.
+Lunatic {B} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => If you cast this spell during your main phase, target player discards a card. Otherwise, target player draws a card and loses 1 life.
+Lunatic {B} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UR04 Tojiko Soga
+rules_text: [i]Iruka's Thunder[/i] — When Tojiko enters, she deals 3 damage to target creature.
+Lunatic {4}{R}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => [i]Iruka's Thunder[/i] — When Tojiko enters, she deals 3 damage to target creature.
+Lunatic {4}{R}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CR12 Lunatic Impact
+rules_text: Choose any number of permanents, then give each another counter of each kind already there.
+Look at the top card of your library and exile it face down. Until end of turn, you may play that card.
+Lunatic {2}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Choose any number of permanents, then give each another counter of each kind already there.
+Look at the top card of your library and exile it face down. Until end of turn, you may play that card.
+Lunatic {2}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UR13 Hakurei Yin Yang Orbs
+rules_text: When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
+Sacrifice this artifact: Discard a card, then draw a card.
+Lunatic {3}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => When this artifact enters, surveil 1. Target creature gets +2/+1 until end of turn.
+Sacrifice this artifact: Discard a card, then draw a card.
+Lunatic {3}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UZ36 Mayohiga
+rules_text: Turning creatures you control face up costs {2} less.
+When this enchantment enters, manifest the top two cards of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i] => When this enchantment enters, manifest the top two cards of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Turning creatures you control face up costs {2} less.
+
+UZ45 Sannyo Komakusa
+rules_text: [i]Astonishing Kumomagusa[/i] — When Sannyo enters, discard a card. Then if you have three or more nonland cards in your graveyard, a random nonland card in your graveyard gains lunatic {1} until end of turn. [i](If a card has been discarded this turn, you may cast that card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => [i]Astonishing Kumomagusa[/i] — When Sannyo enters, discard a card. Then if you have three or more nonland cards in your graveyard, a random nonland card in your graveyard gains lunatic {1} until end of turn. [i](If you've discarded a card this turn, you may cast that card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+UZ46 Komakusa of Massacre
+rules_text: Gain control of target creature. Untap it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+Lunatic {2}{U}{B}{R} [i](If a card has been discarded this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i] => Gain control of target creature. Untap it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it.
+Lunatic {3}{U}{B}{R} [i](If you've discarded a card this turn, you may cast this card from your graveyard for its lunatic cost. It gains “if this card would be sent to the graveyard, put it onto the bottom of its owner's library instead.”)[/i]
+
+CG17 New Rivals on the Mountain
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 

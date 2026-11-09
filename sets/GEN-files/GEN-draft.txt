@@ -3731,7 +3731,7 @@
 			}
 		},
 		{
-			"name": "TW01 Minion",
+			"name": "TC02 Minion",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Minion",
@@ -3741,7 +3741,7 @@
 			}
 		},
 		{
-			"name": "TW02 Soldier",
+			"name": "TW01 Soldier",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Soldier",

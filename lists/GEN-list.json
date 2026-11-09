@@ -3162,6 +3162,14 @@
         "position": "406"
     },
     {
+        "card_name": "TC02 Minion",
+        "number": 2,
+        "shape": "token",
+        "set": "GEN",
+        "rotated": false,
+        "position": "394"
+    },
+    {
         "card_name": "TA01 Toy",
         "number": 13,
         "shape": "token",
@@ -3210,14 +3218,6 @@
         "position": "408"
     },
     {
-        "card_name": "TW01 Minion",
-        "number": 2,
-        "shape": "token",
-        "set": "GEN",
-        "rotated": false,
-        "position": "394"
-    },
-    {
         "card_name": "TB01 Skeleton",
         "number": 4,
         "shape": "token",
@@ -3250,7 +3250,7 @@
         "position": "399"
     },
     {
-        "card_name": "TW02 Soldier",
+        "card_name": "TW01 Soldier",
         "number": 3,
         "shape": "token",
         "set": "GEN",
