@@ -1,4 +1,59 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+
+CU14 Brain Fingerprint
+rules_text: Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+If this spell has flash, investigate, then draw a card. Otherwise, investigate twice. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+If this spell has flash, investigate, then draw a card. Otherwise, investigate twice. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Activated abilities of artifacts you control cost {1} less to activate until end of turn.
+
+CR04 Purified Fairy
+rules_text: Whenever this creature attacks, it gets +X/+0, where X is equal to the number of colorless nonland permanents you control. => Whenever this creature attacks, it gets +X/+0 until end of turn, where X is equal to the number of colorless nonland permanents you control.
+
+CR03 Chief Fairy
+rules_text: Unseal 1 [i](This creature enters with a -1/-1 counter on it. Whenever it deals combat damage, remove up to that many counters from it.)[/i]
+While there are no counters on this creature, other creatures you control get +1/+0. => Unseal [i](Whenever this creature deals combat damage, remove up to that many counters from it.)[/i]
+This creature enters with a charge counter on it.
+While there are no counters on this creature, creatures you control get +1/+0.
+pt: 2/3 => 1/3
+
+UB11 Nimble Fabric
+rules_text: When this Equipment enters, attach it to target creature.
+Equipped creature gets +1/+0 and has menace.
+Whenever equipped creature is blocked by two or more creatures, choose one of those creatures and remove them from combat.
+Equip {4} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 and has menace.
+Whenever equipped creature is blocked by two or more creatures, choose one of those creatures and remove them from combat.
+Equip {4}
+
+UR06 Merlin Prismriver
+rules_text: Haste
+[i]Soul Go Happy[/i] — Whenever you cast a spell with spellcard or a spell from your graveyard, creatures you control get +2/+0 until end of turn. => Haste
+[i]Soul Go Happy[/i] — Whenever you cast a spell with spellcard or a spell from anywhere other than your hand, creatures you control get +2/+0 until end of turn.
+
+UZ38 Hakurei Charm
+rules_text: Choose one —
+• Choose target creature you control. You may turn it face up if it's face down. Then it deals damage equal to its power to target creature an opponent controls.
+• Target creature you control gains hexproof and indestructible until end of turn.
+• Return target permanent card from your graveyard to your hand. => Choose one —
+• Choose target creature you control. You may turn it face up if it's face down. Then it deals damage equal to its power to target creature an opponent controls.
+• Target creature you control gains hexproof and indestructible until end of turn.
+• Return target card from your graveyard to your hand.
+
+MZ16 Gensokyo Chronicle
+rules_text: Nonland cards you own have flash.
+{T}, Exile a Book card or a card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. Otherwise, it enters with a finality counter on it. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i] => Nonland cards you own have flash.
+{T}, Exile a Book card or card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. Otherwise, it enters with a finality counter on it. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]
+
+UA08 Silver Skyway
+rules_text: The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. When you do, you may turn that creature face up if it's face down. [i](If it's an instant or sorcery, it can't turn face up.)[/i]
+Crew 1 => The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. Then, you may turn that creature face up if it's face down. [i](If it's an instant or sorcery, it can't turn face up.)[/i]
+Crew 1
+
+
+VERSION 22 CHANGELOG
 ====================
 
 TC02 Minion added.

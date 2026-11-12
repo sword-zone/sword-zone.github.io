@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-08</releasedate>
+			<releasedate>2026-11-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -433,7 +433,8 @@ Enchanted permanent is a Clue artifact with &quot;{2}, Sacrifice this artifact: 
 		<card>
 			<name>CU14 Brain Fingerprint</name>
 			<text>Spellcard (This card has flash if another spell is on the stack.)
-If this spell has flash, investigate, then draw a card. Otherwise, investigate twice. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+If this spell has flash, investigate, then draw a card. Otherwise, investigate twice. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Activated abilities of artifacts you control cost {1} less to activate until end of turn.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/24.png" num="55">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -767,7 +768,7 @@ Lunatic {0} (If you&apos;ve discarded a card this turn, you may cast this card f
 		</card>
 		<card>
 			<name>CR04 Purified Fairy</name>
-			<text>Whenever this creature attacks, it gets +X/+0, where X is equal to the number of colorless nonland permanents you control.</text>
+			<text>Whenever this creature attacks, it gets +X/+0 until end of turn, where X is equal to the number of colorless nonland permanents you control.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/43.png" num="127">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -802,8 +803,9 @@ Lunatic {0} (If you&apos;ve discarded a card this turn, you may cast this card f
 		</card>
 		<card>
 			<name>CR03 Chief Fairy</name>
-			<text>Unseal 1 (This creature enters with a -1/-1 counter on it. Whenever it deals combat damage, remove up to that many counters from it.)
-While there are no counters on this creature, other creatures you control get +1/+0.</text>
+			<text>Unseal (Whenever this creature deals combat damage, remove up to that many counters from it.)
+This creature enters with a charge counter on it.
+While there are no counters on this creature, creatures you control get +1/+0.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/45.png" num="126">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -814,7 +816,7 @@ While there are no counters on this creature, other creatures you control get +1
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/3</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1841,7 +1843,7 @@ If this spell has flash, destroy target creature. Otherwise, destroy target nona
 		</card>
 		<card>
 			<name>UB11 Nimble Fabric</name>
-			<text>When this Equipment enters, attach it to target creature.
+			<text>When this Equipment enters, attach it to target creature you control.
 Equipped creature gets +1/+0 and has menace.
 Whenever equipped creature is blocked by two or more creatures, choose one of those creatures and remove them from combat.
 Equip {4}</text>
@@ -1954,7 +1956,7 @@ Expellee&apos;s Canaan — Whenever a colorless creature enters under your contr
 		<card>
 			<name>UR06 Merlin Prismriver</name>
 			<text>Haste
-Soul Go Happy — Whenever you cast a spell with spellcard or a spell from your graveyard, creatures you control get +2/+0 until end of turn.</text>
+Soul Go Happy — Whenever you cast a spell with spellcard or a spell from anywhere other than your hand, creatures you control get +2/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/109.png" num="155">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5273,7 +5275,7 @@ Turning creatures you control face up costs {2} less.</text>
 			<text>Choose one —
 • Choose target creature you control. You may turn it face up if it&apos;s face down. Then it deals damage equal to its power to target creature an opponent controls.
 • Target creature you control gains hexproof and indestructible until end of turn.
-• Return target permanent card from your graveyard to your hand.</text>
+• Return target card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/296.png" num="319">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5766,7 +5768,7 @@ Monkey Magic — Whenever you turn a creature face up, draw a card.</text>
 		<card>
 			<name>MZ16 Gensokyo Chronicle</name>
 			<text>Nonland cards you own have flash.
-{T}, Exile a Book card or a card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. Otherwise, it enters with a finality counter on it. (If a permanent with a finality counter on it would die, exile it instead.)</text>
+{T}, Exile a Book card or card with spellcard from your graveyard: You may cast the exiled card without paying its mana cost. If it was an instant or sorcery card, exile it as it resolves. Otherwise, it enters with a finality counter on it. (If a permanent with a finality counter on it would die, exile it instead.)</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/323.png" num="226">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6915,7 +6917,7 @@ III — Colorless creatures you control get +1/+1 and gain flying until end of t
 		</card>
 		<card>
 			<name>UA08 Silver Skyway</name>
-			<text>The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. When you do, you may turn that creature face up if it&apos;s face down. (If it&apos;s an instant or sorcery, it can&apos;t turn face up.)
+			<text>The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. Then, you may turn that creature face up if it&apos;s face down. (If it&apos;s an instant or sorcery, it can&apos;t turn face up.)
 Crew 1</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/409.png" num="352">GEN</set>
 			<prop>
