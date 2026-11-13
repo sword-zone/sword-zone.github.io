@@ -1,4 +1,22 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+MA01 Sumiyoshi Sanjin Rocket
+rules_text: [i]Uwatsutsu no O[/i] — Tap another colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn. => [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 4+.
+[3+ 4+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 5+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.
+special_text: [i]Uwatsutsu no O[/i] — Tap another colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 3+.
+[3+ 3+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 4+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn. => [i]Uwatsutsu no O[/i] — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It's an artifact creature at 4+.
+[3+ 4+] [i]Nakatsutsu no O —[/i] Flying [4/4]
+[3+ 5+] [i]Sokotsutsu no O[/i] — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 

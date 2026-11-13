@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-11</releasedate>
+			<releasedate>2026-11-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -6886,9 +6886,9 @@ III — Colorless creatures you control get +1/+1 and gain flying until end of t
 		</card>
 		<card>
 			<name>MA01 Sumiyoshi Sanjin Rocket</name>
-			<text>Uwatsutsu no O — Tap another colorless nonland permanent: Put a charge counter on this Spacecraft. It&apos;s an artifact creature at 3+.
-[3+ 3+] Nakatsutsu no O — Flying [4/4]
-[3+ 4+] Sokotsutsu no O — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.</text>
+			<text>Uwatsutsu no O — Tap a colorless nonland permanent: Put a charge counter on this Spacecraft. It&apos;s an artifact creature at 4+.
+[3+ 4+] Nakatsutsu no O — Flying [4/4]
+[3+ 5+] Sokotsutsu no O — Whenever this Spacecraft attacks, you may distribute any number of charge counters on it onto any number of target permanents. Other creatures you control get +1/+1 for each charge counter on them until end of turn.</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/407.png" num="342">GEN</set>
 			<prop>
 				<layout>leveler</layout>
