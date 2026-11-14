@@ -5706,7 +5706,7 @@
             "number": 291,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Seiga can't be blocked.\nWhenever Seiga deals combat damage to a player, put that many charge counters on her.\n[i]Yoshika Tongling[/i] \u2014 {T}, Remove X charge counters from Seiga: Return target creature card with mana value X or less from your graveyard to the battlefield.",
+            "rules_text": "Seiga can't be blocked.\nWhenever Seiga deals combat damage to a player, put that many charge counters on her.\n[i]Yoshika Tongling[/i] \u2014 {T}, Remove X charge counters from Seiga: Cast target creature card in your graveyard with mana value X or less without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -8177,5 +8177,5 @@
             "notes": "Uncolored"
         }
     ],
-    "version": 26
+    "version": 27
 }

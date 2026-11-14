@@ -1,4 +1,17 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+UZ10 Seiga Kaku
+rules_text: Seiga can't be blocked.
+Whenever Seiga deals combat damage to a player, put that many charge counters on her.
+[i]Yoshika Tongling[/i] — {T}, Remove X charge counters from Seiga: Return target creature card with mana value X or less from your graveyard to the battlefield. => Seiga can't be blocked.
+Whenever Seiga deals combat damage to a player, put that many charge counters on her.
+[i]Yoshika Tongling[/i] — {T}, Remove X charge counters from Seiga: Cast target creature card in your graveyard with mana value X or less without paying its mana cost.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 

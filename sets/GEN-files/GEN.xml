@@ -4819,7 +4819,7 @@ Like a Moth to a Well — When Kisume enters, you may put a -1/-1 counter on tar
 			<name>UZ10 Seiga Kaku</name>
 			<text>Seiga can&apos;t be blocked.
 Whenever Seiga deals combat damage to a player, put that many charge counters on her.
-Yoshika Tongling — {T}, Remove X charge counters from Seiga: Return target creature card with mana value X or less from your graveyard to the battlefield.</text>
+Yoshika Tongling — {T}, Remove X charge counters from Seiga: Cast target creature card in your graveyard with mana value X or less without paying its mana cost.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/271.png" num="291">GEN</set>
 			<prop>
 				<layout>normal</layout>
