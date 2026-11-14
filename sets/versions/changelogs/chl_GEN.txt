@@ -1,4 +1,40 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+
+
+CW04 Nurikabe
+rules_text: Whenever this creature attacks, another target creature you control gains indestructible until end of turn. => Whenever this creature attacks, untap another target creature you control. That creature gains indestructible until end of turn.
+
+UU02 Seiran
+rules_text: When Seiran enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Lunatic Dream Shot[/i] — Whenever you sacrifice an artifact, surveil 1. => When Seiran enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Lunatic Dream Shot[/i] — Whenever you sacrifice an artifact, untap target permanent you control.
+
+UB04 Nareko Michigami
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Ancient Trap[/i] — {2}{B}: Exile Nareko haunting another target creature. Activate this ability only if Nareko is haunting a creature. [i](The original creature is no longer haunted by Nareko.)[/i]
+Haunted creature can't block and spells you cast targeting it cost {2} less to cast. => Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Ancient Trap[/i] — {2}{B}: Exile Nareko haunting another target creature. Activate only if Nareko is haunting a creature. [i](The original creature is no longer haunted by Nareko.)[/i]
+Haunted creature can't block and spells you cast targeting it cost {2} less to cast.
+
+RG07 Green Spiral
+rules_text: Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability only triggers once each turn.
+You may play an additional land on each of your turns. => Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability triggers only once each turn.
+You may play an additional land on each of your turns.
+
+UW14 Eight-Shaku Occult Pillar
+rules_text: Whenever a creature you control with vigilance deals combat damage to a player, untap target permanent you control.
+{1}, {T}: Target creature gains vigilance until end of turn. => Whenever an untapped creature you control deals combat damage to a player, untap target permanent you control.
+{1}, {T}: Target creature gains vigilance until end of turn.
+
+RZ06 Hatate Himekaidou
+rules_text: Flying
+[i]Tengu Psychography[/i] — When Hatate enters, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don't, investigate. => Flying
+[i]Tengu Psychography[/i] — Whenever Hatate becomes untapped, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don't, investigate. This ability triggers only once each turn.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-12</releasedate>
+			<releasedate>2026-11-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -63,7 +63,7 @@ When this creature is turned face up, it gets +2/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>CW04 Nurikabe</name>
-			<text>Whenever this creature attacks, another target creature you control gains indestructible until end of turn.</text>
+			<text>Whenever this creature attacks, untap another target creature you control. That creature gains indestructible until end of turn.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/3.png" num="4">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1464,7 +1464,7 @@ Whenever this creature attacks, tap target creature.</text>
 		<card>
 			<name>UU02 Seiran</name>
 			<text>When Seiran enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-Lunatic Dream Shot — Whenever you sacrifice an artifact, surveil 1.</text>
+Lunatic Dream Shot — Whenever you sacrifice an artifact, untap target permanent you control.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/82.png" num="69">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1773,7 +1773,7 @@ Lunatic {1}{B}{B} (If you&apos;ve discarded a card this turn, you may cast this 
 		<card>
 			<name>UB04 Nareko Michigami</name>
 			<text>Haunt (When this creature dies, exile it haunting target creature.)
-Ancient Trap — {2}{B}: Exile Nareko haunting another target creature. Activate this ability only if Nareko is haunting a creature. (The original creature is no longer haunted by Nareko.)
+Ancient Trap — {2}{B}: Exile Nareko haunting another target creature. Activate only if Nareko is haunting a creature. (The original creature is no longer haunted by Nareko.)
 Haunted creature can&apos;t block and spells you cast targeting it cost {2} less to cast.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/99.png" num="112">GEN</set>
 			<prop>
@@ -2850,7 +2850,7 @@ Exile each creature card in your graveyard in a face down pile, shuffle them, th
 		</card>
 		<card>
 			<name>RG07 Green Spiral</name>
-			<text>Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability only triggers once each turn.
+			<text>Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability triggers only once each turn.
 You may play an additional land on each of your turns.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/159.png" num="190">GEN</set>
 			<prop>
@@ -5713,7 +5713,7 @@ When you cast this spell, if it had flash, investigate. (Create a Clue token. It
 		</card>
 		<card>
 			<name>UW14 Eight-Shaku Occult Pillar</name>
-			<text>Whenever a creature you control with vigilance deals combat damage to a player, untap target permanent you control.
+			<text>Whenever an untapped creature you control deals combat damage to a player, untap target permanent you control.
 {1}, {T}: Target creature gains vigilance until end of turn.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/320.png" num="40">GEN</set>
 			<prop>
@@ -5871,7 +5871,7 @@ Lunatic {X}{B}{R}</text>
 		<card>
 			<name>RZ06 Hatate Himekaidou</name>
 			<text>Flying
-Tengu Psychography — When Hatate enters, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don&apos;t, investigate.</text>
+Tengu Psychography — Whenever Hatate becomes untapped, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don&apos;t, investigate. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/329.png" num="232">GEN</set>
 			<prop>
 				<layout>normal</layout>

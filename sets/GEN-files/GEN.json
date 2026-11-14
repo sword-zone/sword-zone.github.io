@@ -78,7 +78,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Whenever this creature attacks, another target creature you control gains indestructible until end of turn.",
+            "rules_text": "Whenever this creature attacks, untap another target creature you control. That creature gains indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -1737,7 +1737,7 @@
             "number": 69,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When Seiran enters, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\n[i]Lunatic Dream Shot[/i] \u2014 Whenever you sacrifice an artifact, surveil 1.",
+            "rules_text": "When Seiran enters, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\n[i]Lunatic Dream Shot[/i] \u2014 Whenever you sacrifice an artifact, untap target permanent you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2094,7 +2094,7 @@
             "number": 112,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Haunt [i](When this creature dies, exile it haunting target creature.)[/i]\n[i]Ancient Trap[/i] \u2014 {2}{B}: Exile Nareko haunting another target creature. Activate this ability only if Nareko is haunting a creature. [i](The original creature is no longer haunted by Nareko.)[/i]\nHaunted creature can't block and spells you cast targeting it cost {2} less to cast.",
+            "rules_text": "Haunt [i](When this creature dies, exile it haunting target creature.)[/i]\n[i]Ancient Trap[/i] \u2014 {2}{B}: Exile Nareko haunting another target creature. Activate only if Nareko is haunting a creature. [i](The original creature is no longer haunted by Nareko.)[/i]\nHaunted creature can't block and spells you cast targeting it cost {2} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3354,7 +3354,7 @@
             "number": 190,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability only triggers once each turn.\nYou may play an additional land on each of your turns.",
+            "rules_text": "Whenever you sacrifice a permanent or a card is exiled from your graveyard, draw a card. This ability triggers only once each turn.\nYou may play an additional land on each of your turns.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6735,7 +6735,7 @@
             "number": 40,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Whenever a creature you control with vigilance deals combat damage to a player, untap target permanent you control.\n{1}, {T}: Target creature gains vigilance until end of turn.",
+            "rules_text": "Whenever an untapped creature you control deals combat damage to a player, untap target permanent you control.\n{1}, {T}: Target creature gains vigilance until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6924,7 +6924,7 @@
             "number": 232,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "Flying\n[i]Tengu Psychography[/i] \u2014 When Hatate enters, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don't, investigate.",
+            "rules_text": "Flying\n[i]Tengu Psychography[/i] \u2014 Whenever Hatate becomes untapped, you may choose a non-Bird token on the battlefield. Create a copy of it. If you don't, investigate. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -8177,5 +8177,5 @@
             "notes": "Uncolored"
         }
     ],
-    "version": 24
+    "version": 25
 }
