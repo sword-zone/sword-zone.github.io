@@ -2313,8 +2313,7 @@ When Toyohime leaves the battlefield, the exiled card&apos;s owner may cast that
 		</card>
 		<card>
 			<name>RW04 Guse Flash</name>
-			<text>Spellcard
-Exile target tapped nonland permanent, then if this spell has flash, put a face up card an opponent owns from exile into that player&apos;s graveyard.</text>
+			<text>Exile target nonland permanent. Each player looks at the top card of their library and exiles it face down. Those cards may be played as long as they remain exiled.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/129.png" num="23">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2906,9 +2905,9 @@ Sacrifice this enchantment: Creatures you control get +1/+1 and gain lifelink un
 			<name>MU01 Eirin Yagokoro</name>
 			<text>Flying
 Eirin can&apos;t be countered.
-Omoikane&apos;s Device — Eirin&apos;s power is equal to the number of cards in your hand.
+Omoikane&apos;s Device — Eirin gets +1/+0 for each card in your hand.
 You have no maximum hand size.
-Whenever Eirin deals combat damage to a player, draw that many cards.</text>
+Whenever Eirin deals combat damage to a player, draw up to that many cards.</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/162.png" num="59">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2919,7 +2918,7 @@ Whenever Eirin deals combat damage to a player, draw that many cards.</text>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>*/6</pt>
+				<pt>1/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4132,7 +4131,7 @@ Equip {2}</text>
 		<card>
 			<name>RZ10 Tsukasa Kudamaki</name>
 			<text>Haunt
-Cylinder Fox — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</text>
+Cylinder Fox — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, exile the top card of your library. Put that card into your hand, then lose life equal to its mana value.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/232.png" num="236">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4185,6 +4184,7 @@ Yin Yang Divine Orbs — {1}, {T}, Sacrifice any number of artifacts: Create a c
 		<card>
 			<name>RZ11 Mizuchi Miyadeguchi</name>
 			<text>Haunt
+When you cast Mizuchi, if you cast her from anywhere other than your hand, exile her haunting target creature.
 Vengeful Possession — You control haunted creature.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/235.png" num="237">GEN</set>
 			<prop>
@@ -4800,7 +4800,7 @@ Hanging Cloud&apos;s Iron Hammer — Whenever Ichirin attacks, create a 3/2 blue
 		<card>
 			<name>UZ09 Kisume</name>
 			<text>Flash, flying
-Like a Moth to a Well — When Kisume enters, draw a card, then discard a card. You may put a -1/-1 counter on target creature.</text>
+Like a Moth to a Well — When Kisume enters, you may put a -1/-1 counter on target creature. Look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/270.png" num="290">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4836,8 +4836,8 @@ Yoshika Tongling — {T}, Remove X charge counters from Seiga: Return target cre
 		</card>
 		<card>
 			<name>UZ11 Letty Whiterock</name>
-			<text>When Letty enters, put a -1/-1 counter on target creature.
-Flower Wither Away — At the beginning of your end step, if a creature an opponent controls had a -1/-1 counter put on it this turn, tap it and put a stun counter on it.</text>
+			<text>When Letty enters, tap target creature and put a stun counter on it.
+Flower Wither Away — The first time you cast a spell each turn from anywhere other than your hand, choose any number of permanents, then give each another counter of each kind already there.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/272.png" num="292">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4848,7 +4848,7 @@ Flower Wither Away — At the beginning of your end step, if a creature an oppon
 				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

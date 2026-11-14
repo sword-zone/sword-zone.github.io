@@ -1,4 +1,48 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+RW04 Guse Flash
+rules_text: Spellcard
+Exile target tapped nonland permanent, then if this spell has flash, put a face up card an opponent owns from exile into that player's graveyard. => Exile target nonland permanent. Each player looks at the top card of their library and exiles it face down. Those cards may be played as long as they remain exiled.
+
+MU01 Eirin Yagokoro
+rules_text: Flying
+Eirin can't be countered.
+[i]Omoikane's Device[/i] — Eirin's power is equal to the number of cards in your hand.
+You have no maximum hand size.
+Whenever Eirin deals combat damage to a player, draw that many cards. => Flying
+Eirin can't be countered.
+[i]Omoikane's Device[/i] — Eirin gets +1/+0 for each card in your hand.
+You have no maximum hand size.
+Whenever Eirin deals combat damage to a player, draw up to that many cards.
+pt: */6 => 1/6
+
+RZ10 Tsukasa Kudamaki
+rules_text: Haunt
+[i]Cylinder Fox[/i] — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. => Haunt
+[i]Cylinder Fox[/i] — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, exile the top card of your library. Put that card into your hand, then lose life equal to its mana value.
+
+RZ11 Mizuchi Miyadeguchi
+rules_text: Haunt
+[i]Vengeful Possession[/i] — You control haunted creature. => Haunt
+When you cast Mizuchi, if you cast her from anywhere other than your hand, exile her haunting target creature.
+[i]Vengeful Possession[/i] — You control haunted creature.
+
+UZ09 Kisume
+rules_text: Flash, flying
+[i]Like a Moth to a Well[/i] — When Kisume enters, draw a card, then discard a card. You may put a -1/-1 counter on target creature. => Flash, flying
+[i]Like a Moth to a Well[/i] — When Kisume enters, you may put a -1/-1 counter on target creature. Look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.
+
+UZ11 Letty Whiterock
+rules_text: When Letty enters, put a -1/-1 counter on target creature.
+[i]Flower Wither Away[/i] — At the beginning of your end step, if a creature an opponent controls had a -1/-1 counter put on it this turn, tap it and put a stun counter on it. => When Letty enters, tap target creature and put a stun counter on it.
+[i]Flower Wither Away[/i] — The first time you cast a spell each turn from anywhere other than your hand, choose any number of permanents, then give each another counter of each kind already there.
+pt: 2/2 => 3/2
+
+
+VERSION 25 CHANGELOG
 ====================
 
 
