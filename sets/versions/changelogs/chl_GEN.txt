@@ -1,4 +1,34 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+RZ10 Tsukasa Kudamaki
+rules_text: Haunt
+[i]Cylinder Fox[/i] — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, exile the top card of your library. Put that card into your hand, then lose life equal to its mana value. => Haunt
+[i]Cylinder Fox[/i] — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+
+UZ27 Takane Yamashiro
+rules_text: [i]Black Market Kaleidoscope[/i] — Whenever one or more cards are put into exile from your hand, graveyard, and/or the battlefield, or whenever you cast a spell or play a land from exile, each opponent loses 1 life and you gain 1 life. => [i]Black Market Kaleidoscope[/i] — Whenever one or more cards are put into exile from a player's hand, graveyard, and/or the battlefield, or whenever you cast a spell or play a land from exile, each opponent loses 1 life and you gain 1 life.
+
+UZ28 Miyoi Okunoda
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Memories Forgotten[/i] — When Miyoi enters, target player reveals their hand and you choose a nonland card from it. Exile that card until Miyoi leaves the battlefield.
+Haunted creature gets +1/+1 if you control it. Otherwise, it gets -1/-1. => Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Memories Forgotten[/i] — When Miyoi enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast, then if Miyoi is haunting a creature, that spell's owner loses 3 life and you gain 3 life.
+
+UZ30 Kosuzu Motoori
+rules_text: When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don't, manifest it at end of turn. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i] => When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don't, manifest it at the beginning of the end step. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+CW15 Evil-Sealing Circle
+rules_text: Draw a card, then choose any number —
+• Exile target card from an opponent's graveyard.
+• Put a face up card an opponent owns from exile into that player's graveyard. => Draw a card, then choose one or both —
+• Exile target card from an opponent's graveyard.
+• Put a face up card an opponent owns from exile into that player's graveyard.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 

@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-14</releasedate>
+			<releasedate>2026-11-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4131,7 +4131,7 @@ Equip {2}</text>
 		<card>
 			<name>RZ10 Tsukasa Kudamaki</name>
 			<text>Haunt
-Cylinder Fox — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, exile the top card of your library. Put that card into your hand, then lose life equal to its mana value.</text>
+Cylinder Fox — At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/232.png" num="236">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5073,7 +5073,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>UZ27 Takane Yamashiro</name>
-			<text>Black Market Kaleidoscope — Whenever one or more cards are put into exile from your hand, graveyard, and/or the battlefield, or whenever you cast a spell or play a land from exile, each opponent loses 1 life and you gain 1 life.</text>
+			<text>Black Market Kaleidoscope — Whenever one or more cards are put into exile from a player&apos;s hand, graveyard, and/or the battlefield, or whenever you cast a spell or play a land from exile, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/285.png" num="308">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5091,8 +5091,7 @@ Draw a card.</text>
 		<card>
 			<name>UZ28 Miyoi Okunoda</name>
 			<text>Haunt (When this creature dies, exile it haunting target creature.)
-Memories Forgotten — When Miyoi enters, target player reveals their hand and you choose a nonland card from it. Exile that card until Miyoi leaves the battlefield.
-Haunted creature gets +1/+1 if you control it. Otherwise, it gets -1/-1.</text>
+Memories Forgotten — When Miyoi enters, look at target opponent&apos;s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast, then if Miyoi is haunting a creature, that spell&apos;s owner loses 3 life and you gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/286.png" num="309">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5146,7 +5145,7 @@ Artifact creatures you control get +1/+1 for each charge counter on them.</text>
 		</card>
 		<card>
 			<name>UZ30 Kosuzu Motoori</name>
-			<text>When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don&apos;t, manifest it at end of turn. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<text>When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don&apos;t, manifest it at the beginning of the end step. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/289.png" num="311">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6262,7 +6261,7 @@ Haunted creature has ward {1}.</text>
 		</card>
 		<card>
 			<name>CW15 Evil-Sealing Circle</name>
-			<text>Draw a card, then choose any number —
+			<text>Draw a card, then choose one or both —
 • Exile target card from an opponent&apos;s graveyard.
 • Put a face up card an opponent owns from exile into that player&apos;s graveyard.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/372.png" num="15">GEN</set>

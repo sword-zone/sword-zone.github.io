@@ -4887,7 +4887,7 @@
             "number": 236,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Haunt\n[i]Cylinder Fox[/i] \u2014 At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, exile the top card of your library. Put that card into your hand, then lose life equal to its mana value.",
+            "rules_text": "Haunt\n[i]Cylinder Fox[/i] \u2014 At the beginning of your upkeep, if Tsukasa is on the battlefield or haunting a creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6000,7 +6000,7 @@
             "number": 308,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "[i]Black Market Kaleidoscope[/i] \u2014 Whenever one or more cards are put into exile from your hand, graveyard, and/or the battlefield, or whenever you cast a spell or play a land from exile, each opponent loses 1 life and you gain 1 life.",
+            "rules_text": "[i]Black Market Kaleidoscope[/i] \u2014 Whenever one or more cards are put into exile from a player's hand, graveyard, and/or the battlefield, or whenever you cast a spell or play a land from exile, each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -6021,7 +6021,7 @@
             "number": 309,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Haunt [i](When this creature dies, exile it haunting target creature.)[/i]\n[i]Memories Forgotten[/i] \u2014 When Miyoi enters, target player reveals their hand and you choose a nonland card from it. Exile that card until Miyoi leaves the battlefield.\nHaunted creature gets +1/+1 if you control it. Otherwise, it gets -1/-1.",
+            "rules_text": "Haunt [i](When this creature dies, exile it haunting target creature.)[/i]\n[i]Memories Forgotten[/i] \u2014 When Miyoi enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast, then if Miyoi is haunting a creature, that spell's owner loses 3 life and you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -6084,7 +6084,7 @@
             "number": 311,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don't, manifest it at end of turn. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]",
+            "rules_text": "When Kosuzu enters, put a charge counter on target permanent, then look at the top card of your library and exile it face down. You may play that card until end of turn. If you don't, manifest it at the beginning of the end step. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -7386,7 +7386,7 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Draw a card, then choose any number \u2014\n\u2022 Exile target card from an opponent's graveyard.\n\u2022 Put a face up card an opponent owns from exile into that player's graveyard.",
+            "rules_text": "Draw a card, then choose one or both \u2014\n\u2022 Exile target card from an opponent's graveyard.\n\u2022 Put a face up card an opponent owns from exile into that player's graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8177,5 +8177,5 @@
             "notes": "Uncolored"
         }
     ],
-    "version": 27
+    "version": 28
 }
