@@ -1393,7 +1393,7 @@
 		{
 			"name": "RU07 Symposium of Post-Mysticism",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
@@ -2453,7 +2453,7 @@
 		{
 			"name": "UB12 Corpse Tongji",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {

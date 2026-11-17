@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-16</releasedate>
+			<releasedate>2026-11-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -46,7 +46,8 @@ When this creature is turned face up, it gets +2/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>CW03 Wheel Ghost</name>
-			<text>When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<text>Haunt (When this creature dies, exile it haunting target creature.)
+Whenever this creature or haunted creature attacks, surveil 1.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/2.png" num="3">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -415,8 +416,8 @@ Haunted creature gets -2/-0.</text>
 		</card>
 		<card>
 			<name>CU13 Seed of Unknown Form</name>
-			<text>Enchant nonland permanent
-Enchanted permanent is a Clue artifact with &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types and abilities.</text>
+			<text>Enchant creature
+Enchanted permanent is a colorless Clue artifact with &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other card types and abilities.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/23.png" num="54">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1464,7 +1465,7 @@ Whenever this creature attacks, tap target creature.</text>
 		<card>
 			<name>UU02 Seiran</name>
 			<text>When Seiran enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-Lunatic Dream Shot — Whenever you sacrifice an artifact, untap target permanent you control.</text>
+Lunatic Dream Shot — Whenever you sacrifice an artifact, untap target nonland permanent you control.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/82.png" num="69">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1521,7 +1522,7 @@ Gumonji — Whenever you discard one or more cards, if Akyuu is on the battlefie
 		<card>
 			<name>UU06 Lyrica Prismriver</name>
 			<text>Flying
-Soul Noise Flow — Whenever one or more cards leave your graveyard, you may have target player mill cards equal to up to one of those cards&apos; mana value.</text>
+Soul Noise Flow — Whenever you cast a spell with spellcard or a spell from anywhere other than your hand, target player mills cards equal to that spell&apos;s mana value.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/85.png" num="73">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1755,7 +1756,8 @@ Lunatic {1}{B}{B} (If you&apos;ve discarded a card this turn, you may cast this 
 		</card>
 		<card>
 			<name>UB06 Lunasa Prismriver</name>
-			<text>Noise Melancholy — If a spell or ability you control would cause one or more -1/-1 counters to be placed on a creature, you may place that many plus one -1/-1 counters on it instead.</text>
+			<text>Menace
+Noise Melancholy — Whenever you cast a spell with spellcard or a spell from anywhere other than your hand, put up to one -1/-1 counter on target creature.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/98.png" num="114">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2237,11 +2239,9 @@ Token creatures you control have trample.</text>
 		</card>
 		<card>
 			<name>UG11 Illusionary Reliquiae</name>
-			<text>Spellcard (This card has flash if another spell is on the stack.)
-Enchant creature
-When this Aura enters, if it had flash, surveil 2.
-Enchanted creature gets +2/+2 and has reach.
-When this Aura enters the graveyard from anywhere, surveil 2.</text>
+			<text>Enchant permanent you control
+Enchanted permanent has &quot;{2}, Sacrifice this permanent: Draw a card&quot; and is a colorless Clue artifact in addition to its other types.
+When this Aura enters the graveyard from anywhere, you may pay {2}{G}. If you do, return another target permanent card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/125.png" num="201">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2490,20 +2490,18 @@ At the beginning of your upkeep, draw a card for each card haunting haunted crea
 		</card>
 		<card>
 			<name>RU07 Symposium of Post-Mysticism</name>
-			<text>Choose one or more —
-• Counter target spell.
-• Return target creature to its owner&apos;s hand.
-• Create a copy of target artifact you control.
-• Target player mills eight cards.
-• Target player surveils 2.</text>
+			<text>Choose three. You may choose the same mode more than once.
+• Create a tapped copy of target colorless permanent you control.
+• Counter target spell unless its controller pays {1} for each artifact you control.
+• Target player looks at the top card of their library and exile it face down. That player may play it as long as it remains exiled.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/139.png" num="67">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3UU</manacost>
-				<cmc>5</cmc>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -4220,8 +4218,7 @@ Jailbreak Stalker — As long as a creature with the chosen name is on the battl
 		</card>
 		<card>
 			<name>RZ31 Miko Toyosatomimi</name>
-			<text>Miko can&apos;t be destroyed except by lethal damage.
-Whenever you cast a spell, you may exile a card from your graveyard.
+			<text>Whenever you would draw a card, instead look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.
 Heed the Commands with Absolute Care — If there are ten or more cards in exile, you may look at the top card of your library at any time and you may cast spells from the top of your library.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/237.png" num="257">GEN</set>
 			<prop>
@@ -4366,16 +4363,16 @@ When you cast this spell, if it had flash, this creature enters with four -1/-1 
 		<card>
 			<name>UB12 Corpse Tongji</name>
 			<text>Spellcard (This card has flash if another spell is on the stack.)
-If this spell has flash, it costs {1} less to cast.
-Return target creature card in a graveyard to the battlefield under your control.</text>
+If this spell has flash, as an additional cost to cast this spell, sacrifice a creature.
+Return a creature card from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/245.png" num="120">GEN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -4728,7 +4725,7 @@ Whenever you attack with four or more creatures with base power 2 or less, those
 		</card>
 		<card>
 			<name>UZ03 Kagerou Imaizumi</name>
-			<text>{2}, Sacrifice two tokens: Manifest the top card of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)
+			<text>{1}, Sacrifice two tokens: Manifest the top card of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)
 Full Moon Howling — Whenever one or more colorless nonland permanents enter under your control, Kagerou gets +2/+2 and gains trample until end of turn.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/266.png" num="284">GEN</set>
 			<prop>
@@ -5091,7 +5088,7 @@ Draw a card.</text>
 		<card>
 			<name>UZ28 Miyoi Okunoda</name>
 			<text>Haunt (When this creature dies, exile it haunting target creature.)
-Memories Forgotten — When Miyoi enters, look at target opponent&apos;s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast, then if Miyoi is haunting a creature, that spell&apos;s owner loses 3 life and you gain 3 life.</text>
+Memories Forgotten — When Miyoi enters, look at target opponent&apos;s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast. When they cast that spell, if Miyoi is haunting a creature, that spell&apos;s owner loses 3 life and you gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/286.png" num="309">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6447,7 +6444,7 @@ III — &quot;Why don&apos;t you witness for yourself how Gensokyo changes?&quot
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Target player gains control of this Saga.
 II — Each player manifests the top card of their library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)
-III — Each player investigates. Exile two colorless permanents you control. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot; Lands are colorless.)</text>
+III — Each player investigates. Exile two colorless permanents you control. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/382.png" num="285">GEN</set>
 			<prop>
 				<layout>saga</layout>
@@ -6484,7 +6481,7 @@ III — Exile this Saga haunting target creature you control. Haunted creature g
 			<name>UZ12 Unending Winter</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Distribute three stun counters among up to three target creatures.
-II — Target opponent loses life equal to the number of creature cards in their graveyard.
+II — Target opponent loses 2 life.
 III — Destroy up to three target creatures with stun counters on them.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/384.png" num="293">GEN</set>
 			<prop>
@@ -6504,7 +6501,7 @@ III — Destroy up to three target creatures with stun counters on them.</text>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Each player sacrifices a creature.
 II — You may cast creature cards from your graveyard this turn.
-III — This Saga deals damage to each opponent equal to the power of target creature card in a graveyard.</text>
+III — This Saga deals damage to each opponent equal to the power of target creature card in your graveyard.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/385.png" num="297">GEN</set>
 			<prop>
 				<layout>saga</layout>
@@ -6916,7 +6913,7 @@ III — Colorless creatures you control get +1/+1 and gain flying until end of t
 		</card>
 		<card>
 			<name>UA08 Silver Skyway</name>
-			<text>The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. Then, you may turn that creature face up if it&apos;s face down. (If it&apos;s an instant or sorcery, it can&apos;t turn face up.)
+			<text>The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. Then, you may turn that creature face up if it&apos;s face down. (If it&apos;s an instant or sorcery card, it can&apos;t turn face up.)
 Crew 1</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/409.png" num="352">GEN</set>
 			<prop>

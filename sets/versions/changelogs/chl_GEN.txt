@@ -1,4 +1,131 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+CW03 Wheel Ghost
+rules_text: When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+Whenever this creature or haunted creature attacks, surveil 1.
+
+CU13 Seed of Unknown Form
+rules_text: Enchant nonland permanent
+Enchanted permanent is a Clue artifact with “{2}, Sacrifice this artifact: Draw a card,” and it loses all other card types and abilities. => Enchant creature
+Enchanted permanent is a colorless Clue artifact with “{2}, Sacrifice this artifact: Draw a card,” and it loses all other card types and abilities.
+
+UU02 Seiran
+rules_text: When Seiran enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Lunatic Dream Shot[/i] — Whenever you sacrifice an artifact, untap target permanent you control. => When Seiran enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Lunatic Dream Shot[/i] — Whenever you sacrifice an artifact, untap target nonland permanent you control.
+
+UU06 Lyrica Prismriver
+rules_text: Flying
+[i]Soul Noise Flow[/i] — Whenever one or more cards leave your graveyard, you may have target player mill cards equal to up to one of those cards' mana value. => Flying
+[i]Soul Noise Flow[/i] — Whenever you cast a spell with spellcard or a spell from anywhere other than your hand, target player mills cards equal to that spell's mana value.
+
+UB06 Lunasa Prismriver
+rules_text: [i]Noise Melancholy[/i] — If a spell or ability you control would cause one or more -1/-1 counters to be placed on a creature, you may place that many plus one -1/-1 counters on it instead. => Menace
+[i]Noise Melancholy[/i] — Whenever you cast a spell with spellcard or a spell from anywhere other than your hand, put up to one -1/-1 counter on target creature.
+
+UG11 Illusionary Reliquiae
+rules_text: Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+Enchant creature
+When this Aura enters, if it had flash, surveil 2.
+Enchanted creature gets +2/+2 and has reach.
+When this Aura enters the graveyard from anywhere, surveil 2. => Enchant permanent you control
+Enchanted permanent has “{2}, Sacrifice this permanent: Draw a card” and is a colorless Clue artifact in addition to its other types.
+When this Aura enters the graveyard from anywhere, you may pay {2}{G}. If you do, return another target permanent card from your graveyard to your hand.
+
+RU07 Symposium of Post-Mysticism
+cost: {3}{U}{U} => {4}{U}{U}
+rules_text: Choose one or more —
+• Counter target spell.
+• Return target creature to its owner's hand.
+• Create a copy of target artifact you control.
+• Target player mills eight cards.
+• Target player surveils 2. => Choose three. You may choose the same mode more than once.
+• Create a tapped copy of target colorless permanent you control.
+• Counter target spell unless its controller pays {1} for each artifact you control.
+• Target player looks at the top card of their library and exile it face down. That player may play it as long as it remains exiled.
+
+RZ31 Miko Toyosatomimi
+rules_text: Miko can't be destroyed except by lethal damage.
+Whenever you cast a spell, you may exile a card from your graveyard.
+[i]Heed the Commands with Absolute Care[/i] — If there are ten or more cards in exile, you may look at the top card of your library at any time and you may cast spells from the top of your library. => Whenever you would draw a card, instead look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.
+[i]Heed the Commands with Absolute Care[/i] — If there are ten or more cards in exile, you may look at the top card of your library at any time and you may cast spells from the top of your library.
+
+UB12 Corpse Tongji
+cost: {4}{B} => {3}{B}
+rules_text: Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+If this spell has flash, it costs {1} less to cast.
+Return target creature card in a graveyard to the battlefield under your control. => Spellcard [i](This card has flash if another spell is on the stack.)[/i]
+If this spell has flash, as an additional cost to cast this spell, sacrifice a creature.
+Return a creature card from your graveyard to the battlefield.
+
+UZ03 Kagerou Imaizumi
+rules_text: {2}, Sacrifice two tokens: Manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+[i]Full Moon Howling[/i] — Whenever one or more colorless nonland permanents enter under your control, Kagerou gets +2/+2 and gains trample until end of turn. => {1}, Sacrifice two tokens: Manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+[i]Full Moon Howling[/i] — Whenever one or more colorless nonland permanents enter under your control, Kagerou gets +2/+2 and gains trample until end of turn.
+
+UZ28 Miyoi Okunoda
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Memories Forgotten[/i] — When Miyoi enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast, then if Miyoi is haunting a creature, that spell's owner loses 3 life and you gain 3 life. => Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Memories Forgotten[/i] — When Miyoi enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast. When they cast that spell, if Miyoi is haunting a creature, that spell's owner loses 3 life and you gain 3 life.
+
+UZ04 Four Seasons at Once
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target player gains control of this Saga.
+II — Each player manifests the top card of their library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+III — Each player investigates. Exile two colorless permanents you control. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.” Lands are colorless.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target player gains control of this Saga.
+II — Each player manifests the top card of their library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+III — Each player investigates. Exile two colorless permanents you control. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target player gains control of this Saga.
+II — Each player manifests the top card of their library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+III — Each player investigates. Exile two colorless permanents you control. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.” Lands are colorless.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target player gains control of this Saga.
+II — Each player manifests the top card of their library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+III — Each player investigates. Exile two colorless permanents you control. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+UZ12 Unending Winter
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Distribute three stun counters among up to three target creatures.
+II — Target opponent loses life equal to the number of creature cards in their graveyard.
+III — Destroy up to three target creatures with stun counters on them. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Distribute three stun counters among up to three target creatures.
+II — Target opponent loses 2 life.
+III — Destroy up to three target creatures with stun counters on them.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Distribute three stun counters among up to three target creatures.
+II — Target opponent loses life equal to the number of creature cards in their graveyard.
+III — Destroy up to three target creatures with stun counters on them. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Distribute three stun counters among up to three target creatures.
+II — Target opponent loses 2 life.
+III — Destroy up to three target creatures with stun counters on them.
+
+UZ16 Spirit Geyser Eruption
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature.
+II — You may cast creature cards from your graveyard this turn.
+III — This Saga deals damage to each opponent equal to the power of target creature card in a graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature.
+II — You may cast creature cards from your graveyard this turn.
+III — This Saga deals damage to each opponent equal to the power of target creature card in your graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature.
+II — You may cast creature cards from your graveyard this turn.
+III — This Saga deals damage to each opponent equal to the power of target creature card in a graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature.
+II — You may cast creature cards from your graveyard this turn.
+III — This Saga deals damage to each opponent equal to the power of target creature card in your graveyard.
+
+UA08 Silver Skyway
+rules_text: The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. Then, you may turn that creature face up if it's face down. [i](If it's an instant or sorcery, it can't turn face up.)[/i]
+Crew 1 => The first time this Vehicle is crewed by a colorless creature on your turn, this Vehicle gets +1/+0 and gains first strike until end of turn. Then, you may turn that creature face up if it's face down. [i](If it's an instant or sorcery card, it can't turn face up.)[/i]
+Crew 1
+
+
+VERSION 28 CHANGELOG
 ====================
 
 
