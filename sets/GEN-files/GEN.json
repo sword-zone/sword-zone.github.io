@@ -4992,7 +4992,7 @@
             "number": 257,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "Whenever you would draw a card, instead look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.\n[i]Heed the Commands with Absolute Care[/i] \u2014 If there are ten or more cards in exile, you may look at the top card of your library at any time and you may cast spells from the top of your library.",
+            "rules_text": "Ward\u2014Exile a card from your hand.\nWhenever you would draw a card, instead look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.\n[i]Heed the Commands with Absolute Care[/i] \u2014 If there are ten or more cards in exile, spells you cast from exile cost {0}.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -5717,7 +5717,7 @@
             "alias": "The Wicked Hermit who Passes Through Walls",
             "position": "271",
             "rotated": false,
-            "notes": "Dimir\nMulticolor\nSignpost"
+            "notes": "Dimir\nMulticolor"
         },
         {
             "card_name": "UZ11 Letty Whiterock",
@@ -5727,7 +5727,7 @@
             "number": 292,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "When Letty enters, tap target creature and put a stun counter on it.\n[i]Flower Wither Away[/i] \u2014 The first time you cast a spell each turn from anywhere other than your hand, choose any number of permanents, then give each another counter of each kind already there.",
+            "rules_text": "When Letty enters, tap target creature and put a stun counter on it.\n[i]Flower Wither Away[/i] \u2014 Whenever you cast a spell from anywhere other than your hand, choose any number of permanents, then give each another counter of each kind already there.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -5738,7 +5738,7 @@
             "alias": "What Winter Left Behind",
             "position": "272",
             "rotated": false,
-            "notes": "Dimir\nMulticolor"
+            "notes": "Dimir\nMulticolor\nSignpost"
         },
         {
             "card_name": "UZ13 Rin Kaenbyou",
@@ -8177,5 +8177,5 @@
             "notes": "Uncolored"
         }
     ],
-    "version": 29
+    "version": 30
 }

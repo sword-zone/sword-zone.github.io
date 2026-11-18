@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-17</releasedate>
+			<releasedate>2026-11-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4218,8 +4218,9 @@ Jailbreak Stalker — As long as a creature with the chosen name is on the battl
 		</card>
 		<card>
 			<name>RZ31 Miko Toyosatomimi</name>
-			<text>Whenever you would draw a card, instead look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.
-Heed the Commands with Absolute Care — If there are ten or more cards in exile, you may look at the top card of your library at any time and you may cast spells from the top of your library.</text>
+			<text>Ward—Exile a card from your hand.
+Whenever you would draw a card, instead look at the top card of your library and exile it face down. You may play that card for as long as it remains exiled.
+Heed the Commands with Absolute Care — If there are ten or more cards in exile, spells you cast from exile cost {0}.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/237.png" num="257">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4834,7 +4835,7 @@ Yoshika Tongling — {T}, Remove X charge counters from Seiga: Cast target creat
 		<card>
 			<name>UZ11 Letty Whiterock</name>
 			<text>When Letty enters, tap target creature and put a stun counter on it.
-Flower Wither Away — The first time you cast a spell each turn from anywhere other than your hand, choose any number of permanents, then give each another counter of each kind already there.</text>
+Flower Wither Away — Whenever you cast a spell from anywhere other than your hand, choose any number of permanents, then give each another counter of each kind already there.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/272.png" num="292">GEN</set>
 			<prop>
 				<layout>normal</layout>
