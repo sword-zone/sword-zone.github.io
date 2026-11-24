@@ -1,4 +1,93 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+
+
+CU06 Goliath Doll
+rules_text: This creature costs {1} less for each permanent you control with a charge counter on it.
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => This creature costs {1} less for each charge counter on permanents you control.
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+UG04 Chen
+rules_text: Whenever Chen enters or attacks, surveil 1. If you put a card into your graveyard this way, she gains haste until end of turn.
+[i]Soaring Bishamonten[/i] — Whenever Chen becomes the target of a spell or ability, she gets +1/+1 until end of turn. => Haste
+[i]Tianxian's Rumbling[/i] — Whenever you attack, surveil 1. If you put a card in your graveyard this way, you may sacrifice a colorless permanent. When you do, return target land card in your graveyard to the battlefield tapped.
+
+RZ25 Sanae Kochiya
+rules_text: Flash
+[i]Cobalt Spread[/i] — When Sanae enters, investigate, then sacrifice any number of artifacts. Gain X life and draw X cards, where X is equal to half the number of artifacts sacrificed this way, rounded up. => Flash
+[i]Cobalt Spread[/i] — When Sanae enters, investigate, then sacrifice any number of artifacts. Gain that much life, then draw up to that many cards.
+pt: 4/3 => 3/3
+
+UZ03 Kagerou Imaizumi
+
+UZ05 Wakasagihime
+
+UZ24 Sekibanki
+
+UZ40 Star of Ingenious Brilliance
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of artifacts. For each artifact sacrificed this way, this spell costs {1} less to cast.
+Surveil X. For each land card put into your graveyard this way, return it to the battlefield tapped. => As an additional cost to cast this spell, you may sacrifice any number of artifacts. For each artifact sacrificed this way, this spell costs {W}, {U}, or {2} less to cast.
+Surveil X. For each land card put into your graveyard this way, return it to the battlefield tapped.
+
+CB16 Youma Book
+rules_text: Whenever one or more cards is put into exile from your hand, graveyard, and/or the battlefield, each opponent loses 1 life.
+{T}, Exile this artifact: Draw a card. Each player loses 1 life. => Whenever one or more other cards is put into exile from your hand, graveyard, and/or the battlefield, each opponent loses 1 life.
+{T}, Exile this artifact: Draw a card. Each player loses 1 life.
+
+CW15 Evil-Sealing Circle
+rules_text: Draw a card, then choose one or both —
+• Exile target card from an opponent's graveyard.
+• Put a face up card an opponent owns from exile into that player's graveyard. => Draw a card, then choose one or both —
+• Exile target card from an opponent's graveyard.
+• Put target face up card an opponent owns from exile into that player's graveyard.
+
+CG17 New Rivals on the Mountain
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and trample until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and has trample until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
+III — You may sacrifice a land. If you do, target creature you control gains “This creature gets +1/+1 for each land you control” and trample until end of turn.
+
+UZ08 Gathering of Divine Spirits
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may return target permanent you control to its owner's hand.
+II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
+III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+II — Clues you control have “{T}: Create a 1/1 colorless Spirit artifact creature token” until end of turn.
+III — Spirits you control gain flying until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may return target permanent you control to its owner's hand.
+II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
+III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+II — Clues you control have “{T}: Create a 1/1 colorless Spirit artifact creature token” until end of turn.
+III — Spirits you control gain flying until end of turn.
+
+RZ28 False Moon in the Sky
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures your opponents control get -1/-0 for as long as you control this Saga.
+II — This Saga gains “{T}: Untap another target permanent” until end of turn.
+III — Sacrifice any number of artifacts. Spells you cast this turn cost {1} less to cast for each artifact sacrificed this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures your opponents control get -1/-0 for as long as you control this Saga.
+II — Artifacts you control have “{T}: Untap target land” until end of turn.
+III — Sacrifice any number of artifacts. Return half that many target cards from your graveyard to your hand, rounded up.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures your opponents control get -1/-0 for as long as you control this Saga.
+II — This Saga gains “{T}: Untap another target permanent” until end of turn.
+III — Sacrifice any number of artifacts. Spells you cast this turn cost {1} less to cast for each artifact sacrificed this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures your opponents control get -1/-0 for as long as you control this Saga.
+II — Artifacts you control have “{T}: Untap target land” until end of turn.
+III — Sacrifice any number of artifacts. Return half that many target cards from your graveyard to your hand, rounded up.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 

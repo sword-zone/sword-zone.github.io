@@ -5,7 +5,7 @@
 			<name>GEN</name>
 			<longname>Gensokyo ~ Land of Fantasy</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-18</releasedate>
+			<releasedate>2026-11-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -293,7 +293,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		</card>
 		<card>
 			<name>CU06 Goliath Doll</name>
-			<text>This creature costs {1} less for each permanent you control with a charge counter on it.
+			<text>This creature costs {1} less for each charge counter on permanents you control.
 Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/16.png" num="47">GEN</set>
 			<prop>
@@ -2079,8 +2079,8 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>UG04 Chen</name>
-			<text>Whenever Chen enters or attacks, surveil 1. If you put a card into your graveyard this way, she gains haste until end of turn.
-Soaring Bishamonten — Whenever Chen becomes the target of a spell or ability, she gets +1/+1 until end of turn.</text>
+			<text>Haste
+Tianxian&apos;s Rumbling — Whenever you attack, surveil 1. If you put a card in your graveyard this way, you may sacrifice a colorless permanent. When you do, return target land card in your graveyard to the battlefield tapped.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/116.png" num="194">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3398,7 +3398,7 @@ Icicle Fall — If Cirno would take combat damage, instead remove that many moti
 		<card>
 			<name>RZ25 Sanae Kochiya</name>
 			<text>Flash
-Cobalt Spread — When Sanae enters, investigate, then sacrifice any number of artifacts. Gain X life and draw X cards, where X is equal to half the number of artifacts sacrificed this way, rounded up.</text>
+Cobalt Spread — When Sanae enters, investigate, then sacrifice any number of artifacts. Gain that much life, then draw up to that many cards.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/191.png" num="251">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3409,7 +3409,7 @@ Cobalt Spread — When Sanae enters, investigate, then sacrifice any number of a
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5307,7 +5307,7 @@ Midsummer Wingbeats — Whenever you sacrifice an artifact, creatures you contro
 		</card>
 		<card>
 			<name>UZ40 Star of Ingenious Brilliance</name>
-			<text>As an additional cost to cast this spell, you may sacrifice any number of artifacts. For each artifact sacrificed this way, this spell costs {1} less to cast.
+			<text>As an additional cost to cast this spell, you may sacrifice any number of artifacts. For each artifact sacrificed this way, this spell costs {W}, {U}, or {2} less to cast.
 Surveil X. For each land card put into your graveyard this way, return it to the battlefield tapped.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/298.png" num="321">GEN</set>
 			<prop>
@@ -5639,7 +5639,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>CB16 Youma Book</name>
-			<text>Whenever one or more cards is put into exile from your hand, graveyard, and/or the battlefield, each opponent loses 1 life.
+			<text>Whenever one or more other cards is put into exile from your hand, graveyard, and/or the battlefield, each opponent loses 1 life.
 {T}, Exile this artifact: Draw a card. Each player loses 1 life.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/316.png" num="98">GEN</set>
 			<prop>
@@ -6261,7 +6261,7 @@ Haunted creature has ward {1}.</text>
 			<name>CW15 Evil-Sealing Circle</name>
 			<text>Draw a card, then choose one or both —
 • Exile target card from an opponent&apos;s graveyard.
-• Put a face up card an opponent owns from exile into that player&apos;s graveyard.</text>
+• Put target face up card an opponent owns from exile into that player&apos;s graveyard.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/372.png" num="15">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6348,7 +6348,7 @@ III — Gain control of target creature until end of turn. Untap that creature. 
 			<name>CG17 New Rivals on the Mountain</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Search your library for a Forest or Mountain card, reveal that card, put it into your hand, then shuffle.
-III — You may sacrifice a land. If you do, target creature you control gains &quot;This creature gets +1/+1 for each land you control&quot; and has trample until end of turn.</text>
+III — You may sacrifice a land. If you do, target creature you control gains &quot;This creature gets +1/+1 for each land you control&quot; and trample until end of turn.</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/377.png" num="181">GEN</set>
 			<prop>
 				<layout>saga</layout>
@@ -6462,9 +6462,9 @@ III — Each player investigates. Exile two colorless permanents you control. (T
 		<card>
 			<name>UZ08 Gathering of Divine Spirits</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — You may return target permanent you control to its owner&apos;s hand.
-II — This Saga becomes a 2/2 Saga Spirit enchantment creature with flying and vigilance.
-III — Exile this Saga haunting target creature you control. Haunted creature gets +2/+2 and has flying and vigilance.</text>
+I — Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+II — Clues you control have &quot;{T}: Create a 1/1 colorless Spirit artifact creature token&quot; until end of turn.
+III — Spirits you control gain flying until end of turn.</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/383.png" num="289">GEN</set>
 			<prop>
 				<layout>saga</layout>
@@ -6558,8 +6558,8 @@ III — Creatures you control with power 6 or less get +6/+6 until end of turn.<
 			<name>RZ28 False Moon in the Sky</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Creatures your opponents control get -1/-0 for as long as you control this Saga.
-II — This Saga gains &quot;{T}: Untap another target permanent&quot; until end of turn.
-III — Sacrifice any number of artifacts. Spells you cast this turn cost {1} less to cast for each artifact sacrificed this way.</text>
+II — Artifacts you control have &quot;{T}: Untap target land&quot; until end of turn.
+III — Sacrifice any number of artifacts. Return half that many target cards from your graveyard to your hand, rounded up.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/388.png" num="254">GEN</set>
 			<prop>
 				<layout>saga</layout>
