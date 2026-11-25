@@ -1,4 +1,60 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+CU06 Goliath Doll
+rules_text: This creature costs {1} less for each charge counter on permanents you control.
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => This creature costs {1} less for each charge counter on permanents you control.
+Ward {2}
+
+RB02 Yuyuko Saigyouji
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+[i]Ghostly Butterfly[/i] — When Yuyuko enters, destroy target creature.
+Haunted creature has deathtouch. => Haunt
+[i]Ghostly Butterfly[/i] — When Yuyuko enters, destroy target creature.
+Haunted creature has deathtouch.
+
+RR04 Danmaku Business Boom
+rules_text: This spell can't be copied.
+Copy target instant, sorcery, or spell with spellcard. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => This spell can't be copied.
+Copy target instant, sorcery, or spell with spellcard. You may choose new targets for the copy.
+
+CA05 Oboroguruma
+rules_text: Whenever another colorless nonland permanent enters the battlefield under your control, this Vehicle becomes a Horror artifact creature until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever another colorless nonland permanent enters the battlefield under your control, this Vehicle becomes a Horror artifact creature until end of turn.
+Crew 3
+
+UA03 Shinigami's Boat
+rules_text: Whenever this Vehicle attacks, tap target creature.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle attacks, tap target creature.
+Crew 1
+
+UA04 Palanquin Ship
+rules_text: Flying, vigilance
+The first time you crew this Vehicle each turn, untap up to one creature that crewed it.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, vigilance
+The first time you crew this Vehicle each turn, untap up to one creature that crewed it.
+Crew 4
+
+MZ09 Mima
+rules_text: Cards in your graveyard and spells cast from your graveyard have flash.
+[i]Orrery's Sun[/i] —At the beginning of your end step, you may discard a card. If you do, target instant or sorcery card in your graveyard gains lunatic {1} until end of turn.
+Lunatic {U}{B}{R} => Cards in your graveyard and spells cast from your graveyard have flash.
+[i]Orrery's Sun[/i] — At the beginning of your end step, you may discard a card. If you do, target instant or sorcery card in your graveyard gains lunatic {1} until end of turn.
+Lunatic {U}{B}{R}
+
+RA01 Unidentified Flying Object
+rules_text: Flying, haunt
+Equipped or haunted creature gets +2/+2 and has flying.
+Equip {2}
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can't be attached to other permanents.)[/i] => Flying, haunt
+Equipped or haunted creature gets +2/+2 and has flying.
+Equip {2}
+Crew 2 [i](Creatures can't be attached to other permanents.)[/i]
+
+
+VERSION 31 CHANGELOG
 ====================
 
 

@@ -294,7 +294,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		<card>
 			<name>CU06 Goliath Doll</name>
 			<text>This creature costs {1} less for each charge counter on permanents you control.
-Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+Ward {2}</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/16.png" num="47">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2529,7 +2529,7 @@ Absolute Loser — {B}, {T}, Discard a card: Choose one —
 		</card>
 		<card>
 			<name>RB02 Yuyuko Saigyouji</name>
-			<text>Haunt (When this creature dies, exile it haunting target creature.)
+			<text>Haunt
 Ghostly Butterfly — When Yuyuko enters, destroy target creature.
 Haunted creature has deathtouch.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/141.png" num="103">GEN</set>
@@ -2676,7 +2676,7 @@ The Crow who Stole the Sun — When you cast Utsuho, she deals damage to each cr
 		<card>
 			<name>RR04 Danmaku Business Boom</name>
 			<text>This spell can&apos;t be copied.
-Copy target instant, sorcery, or spell with spellcard. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+Copy target instant, sorcery, or spell with spellcard. You may choose new targets for the copy.</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/149.png" num="146">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3096,7 +3096,7 @@ When you cast this spell, if it has flash, gain 3 life.</text>
 		<card>
 			<name>CA05 Oboroguruma</name>
 			<text>Whenever another colorless nonland permanent enters the battlefield under your control, this Vehicle becomes a Horror artifact creature until end of turn.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 3</text>
 			<set rarity="common" picurl="https://sword-zone.github.io/sets/GEN-files/img/173.png" num="336">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3144,7 +3144,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 		<card>
 			<name>UA03 Shinigami&apos;s Boat</name>
 			<text>Whenever this Vehicle attacks, tap target creature.
-Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 1</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/176.png" num="347">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3194,7 +3194,7 @@ At the beginning of your upkeep, put a charge counter on target permanent.
 			<name>UA04 Palanquin Ship</name>
 			<text>Flying, vigilance
 The first time you crew this Vehicle each turn, untap up to one creature that crewed it.
-Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 4</text>
 			<set rarity="uncommon" picurl="https://sword-zone.github.io/sets/GEN-files/img/179.png" num="348">GEN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3508,7 +3508,7 @@ Doppler Effect — At the beginning of each of your postcombat main phases, ther
 		<card>
 			<name>MZ09 Mima</name>
 			<text>Cards in your graveyard and spells cast from your graveyard have flash.
-Orrery&apos;s Sun —At the beginning of your end step, you may discard a card. If you do, target instant or sorcery card in your graveyard gains lunatic {1} until end of turn.
+Orrery&apos;s Sun — At the beginning of your end step, you may discard a card. If you do, target instant or sorcery card in your graveyard gains lunatic {1} until end of turn.
 Lunatic {U}{B}{R}</text>
 			<set rarity="mythic" picurl="https://sword-zone.github.io/sets/GEN-files/img/197.png" num="219">GEN</set>
 			<prop>
@@ -5592,7 +5592,7 @@ The first creature that enters under your control each turn gains haste until en
 			<text>Flying, haunt
 Equipped or haunted creature gets +2/+2 and has flying.
 Equip {2}
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can&apos;t be attached to other permanents.)</text>
+Crew 2 (Creatures can&apos;t be attached to other permanents.)</text>
 			<set rarity="rare" picurl="https://sword-zone.github.io/sets/GEN-files/img/313.png" num="343">GEN</set>
 			<prop>
 				<layout>normal</layout>
